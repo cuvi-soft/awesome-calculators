@@ -1,202 +1,3889 @@
-# awesome-calculators
-collection of calculator
 
-# Financial Calculators
-- Mortgage Calculator	
-- Loan Calculator
-- Auto Loan Calculator	
-- Interest Calculator
-- Payment Calculator	
-- Retirement Calculator
-- Amortization Calculator	
-- Investment Calculator
-- Currency Calculator	
-- Inflation Calculator
-- Finance Calculator	
-- Mortgage Payoff Calculator
-- Income Tax Calculator
-- Compound Interest Calculator
-- Salary Calculator	
-- 401K Calculator
--Interest Rate Calculator
-- Sales Tax Calculator
-- House Affordability Calculator	
-- Savings Calculator
-- Rent Calculator
-- Marriage Tax Calculator
-- Estate Tax Calculator
-- Pension Calculator
-- Social Security Calculator	
-- Annuity Calculator
-- Annuity Payout Calculator	
-- Credit Card Calculator
-- Credit Cards Payoff Calculator
-- Debt Payoff Calculator
-- Debt Consolidation Calculator
-- Repayment Calculator
-- Student Loan Calculator
-- College Cost Calculator
-- Simple Interest Calculator
-- CD Calculator
-- Roth IRA Calculator
-- IRA Calculator
-- RMD Calculator	
-- VAT Calculator
-- Cash Back or Low Interest Calculator	
-- Auto Lease Calculator
-- Depreciation Calculator
-- Average Return Calculator
-- Margin Calculator	
-- Discount Calculator
-- Business Loan Calculator
-- Debt-to-Income Ratio Calculator
-- Real Estate Calculator	
-- Take-Home-Paycheck Calculator
-- Personal Loan Calculator
-- Lease Calculator
-- Refinance Calculator	
-- Budget Calculator
-- Rental Property Calculator	
-- ROI Calculator
-- APR Calculator	
-- FHA Loan Calculator
-- VA Mortgage Calculator	
-- Down Payment Calculator
-- Rent vs. Buy Calculator	
-- Payback Period Calculator
-- Present Value Calculator	
-- Future Value Calculator
-- Commission Calculator	
-- Mortgage Calculator UK
-- Canadian Mortgage Calculator	
-- Mortgage Amortization Calculator
-- Percent Off Calculator	 
-# Fitness and Health Calculators
-- BMI Calculator	
-- Calorie Calculator
-- Body Fat Calculator
-- BMR Calculator
-- Macro Calculator	
-- Ideal Weight Calculator
-- Pregnancy Calculator
-- Pregnancy Weight Gain Calculator
-- Pregnancy Conception Calculator
-- Due Date Calculator
-- Pace Calculator
-- Army Body Fat Calculator
-- Weight Watcher Points Calculator
-- Carbohydrate Calculator
-- Lean Body Mass Calculator	
-- Healthy Weight Calculator
-- Calories Burned Calculator	
-- Protein Calculator
-- Fat Intake Calculator	
-- TDEE Calculator
-- Ovulation Calculator
-- Conception Calculator
-- Period Calculator
-- GFR Calculator
-- Body Type Calculator
-- Body Surface Area Calculator
-- BAC Calculator
-- Anorexic BMI Calculator
-- Overweight Calculator	 
-# Math Calculators
-- Scientific Calculator	
-- Fraction Calculator
-- Percentage Calculator
-- 	Triangle Calculator
-- Volume Calculator	
-- Standard Deviation Calculator
-- Random Number Generator	
-- Number Sequence Calculator
-- Percent Error Calculator
-- 	Exponent Calculator
-- Binary Calculator
-- 	Hex Calculator
-- Half-Life Calculator
-- 	Quadratic Formula Calculator
-- Slope Calculator
-- 	Log Calculator
-- Area Calculator
-- 	Sample Size Calculator
-- Probability Calculator	
-- Statistics Calculator
-- Mean, Median, Mode, Range Calculator	
-- Permutation and Combination Calculator
-- Z-score Calculator
-- 	Confidence Interval Calculator
-- Ratio Calculator	
-- Distance Calculator
-- Circle Calculator
-- 	Surface Area Calculator
-- Pythagorean Theorem Calculator	
-- Right Triangle Calculator
-- Root Calculator- 
-- 	Least Common Multiple Calculator
-- Greatest Common Factor Calculator
-- 	Factor Calculator
-- Rounding Calculator
-- 	Matrix Calculator
-- Scientific Notation Calculator	
-- Big Number Calculator
-- Prime Factorization Calculator	
-- Common Factor Calculator
-- Basic Calculator
-- 	Long Division Calculator
-- Average Calculator
-- 	P-value Calculator
-# Other Calculators
-- Age Calculator	
-- Date Calculator
-- Time Calculator
-- 	Hours Calculator
-- GPA Calculator	
-- Grade Calculator
-- Height Calculator	
-- Concrete Calculator
-- IP Subnet Calculator
-- 	Bra Size Calculator
-- Password Generator	
-- Dice Roller
-- Conversion Calculator
-- 	Fuel Cost Calculator
-- Voltage Drop Calculator	
-- BTU Calculator
-- Square Footage Calculator
-- 	Time Card Calculator
-- Time Zone Calculator	
-- Love Calculator
-- GDP Calculator
-- 	Gas Mileage Calculator
-- Horsepower Calculator	
-- Engine Horsepower Calculator
-- Stair Calculator	
-- Resistor Calculator
-- Ohms Law Calculator	
-- Electricity Calculator
-- Tip Calculator
-- 	Mileage Calculator
-- Density Calculator	
-- Mass Calculator
-- Weight Calculator
-- 	Golf Handicap Calculator
-- Sleep Calculator	
-- Tire Size Calculator
-- Roofing Calculator
-- 	Tile Calculator
-- Mulch Calculator
-- 	Gravel Calculator
-- Wind Chill Calculator
-- 	Heat Index Calculator
-- Dew Point Calculator	
-- Bandwidth Calculator
-- Time Duration Calculator	
-- Day Counter
-- Day of the Week Calculator	 
-# Calculators for Your Site
-- Mortgage Calculator for Your Site
-- 	Math Calculator for Your Site
-- Scientific Calculator for Your Site
-- 	Love Calculator for Your Site
-- Concrete Calculator for Your Site
+### [Financial Calculators](/financial-calculator.html)
+
+[Mortgage Calculator](/mortgage-calculator.html)
+
+[Loan Calculator](/loan-calculator.html)
+
+[Auto Loan Calculator](/auto-loan-calculator.html)
+
+[Interest Calculator](/interest-calculator.html)
+
+[Payment Calculator](/payment-calculator.html)
+
+[Retirement Calculator](/retirement-calculator.html)
+
+[Amortization Calculator](/amortization-calculator.html)
+
+[Investment Calculator](/investment-calculator.html)
+
+[Currency Calculator](/currency-calculator.html)
+
+[Inflation Calculator](/inflation-calculator.html)
+
+[Finance Calculator](/finance-calculator.html)
+
+[Mortgage Payoff Calculator](/mortgage-payoff-calculator.html)
+
+[Income Tax Calculator](/tax-calculator.html)
+
+[Compound Interest Calculator](/compound-interest-calculator.html)
+
+[Salary Calculator](/salary-calculator.html)
+
+[401K Calculator](/401k-calculator.html)
+
+[Interest Rate Calculator](/interest-rate-calculator.html)
+
+[Sales Tax Calculator](/sales-tax-calculator.html)
+
+[House Affordability Calculator](/house-affordability-calculator.html)
+
+[Savings Calculator](/savings-calculator.html)
+
+[Rent Calculator](/rent-calculator.html)
+
+[Marriage Tax Calculator](/marriage-calculator.html)
+
+[Estate Tax Calculator](/estate-tax-calculator.html)
+
+[Pension Calculator](/pension-calculator.html)
+
+[Social Security Calculator](/social-security-calculator.html)
+
+[Annuity Calculator](/annuity-calculator.html)
+
+[Annuity Payout Calculator](/annuity-payout-calculator.html)
+
+[Credit Card Calculator](/credit-card-calculator.html)
+
+[Credit Cards Payoff Calculator](/credit-card-payoff-calculator.html)
+
+[Debt Payoff Calculator](/debt-payoff-calculator.html)
+
+[Debt Consolidation Calculator](/debt-consolidation-calculator.html)
+
+[Repayment Calculator](/repayment-calculator.html)
+
+[Student Loan Calculator](/student-loan-calculator.html)
+
+[College Cost Calculator](/college-cost-calculator.html)
+
+[Simple Interest Calculator](/simple-interest-calculator.html)
+
+[CD Calculator](/cd-calculator.html)
+
+[Roth IRA Calculator](/roth-ira-calculator.html)
+
+[IRA Calculator](/ira-calculator.html)
+
+[RMD Calculator](/rmd-calculator.html)
+
+[VAT Calculator](/vat-calculator.html)
+
+[Cash Back or Low Interest Calculator](/cash-back-or-low-interest-calculator.html)
+
+[Auto Lease Calculator](/auto-lease-calculator.html)
+
+[Depreciation Calculator](/depreciation-calculator.html)
+
+[Average Return Calculator](/average-return-calculator.html)
+
+[Margin Calculator](/margin-calculator.html)
+
+[Discount Calculator](/discount-calculator.html)
+
+[Business Loan Calculator](/business-loan-calculator.html)
+
+[Debt-to-Income Ratio Calculator](/debt-ratio-calculator.html)
+
+[Real Estate Calculator](/real-estate-calculator.html)
+
+[Take-Home-Paycheck Calculator](/take-home-pay-calculator.html)
+
+[Personal Loan Calculator](/personal-loan-calculator.html)
+
+[Lease Calculator](/lease-calculator.html)
+
+[Refinance Calculator](/refinance-calculator.html)
+
+[Budget Calculator](/budget-calculator.html)
+
+[Rental Property Calculator](/rental-property-calculator.html)
+
+[ROI Calculator](/roi-calculator.html)
+
+[APR Calculator](/apr-calculator.html)
+
+[FHA Loan Calculator](/fha-loan-calculator.html)
+
+[VA Mortgage Calculator](/va-mortgage-calculator.html)
+
+[Down Payment Calculator](/down-payment-calculator.html)
+
+[Rent vs. Buy Calculator](/rent-vs-buy-calculator.html)
+
+[Payback Period Calculator](/payback-period-calculator.html)
+
+[Present Value Calculator](/present-value-calculator.html)
+
+[Future Value Calculator](/future-value-calculator.html)
+
+[Commission Calculator](/commission-calculator.html)
+
+[Mortgage Calculator UK](/mortgage-calculator-uk.html)
+
+[Canadian Mortgage Calculator](/canadian-mortgage-calculator.html)
+
+[Mortgage Amortization Calculator](/mortgage-amortization-calculator.html)
+
+[Percent Off Calculator](/percent-off-calculator.html)
+
+ 
+
+### [Fitness and Health Calculators](/fitness-and-health-calculator.html)
+
+[BMI Calculator](/bmi-calculator.html)
+
+[Calorie Calculator](/calorie-calculator.html)
+
+[Body Fat Calculator](/body-fat-calculator.html)
+
+[BMR Calculator](/bmr-calculator.html)
+
+[Macro Calculator](/macro-calculator.html)
+
+[Ideal Weight Calculator](/ideal-weight-calculator.html)
+
+[Pregnancy Calculator](/pregnancy-calculator.html)
+
+[Pregnancy Weight Gain Calculator](/pregnancy-weight-gain-calculator.html)
+
+[Pregnancy Conception Calculator](/pregnancy-conception-calculator.html)
+
+[Due Date Calculator](/due-date-calculator.html)
+
+[Pace Calculator](/pace-calculator.html)
+
+[Army Body Fat Calculator](/army-body-fat-calculator.html)
+
+[Weight Watcher Points Calculator](/weight-watchers-points-calculator.html)
+
+[Carbohydrate Calculator](/carbohydrate-calculator.html)
+
+[Lean Body Mass Calculator](/lean-body-mass-calculator.html)
+
+[Healthy Weight Calculator](/healthy-weight-calculator.html)
+
+[Calories Burned Calculator](/calories-burned-calculator.html)
+
+[Protein Calculator](/protein-calculator.html)
+
+[Fat Intake Calculator](/fat-intake-calculator.html)
+
+[TDEE Calculator](/tdee-calculator.html)
+
+[Ovulation Calculator](/ovulation-calculator.html)
+
+[Conception Calculator](/conception-calculator.html)
+
+[Period Calculator](/period-calculator.html)
+
+[GFR Calculator](/gfr-calculator.html)
+
+[Body Type Calculator](/body-type-calculator.html)
+
+[Body Surface Area Calculator](/body-surface-area-calculator.html)
+
+[BAC Calculator](/bac-calculator.html)
+
+[Anorexic BMI Calculator](/anorexic-bmi-calculator.html)
+
+[Overweight Calculator](/overweight-calculator.html)
+
+ 
+
+### [Math Calculators](/math-calculator.html)
+
+[Scientific Calculator](/scientific-calculator.html)
+
+[Fraction Calculator](/fraction-calculator.html)
+
+[Percentage Calculator](/percent-calculator.html)
+
+[Triangle Calculator](/triangle-calculator.html)
+
+[Volume Calculator](/volume-calculator.html)
+
+[Standard Deviation Calculator](/standard-deviation-calculator.html)
+
+[Random Number Generator](/random-number-generator.html)
+
+[Number Sequence Calculator](/number-sequence-calculator.html)
+
+[Percent Error Calculator](/percent-error-calculator.html)
+
+[Exponent Calculator](/exponent-calculator.html)
+
+[Binary Calculator](/binary-calculator.html)
+
+[Hex Calculator](/hex-calculator.html)
+
+[Half-Life Calculator](/half-life-calculator.html)
+
+[Quadratic Formula Calculator](/quadratic-formula-calculator.html)
+
+[Slope Calculator](/slope-calculator.html)
+
+[Log Calculator](/log-calculator.html)
+
+[Area Calculator](/area-calculator.html)
+
+[Sample Size Calculator](/sample-size-calculator.html)
+
+[Probability Calculator](/probability-calculator.html)
+
+[Statistics Calculator](/statistics-calculator.html)
+
+[Mean, Median, Mode, Range Calculator](/mean-median-mode-range-calculator.html)
+
+[Permutation and Combination Calculator](/permutation-and-combination-calculator.html)
+
+[Z-score Calculator](/z-score-calculator.html)
+
+[Confidence Interval Calculator](/confidence-interval-calculator.html)
+
+[Ratio Calculator](/ratio-calculator.html)
+
+[Distance Calculator](/distance-calculator.html)
+
+[Circle Calculator](/circle-calculator.html)
+
+[Surface Area Calculator](/surface-area-calculator.html)
+
+[Pythagorean Theorem Calculator](/pythagorean-theorem-calculator.html)
+
+[Right Triangle Calculator](/right-triangle-calculator.html)
+
+[Root Calculator](/root-calculator.html)
+
+[Least Common Multiple Calculator](/lcm-calculator.html)
+
+[Greatest Common Factor Calculator](/gcf-calculator.html)
+
+[Factor Calculator](/factor-calculator.html)
+
+[Rounding Calculator](/rounding-calculator.html)
+
+[Matrix Calculator](/matrix-calculator.html)
+
+[Scientific Notation Calculator](/scientific-notation-calculator.html)
+
+[Big Number Calculator](/big-number-calculator.html)
+
+[Prime Factorization Calculator](/prime-factorization-calculator.html)
+
+[Common Factor Calculator](/common-factor-calculator.html)
+
+[Basic Calculator](/basic-calculator.html)
+
+[Long Division Calculator](/long-division-calculator.html)
+
+[Average Calculator](/average-calculator.html)
+
+[P-value Calculator](/p-value-calculator.html)
+
+### [Other Calculators](/other-calculator.html)
+
+[Age Calculator](/age-calculator.html)
+
+[Date Calculator](/date-calculator.html)
+
+[Time Calculator](/time-calculator.html)
+
+[Hours Calculator](/hours-calculator.html)
+
+[GPA Calculator](/gpa-calculator.html)
+
+[Grade Calculator](/grade-calculator.html)
+
+[Height Calculator](/height-calculator.html)
+
+[Concrete Calculator](/concrete-calculator.html)
+
+[IP Subnet Calculator](/ip-subnet-calculator.html)
+
+[Bra Size Calculator](/bra-size-calculator.html)
+
+[Password Generator](/password-generator.html)
+
+[Dice Roller](/dice-roller.html)
+
+[Conversion Calculator](/conversion-calculator.html)
+
+[Fuel Cost Calculator](/fuel-cost-calculator.html)
+
+[Voltage Drop Calculator](/voltage-drop-calculator.html)
+
+[BTU Calculator](/btu-calculator.html)
+
+[Square Footage Calculator](/square-footage-calculator.html)
+
+[Time Card Calculator](/time-card-calculator.html)
+
+[Time Zone Calculator](/time-zone-calculator.html)
+
+[Love Calculator](/love-calculator.html)
+
+[GDP Calculator](/gdp-calculator.html)
+
+[Gas Mileage Calculator](/gas-mileage-calculator.html)
+
+[Horsepower Calculator](/horsepower-calculator.html)
+
+[Engine Horsepower Calculator](/engine-horsepower-calculator.html)
+
+[Stair Calculator](/stair-calculator.html)
+
+[Resistor Calculator](/resistor-calculator.html)
+
+[Ohms Law Calculator](/ohms-law-calculator.html)
+
+[Electricity Calculator](/electricity-calculator.html)
+
+[Tip Calculator](/tip-calculator.html)
+
+[Mileage Calculator](/mileage-calculator.html)
+
+[Density Calculator](/density-calculator.html)
+
+[Mass Calculator](/mass-calculator.html)
+
+[Weight Calculator](/weight-calculator.html)
+
+[Golf Handicap Calculator](/golf-handicap-calculator.html)
+
+[Sleep Calculator](/sleep-calculator.html)
+
+[Tire Size Calculator](/tire-size-calculator.html)
+
+[Roofing Calculator](/roofing-calculator.html)
+
+[Tile Calculator](/tile-calculator.html)
+
+[Mulch Calculator](/mulch-calculator.html)
+
+[Gravel Calculator](/gravel-calculator.html)
+
+[Wind Chill Calculator](/wind-chill-calculator.html)
+
+[Heat Index Calculator](/heat-index-calculator.html)
+
+[Dew Point Calculator](/dew-point-calculator.html)
+
+[Bandwidth Calculator](/bandwidth-calculator.html)
+
+[Time Duration Calculator](/time-duration-calculator.html)
+
+[Day Counter](/day-counter.html)
+
+[Day of the Week Calculator](/day-of-the-week-calculator.html)
+
+Biology
+=======
+
+Horticulture calculators 🌼
+---------------------------
+
+*   [Bulb spacing](/biology/bulb-spacing)
+*   [Compost](/biology/compost)
+*   [Fertilizer](/biology/fertilizer)
+*   [Grass seed](/biology/grass-seed)
+*   [Lawn mowing](/biology/mowing-cost)
+*   [Mulch](/biology/mulch)
+*   [Plant spacing](/biology/plants)
+*   [Potting soil](/biology/potting-soil-calculator)
+*   [Sod](/biology/sod)
+*   [Soil](/biology/soil)
+*   [Tree spacing](/biology/tree-spacing)
+*   [Vapor pressure deficit chart](/biology/vapor-pressure-deficit)
+*   [Water soluble fertilizer](/biology/water-soluble-fertilizer)
+
+Agriculture calculators 🌾
+--------------------------
+
+*   [Animal mortality rate](/biology/animal-mortality-rate)
+*   [Cattle per acre](/biology/cattle-per-acre)
+*   [Corn yield](/biology/corn-yield)
+*   [Cow gestation](/biology/cow-gestation)
+*   [Feed conversion ratio](/biology/fcr)
+*   [Grain bin](/biology/grain-bin)
+*   [Livestock fence cost](/biology/livestock-fence)
+*   [Plant population](/biology/plant-population)
+*   [Sheep gestation](/biology/sheep-gestation)
+*   [Swine gestation](/biology/swine-gestation)
+*   [Vegetable seed](/biology/vegetable-seed)
+*   [Vegetable yield](/biology/vegetable-yield)
+*   [Water potential](/biology/water-potential)
+
+Pets calculators 🐕
+-------------------
+
+*   [Benadryl dosage for dogs](/biology/benadryl-dosage-for-dogs)
+*   [Bird age](/biology/bird-age)
+*   [Cat age](/biology/cat-age)
+*   [Cat Benadryl dosage](/biology/cat-benadryl-dosage)
+*   [Cat BMI](/biology/cat-bmi)
+*   [Cat calorie](/biology/cat-calorie)
+*   [Cat chocolate toxicity](/biology/cat-chocolate-toxicity)
+*   [Catculator](/biology/catculator)
+*   [Cat pregnancy](/biology/cat-pregnancy)
+*   [Cat quality of life](/biology/cat-quality-of-life)
+*   [Cephalexin for dogs dosage](/biology/cephalexin-for-dogs-dosage)
+*   [Dog age](/biology/dog-age)
+*   [Dog BMI](/biology/dog-bmi)
+*   [Dog calorie](/biology/dog-calorie)
+*   [Dog chocolate toxicity](/biology/dog-chocolate-toxicity)
+*   [Dog food](/biology/dog-food)
+*   [Dog heat cycle](/biology/dog-heat-cycle)
+*   [Dog life expectancy](/biology/dog-life-expectancy)
+*   [Dog Metacam dosage](/biology/dog-metacam)
+*   [Dog pregnancy](/biology/dog-pregnancy)
+*   [Dog quality of life](/biology/dog-quality-of-life)
+*   [Dog raisin toxicity](/biology/dog-raisin-toxicity)
+*   [Dog size](/biology/dog-size)
+*   [Dog water intake](/biology/dog-water-intake)
+*   [Dry matter](/biology/dry-matter)
+*   [Fish oil dosage for cats](/biology/fish-oil-dosage-for-cats)
+*   [Goat gestation](/biology/goat-gestation)
+*   [Guinea pig pregnancy](/biology/guinea-pig-pregnancy)
+*   [Hamster age](/biology/hamster-age)
+*   [Horse gestation](/biology/horse-gestation)
+*   [Horse weight](/biology/horse-weight)
+*   [How big will my cat get](/biology/how-big-will-my-cat-get)
+*   [Llama](/biology/llama)
+*   [Metacam dosage for cats](/biology/metacam-dosage-cat)
+*   [Omega-3 for dogs](/biology/omega-3-for-dogs)
+*   [Rabbit color](/biology/rabbit-color)
+*   [Rabbit gestation](/biology/rabbit-gestation)
+*   [Rat cage](/biology/rat-cage)
+*   [The cost of owning a dog](/biology/the-cost-of-owning-a-dog)
+*   [Tramadol for dogs](/biology/tramadol-for-dogs)
+*   [Turtle tank](/biology/turtle-tank)
+
+Genetics calculators 🧬
+-----------------------
+
+*   [Allele frequency](/biology/allele-frequency)
+*   [Annealing temperature](/biology/annealing-temperature)
+*   [Dihybrid cross Punnet square](/biology/dihybrid-cross-punnett-square)
+*   [DNA concentration](/biology/dna-concentration)
+*   [Ligation](/biology/ligation)
+*   [Punnett square](/biology/punnett-square)
+*   [Trihybrid cross Punnet square](/biology/trihybrid-cross-punnett-square)
+
+Other calculators
+-----------------
+
+*   [Bacteria Growth Calculator](/biology/bacteria-growth)
+*   [Basal area](/biology/basal-area)
+*   [Carrying capacity](/biology/carrying-capacity)
+*   [Cell doubling time](/biology/cell-doubling-time)
+*   [Crickets chirping thermometer](/biology/cricket-chirp-thermometer)
+*   [Leaves on tree](/biology/tree-leaves)
+*   [Log Reduction](/biology/log-reduction)
+*   [Mixed liquor volatile suspended solids](/biology/mlvss)
+*   [Protein molecular weight](/biology/protein-molecular-weight)
+*   [Tree age](/biology/tree-age)
+*   [Tree diameter](/biology/tree-diameter)
+*   [Tree height](/biology/tree-height)
+*   [Tree value](/biology/tree-value)
+*   [Wastewater](/biology/wastewater)
+
+Chemistry
+=========
+
+Biochemistry calculators 🧫
+---------------------------
+
+*   [Buffer capacity](/chemistry/buffer-capacity)
+*   [Buffer - pH](/chemistry/buffer-ph)
+*   [Cell EMF](/chemistry/electromotive-force)
+*   [Henderson Hasselbalch](/chemistry/henderson-hasselbalch)
+*   [Michaelis-Menten equation](/chemistry/michaelis-menten-equation)
+*   [Osmotic pressure](/chemistry/osmotic-pressure)
+*   [Rate constant](/chemistry/rate-constant)
+
+Physical chemistry calculators ⚗️
+---------------------------------
+
+*   [Air-fuel ratio (AFR)](/chemistry/air-fuel-ratio-afr)
+*   [Arrhenius equation](/chemistry/arrhenius-equation)
+*   [Atomic mass](/chemistry/atomic-mass)
+*   [Average atomic mass](/chemistry/average-atomic-mass)
+*   [Beer-Lambert law](/chemistry/beer-lambert-law)
+*   [Boiling point](/chemistry/boiling-point)
+*   [Boiling point at altitude](/chemistry/boiling-point-altitude)
+*   [Cubic cell](/chemistry/cubic-cell)
+*   [Effective charge](/chemistry/effective-charge)
+*   [Electrolysis](/chemistry/electrolysis)
+*   [Electronegativity](/chemistry/electronegativity)
+*   [Entropy](/chemistry/entropy)
+*   [Freezing point depression](/chemistry/freezing-point-depression)
+*   [Gibbs free energy](/chemistry/gibbs-energy)
+*   [Gibbs' phase rule](/chemistry/phase-rule)
+*   [Graham's law of diffusion](/chemistry/grahams-law-of-diffusion)
+*   [Half life](/chemistry/half-life)
+*   [Heat of combustion](/chemistry/heat-of-combustion)
+*   [Langmuir isotherm](/chemistry/langmuir-isotherm)
+*   [Lattice energy](/chemistry/lattice-energy)
+*   [Liquid ethylene density](/chemistry/liquid-ethylene-density)
+*   [Miller indices](/chemistry/miller-indices)
+*   [Molar mass of gas](/chemistry/molar-mass-of-gas)
+*   [Molar ratio](/chemistry/molar-ratio)
+*   [Molecular weight](/chemistry/molecular-weight)
+*   [Nernst equation](/chemistry/nernst-equation)
+*   [Partial pressure](/chemistry/partial-pressure)
+*   [Percent composition](/chemistry/percent-composition)
+*   [Quantum number](/chemistry/quantum-number)
+*   [Radioactive decay](/chemistry/radioactive-decay)
+*   [Radiocarbon dating](/chemistry/carbon-dating)
+*   [STP (Standard temperature and pressure)](/chemistry/standard-temperature-and-pressure)
+*   [Surface tension](/chemistry/surface-tension)
+*   [Two-photon absorption](/chemistry/two-photon-absorption)
+*   [Vapor pressure](/chemistry/vapor-pressure)
+*   [Vapor pressure of water](/chemistry/vapour-pressure-of-water)
+
+Stoichiometry and solutions calculators 🧪
+------------------------------------------
+
+*   [Actual yield](/chemistry/actual-yield)
+*   [Alligation](/chemistry/alligation)
+*   [Atom](/chemistry/atom)
+*   [Avogadro's number](/chemistry/avogadro)
+*   [Bleach dilution](/chemistry/bleach-dilution)
+*   [Boiling point elevation](/chemistry/boiling-point-elevation)
+*   [Bond order](/chemistry/bond-order)
+*   [Calibration curve](/chemistry/calibration-curve)
+*   [Combustion analysis](/chemistry/combustion-analysis)
+*   [Combustion reaction](/chemistry/combustion-reaction)
+*   [Concentration](/chemistry/concentration)
+*   [Degree of unsaturation](/chemistry/degree-of-unsaturation)
+*   [Dilution factor](/chemistry/dilution-factor)
+*   [Equilibrium constant](/chemistry/equilibrium-constant)
+*   [Grams to moles](/chemistry/grams-to-moles)
+*   [Ionic strength](/chemistry/ionic-strength)
+*   [Isoelectric point](/chemistry/isoelectric-point)
+*   [Kp](/chemistry/kp)
+*   [Mass percent](/chemistry/mass-percent)
+*   [Mixing ratio](/chemistry/mixing-ratio)
+*   [Molality](/chemistry/molality)
+*   [Molarity](/chemistry/molarity)
+*   [Mole](/chemistry/mole)
+*   [Mole fraction](/chemistry/mole-fraction)
+*   [Neutralization](/chemistry/neutralization)
+*   [Percentage concentration to molarity](/chemistry/percentage-concentration-to-molarity)
+*   [Percent yield](/chemistry/percent-yield)
+*   [pH](/chemistry/ph)
+*   [ppm to molarity](/chemistry/ppm-to-molarity)
+*   [Protein solubility](/chemistry/protein-solubility)
+*   [Raoult's law](/chemistry/raoults-law)
+*   [Reaction quotient](/chemistry/reaction-quotient)
+*   [Reconstitution](/chemistry/reconstitution)
+*   [Serial dilution](/chemistry/serial-dilution)
+*   [Solution dilution](/chemistry/solution-dilution)
+*   [Sulfur](/chemistry/sulfur)
+*   [TDS](/chemistry/tds)
+*   [Theoretical yield](/chemistry/theoretical-yield)
+*   [Titration](/chemistry/titration)
+*   [Water hardness](/chemistry/water-hardness)
+
+Other calculators
+-----------------
+
+*   [Activation energy](/chemistry/activation-energy)
+*   [Chemical name](/chemistry/chemical-name)
+*   [Detention time](/chemistry/detention-time)
+*   [Hydraulic retention time](/chemistry/hydraulic-retention-time)
+
+Construction
+============
+
+Construction converters 👷
+--------------------------
+
+*   [Board foot](/construction/board-foot)
+*   [Cubic yard](/construction/cubic-yard)
+*   [Gallons per square foot](/construction/gallons-per-square-foot)
+*   [Size to weight (rectangular box)](/construction/size-to-weight-rectangular-cuboid)
+*   [Square feet to cubic yards](/construction/ft2-yd3)
+*   [Square footage](/construction/square-footage)
+*   [Square yards](/construction/square-yards)
+
+Construction materials calculators 🏗️
+--------------------------------------
+
+*   [Aluminum weight](/construction/aluminum-weight)
+*   [Baluster](/construction/baluster)
+*   [Beam load](/construction/beam-load)
+*   [Bolt circle](/construction/bolt-circle)
+*   [Brick](/construction/brick)
+*   [Cement](/construction/cement)
+*   [Concrete](/construction/concrete-slab)
+*   [Concrete block](/construction/concrete-block)
+*   [Concrete block fill](/construction/concrete-block-fill)
+*   [Concrete - column](/construction/concrete-column)
+*   [Concrete - tube](/construction/concrete-tube)
+*   [Concrete weight](/construction/concrete-weight)
+*   [Decking](/construction/decking)
+*   [DIY shed cost](/construction/diy-shed-cost)
+*   [Door header size](/construction/door-header-size)
+*   [Fire glass](/construction/fire-glass)
+*   [Floor joist](/construction/floor-joist)
+*   [Framing](/construction/framing)
+*   [French drain](/construction/french-drain)
+*   [Glass weight](/construction/glass-weight)
+*   [Gravel](/construction/gravel)
+*   [Grout](/construction/grout)
+*   [Insulation](/construction/insulation)
+*   [K-factor](/construction/k-factor)
+*   [Limestone](/construction/limestone)
+*   [Log weight](/construction/log-weight)
+*   [Material removal rate](/construction/material-removal-rate)
+*   [Metal weight](/construction/metal-weight)
+*   [Mortar](/construction/mortar)
+*   [Plate weight](/construction/plate-weight)
+*   [Rebar calculator](/construction/rebar)
+*   [Retaining wall](/construction/retaining-wall)
+*   [Rip rap](/construction/rip-rap)
+*   [River rock](/construction/river-rock)
+*   [Rolling offset](/construction/rolling-offset)
+*   [Sand](/construction/sand)
+*   [Sealant](/construction/sealant)
+*   [Sonotube](/construction/sonotube)
+*   [Spindle spacing](/construction/spindle-spacing)
+*   [Steel plate weight](/construction/steel-plate-weight)
+*   [Steel weight](/construction/steel-weight)
+*   [Taper](/construction/taper)
+*   [Thinset](/construction/thinset)
+*   [Tonnage](/construction/tonnage)
+*   [Vinyl fence](/construction/vinyl-fence)
+*   [Wall square footage](/construction/wall-square-footage)
+*   [Wood beam span](/construction/wood-beam-span)
+
+Home and garden calculators 🏡
+------------------------------
+
+*   [Air conditioner BTU](/construction/air-conditioner-room-size)
+*   [Carpet (rug)](/construction/carpet)
+*   [CFM](/construction/cfm)
+*   [Chicken coop size](/construction/chicken-coop-size)
+*   [Deck stain](/construction/deck-stain)
+*   [Drywall](/construction/drywall)
+*   [Epoxy](/construction/epoxy)
+*   [Fence](/construction/fence)
+*   [Floor area ratio](/construction/floor-area-ratio)
+*   [Flooring](/construction/flooring)
+*   [Furnace size](/construction/furnace-size)
+*   [Hoop house](/construction/hoop-house)
+*   [Paint](/construction/paint)
+*   [Paver](/construction/paver)
+*   [Paver sand](/construction/paver-sand)
+*   [Plywood](/construction/plywood)
+*   [Pond](/construction/pond)
+*   [Ramp](/construction/ramp-slope)
+*   [Siding](/construction/siding)
+*   [Square yard](/construction/square-yard)
+*   [Stair carpet](/construction/stair-carpet)
+*   [Stairs](/construction/stairs)
+*   [Tile](/construction/tile)
+*   [Vinyl siding](/construction/vinyl-siding)
+*   [Wainscoting](/construction/wainscoting)
+*   [Wallpaper](/construction/wallpaper)
+
+Roofing calculators 🏠
+----------------------
+
+*   [Metal roof cost](/construction/metal-roof-cost)
+*   [Rafter length](/construction/rafter-length)
+*   [Roofing](/construction/roofing)
+*   [Roof pitch](/construction/roof-pitch)
+*   [Roof shingle](/construction/roof-shingle)
+*   [Roof truss](/construction/roof-truss)
+*   [Snow load](/construction/snow-load)
+
+Driveway calculators 🚧
+-----------------------
+
+*   [Asphalt](/construction/asphalt)
+*   [Concrete driveway cost](/construction/concrete-driveway-cost)
+*   [Crushed stone](/construction/crushed-stone)
+*   [Gravel driveway](/construction/gravel-driveway)
+
+Other calculators
+-----------------
+
+*   [Angle cut](/construction/angle-cut)
+*   [Angle of depression](/construction/angle-of-depression)
+*   [Beam Deflection](/construction/beam-deflection)
+*   [Bolt torque](/construction/bolt-torque)
+*   [Box fill](/construction/box-fill)
+*   [Elevation grade](/construction/elevation-grade)
+*   [Gallons per minute](/construction/gallons-per-minute)
+*   [Heat loss](/construction/heat-loss)
+*   [Junction box sizing](/construction/junction-box-sizing)
+*   [Miter angle](/construction/miter-angle)
+*   [Passive house savings](/construction/passive-house)
+*   [Pipe volume](/construction/pipe-volume)
+*   [Pitch diameter](/construction/pitch-diameter)
+*   [Pool volume](/construction/pool)
+*   [Rivet size](/construction/rivet-size)
+*   [Round pen](/construction/round-pen)
+*   [Spindle speed](/construction/spindle-speed)
+*   [Tank volume](/construction/tank-volume)
+*   [Thread](/construction/thread)
+*   [Thread pitch](/construction/thread-pitch)
+*   [Trump's Wall](/construction/trump)
+*   [Vertical curve calculator](/construction/vertical-curve)
+*   [Welding](/construction/welding)
+
+Redundant calculators
+---------------------
+
+*   [Concrete cylinder](/construction/concrete-cylinder)
+
+Conversion
+==========
+
+*   [Acreage](/conversion/acreage)
+*   [Angle conversion](/conversion/angle-converter)
+*   [Area conversion](/conversion/area-converter)
+*   [Billion to trillion converter](/conversion/billion-to-trillion-converter)
+*   [Binary](/conversion/binary)
+*   [Binary to hexadecimal](/conversion/binary-to-hexadecimal)
+*   [Binary to octal](/conversion/binary-to-octal)
+*   [Byte conversion](/conversion/byte-converter)
+*   [Capacitance conversion](/conversion/capacitance-conversion)
+*   [CGS system of units converter](/conversion/cgs-system-of-units)
+*   [Conversion](/conversion/conversion-calculator)
+*   [Coordinates converter](/conversion/coordinates-converter)
+*   [cps converter](/conversion/cps-converter)
+*   [Crore to lakh](/conversion/crore-to-lakh)
+*   [Crore to million](/conversion/crore-to-million)
+*   [Cubic feet](/conversion/cubic-feet)
+*   [Cubic yards to tons](/conversion/cubic-yards-to-tons)
+*   [dBm to watts](/conversion/dbm-to-watts)
+*   [Decimal to hexadecimal](/conversion/decimal-to-hexadecimal)
+*   [Decimal to octal](/conversion/decimal-to-octal)
+*   [Degrees minutes seconds](/conversion/degrees-minutes-seconds)
+*   [Density conversion](/conversion/density-converter)
+*   [Dimensional analysis](/conversion/dimensional-analysis)
+*   [Energy conversion](/conversion/energy-conversion)
+*   [Feet and inches](/conversion/feet-and-inches)
+*   [Fluid ounces to cups](/conversion/ounces-to-cups)
+*   [Force converter](/conversion/force-conversion)
+*   [Fuel economy conversion](/conversion/fueld-economy-converter)
+*   [Gallon](/conversion/gallon)
+*   [Gallons to pounds](/conversion/gallons-to-pounds)
+*   [Grams to calories](/conversion/grams-to-calories)
+*   [Grams to ounces](/conversion/g-to-oz)
+*   [Inches to fraction](/conversion/inches-to-fraction)
+*   [kg to gallons converter](/conversion/kg-to-gallons)
+*   [Knots to mph](/conversion/knots-to-mph)
+*   [Lat lon to UTM](/conversion/lat-long-to-utm)
+*   [Length converter](/conversion/length-converter)
+*   [Mbps to gbps converter](/conversion/mbps-to-gbps)
+*   [mg to ml](/conversion/mg-to-ml)
+*   [Military time converter](/conversion/military-time)
+*   [Million to billion converter](/conversion/million-to-billion)
+*   [Million to lakh](/conversion/million-to-lakh)
+*   [Million to thousand converter](/conversion/million-to-thousand-converter)
+*   [Minutes to hours converter](/conversion/minutes-to-hours-converter)
+*   [ml to cups](/conversion/ml-to-cups)
+*   [Natural gas converter](/conversion/natural-gas-converter)
+*   [Newton meter](/conversion/newton-meter)
+*   [Newton to joules converter](/conversion/newton-to-joules)
+*   [Nm to ft-lbs converter](/conversion/nm-to-ft-lb)
+*   [Paper quantity converter](/conversion/paper-quantity)
+*   [Pint to pound conveter](/conversion/pint-to-pound)
+*   [Pixels to inches converter](/conversion/pixels-to-inches)
+*   [Pounds and ounces](/conversion/pounds-ounces)
+*   [Power converter](/conversion/power-conversion)
+*   [PPM](/conversion/ppm)
+*   [ppm to mg/l converter](/conversion/ppm-to-mgl-converter)
+*   [Pressure conversion](/conversion/pressure-converter)
+*   [PSI to GPM](/conversion/psi-to-gpm)
+*   [Px to em to pt to %](/conversion/px-to-em)
+*   [Quantity Converter](/conversion/quantity-converter)
+*   [Quarts to pounds](/conversion/quarts-to-pounds)
+*   [Radiation converter](/conversion/radiation-converter)
+*   [Roman numerals](/conversion/roman-numerals)
+*   [Scale conversion](/conversion/scale-conversion)
+*   [Speed conversion](/conversion/speed-converter)
+*   [Temperature conversion](/conversion/temperature-converter)
+*   [Time unit converter](/conversion/time-unit-converter)
+*   [Time zones converter](/conversion/time-zones)
+*   [Torque to hp](/conversion/torque-to-horsepower)
+*   [Torr to atm](/conversion/torr-to-atm)
+*   [Unix time converter](/conversion/unix-time)
+*   [Volume conversion](/conversion/volume-conversion)
+*   [Weight converter](/conversion/weight-converter)
+*   [Weird units](/conversion/weird-units)
+
+Redundant calculators
+---------------------
+
+*   [Acres to hectares converter](/conversion/acres-to-hectares-converter)
+*   [Acres to square feet converter](/conversion/acres-to-square-feet-converter)
+*   [cc to grams converter](/conversion/cc-to-grams-converter)
+*   [cc to liter converter](/conversion/cc-to-liter-converter)
+*   [cc to ml converter](/conversion/cc-to-ml-converter)
+*   [cc to oz converter](/conversion/cc-to-oz-converter)
+*   [Celsius converter](/conversion/celsius-converter)
+*   [Celsius to Fahrenheit converter](/conversion/celsius-to-fahrenheit)
+*   [Centigrade to Celsius converter](/conversion/centigrade-to-celsius)
+*   [Centimeter](/conversion/centimeter)
+*   [Cent to square meter converter](/conversion/cent-to-square-meter-converter)
+*   [cm to in](/conversion/cm-to-in)
+*   [cm to m](/conversion/cm-to-m)
+*   [Cubic feet to gallons converter](/conversion/cubic-feet-to-gallons)
+*   [Cubic inches to gallons converter](/conversion/cubic-inches-to-gallons)
+*   [Cups to gallons converter](/conversion/cups-to-gallons-converter)
+*   [Cups to oz converter](/conversion/cups-to-oz)
+*   [Cups to pints converter](/conversion/cups-to-pints-converter)
+*   [Cups to quarts converter](/conversion/cups-to-quarts-converter)
+*   [Degrees to minutes](/conversion/degrees-to-minutes)
+*   [Degrees to radians](/conversion/degrees-to-radians)
+*   [Degrees to seconds](/conversion/degrees-to-seconds)
+*   [Distance converter](/conversion/distance-converter)
+*   [Fahrenheit converter](/conversion/fahrenheit)
+*   [Fahrenheit to Celsius converter](/conversion/fahrenheit-to-celsius)
+*   [Feet to miles](/conversion/feet-to-miles)
+*   [ft to m](/conversion/ft-to-m)
+*   [Gaj to square yard converter](/conversion/gaj-to-square-yard-converter)
+*   [Gallons to cubic feet converter](/conversion/gallons-to-cubic-feet)
+*   [Gallons to cups converter](/conversion/gallons-to-cups-converter)
+*   [Gallons to pints converter](/conversion/gallons-to-pints-converter)
+*   [Gallons to quarts converter](/conversion/gallons-to-quarts-converter)
+*   [gal to kg converter](/conversion/gal-to-kg)
+*   [g to lbs](/conversion/g-to-lbs)
+*   [Hectares to acres converter](/conversion/hectares-to-acres-converter)
+*   [Height converter](/conversion/height-converter)
+*   [Hours to minutes converter](/conversion/hours-to-minutes-converter)
+*   [Hours to seconds converter](/conversion/hours-to-seconds-converter)
+*   [Inch converter](/conversion/inch-converter)
+*   [Inch to meter](/conversion/inch-to-meter)
+*   [in to cm](/conversion/in-to-cm)
+*   [Katha to square feet converter](/conversion/katha-to-square-feet-converter)
+*   [Kelvin converter](/conversion/kelvin-converter)
+*   [Kelvin to Celsius converter](/conversion/kelvin-to-celsius)
+*   [Kelvin to Fahrenheit converter](/conversion/kelvin-to-fahrenheit)
+*   [kg to lbs converter](/conversion/kg-to-lbs-converter)
+*   [kg to liter converter](/conversion/kg-to-liter)
+*   [kg to mL](/conversion/kg-to-ml)
+*   [kg to ounce converter](/conversion/kg-to-ounce-converter)
+*   [kg to stones converter](/conversion/kg-to-stones-converter)
+*   [Kilometer](/conversion/kilometer)
+*   [Kilometers to miles](/conversion/kilometers-to-miles)
+*   [lbs to g converter](/conversion/lbs-to-g)
+*   [lbs to kg converter](/conversion/lbs-to-kg-converter)
+*   [lbs to pounds](/conversion/lbs-to-pounds)
+*   [lbs to stone converter](/conversion/lbs-to-stone-converter)
+*   [Liter to cc](/conversion/liter-cc)
+*   [L to gal converter](/conversion/l-to-gal)
+*   [Measurement Converter](/conversion/measurement-converter)
+*   [Meters to feet](/conversion/meters-to-feet)
+*   [Metric to Imperial Conversion](/conversion/metric-to-imperial-conversion)
+*   [Metric to inches](/conversion/metric-to-inches)
+*   [mg to lbs](/conversion/mg-to-lbs)
+*   [Millimeter](/conversion/millimeter)
+*   [Minutes to seconds converter](/conversion/minutes-to-seconds-converter)
+*   [ml to cc converter](/conversion/ml-to-cc-converter)
+*   [ml to kg](/conversion/ml-to-kg)
+*   [ml to oz converter](/conversion/ml-to-oz-converter)
+*   [ml to tbsp converter](/conversion/ml-tbsp-converter)
+*   [ml to tsp converter](/conversion/ml-tsp-converter)
+*   [ml to ul conversion](/conversion/ml-to-ul-conversion)
+*   [mm milimeters](/conversion/mm-milimeters)
+*   [m to ft converter](/conversion/m-to-ft)
+*   [Ounces to grams converter](/conversion/ounces-to-grams-converter)
+*   [oz to cc converter](/conversion/oz-to-cc-converter)
+*   [oz to ml](/conversion/oz-ml-converter)
+*   [Pints to cups converter](/conversion/pints-to-cups-converter)
+*   [Pints to gallons converter](/conversion/pints-to-gallons-converter)
+*   [Pounds to grams](/conversion/pounds-to-grams)
+*   [Pounds to lbs](/conversion/pounds-to-lbs)
+*   [Pounds to ounces converter](/conversion/pounds-to-ounces-converter)
+*   [Pounds to stone](/conversion/pounds-to-stone)
+*   [Quarts to cups converter](/conversion/quarts-to-cups-converter)
+*   [Quarts to gallons converter](/conversion/quarts-to-gallons-converter)
+*   [Radians to degrees](/conversion/radians-to-degrees)
+*   [Seconds to hours converter](/conversion/seconds-to-hours-converter)
+*   [Seconds to minutes converter](/conversion/seconds-to-minutes-converter)
+*   [Square centimeters to square millimeters converter](/conversion/square-centimeters-to-square-millimeters-converter)
+*   [Square feet converter](/conversion/square-feet-converter)
+*   [Square feet to acres converter](/conversion/square-feet-to-acres-converter)
+*   [Square inch to square foot converter](/conversion/square-inch-to-square-foot-converter)
+*   [Square meter converter](/conversion/square-meter-converter)
+*   [Square meters to square feet converter](/conversion/square-meters-to-square-feet-converter)
+*   [Square miles to square km converter](/conversion/square-miles-to-square-km-converter)
+*   [Square yard converter](/conversion/square-yard-converter)
+*   [Stone to kg](/conversion/stone-to-kg)
+*   [Stone to lbs](/conversion/stone-to-lbs)
+*   [tbsp to grams converter](/conversion/tbsp-to-grams)
+*   [tbsp to ml](/conversion/tbsp-to-ml)
+*   [tsp to grams converter](/conversion/tsp-to-grams)
+*   [tsp to ml converter](/conversion/tsp-ml-converter)
+
+Ecology
+=======
+
+Eco footprint calculators ♻️
+----------------------------
+
+*   [Bag footprint](/ecology/eco-friendly-bags)
+*   [Christmas tree footprint](/ecology/zero-waste-christmas-tree)
+*   [COVID-19 waste](/ecology/covid-pollution)
+*   [Cryptocurrency footprint](/ecology/cryptocurrency-footprint)
+*   [Flight carbon footprint](/ecology/flight-emissions)
+*   [Hand drying footprint](/ecology/hand-dryers-vs-paper-towels)
+*   [Kaya identity](/ecology/kaya-identity)
+*   [Meat footprint](/ecology/meat-footprint)
+*   [Plastic footprint](/ecology/plastic-footprint)
+*   [Tree benefits](/ecology/tree-benefits)
+
+Renewable energy calculators 🔋
+-------------------------------
+
+*   [Hydroelectric power](/ecology/hydroelectric-power)
+*   [Solar panel](/ecology/solar-panel)
+*   [Wind turbine](/ecology/wind-turbine)
+
+Other calculators
+-----------------
+
+*   [Books vs e-Books](/ecology/books-vs-ebooks)
+*   [Car vs. Bike](/ecology/car-vs-bike)
+*   [Cigarette butts](/ecology/cigarette-butts)
+*   [CO2 breathing emission](/ecology/co2-breathing-emission)
+*   [Fish mercury](/ecology/fish-mercury)
+*   [Korzyści z drzew](/ecology/korzysci-z-drzew)
+*   [Krakowska strefa czystego transportu](/ecology/strefa-czystego-transportu)
+*   [Plug-in hybrid economy](/ecology/phev-economy)
+*   [Shannon diversity index](/ecology/shannon-index)
+*   [Smog](/ecology/benzoapyrene)
+*   [Tap water](/ecology/tap-water)
+
+Everyday life
+=============
+
+Transportation calculators 🚘
+-----------------------------
+
+*   [0-60](/everyday-life/0-60)
+*   [Boat speed](/everyday-life/boat-speed)
+*   [Brake specific fuel consumption](/everyday-life/brake-specific-fuel-consumption)
+*   [Carpooling](/everyday-life/carpooling)
+*   [Commute](/everyday-life/commute)
+*   [Compression ratio](/everyday-life/compression-ratio)
+*   [Crosswind](/everyday-life/crosswind)
+*   [Drive Time Calculator](/everyday-life/drive-time)
+*   [Engine horsepower](/everyday-life/horsepower)
+*   [Flight radiation](/everyday-life/flight-radiation)
+*   [Fuel cost](/everyday-life/fuel-cost)
+*   [Gas](/everyday-life/gas)
+*   [Gross vehicle weight rating (GVWR)](/everyday-life/gvwr)
+*   [MPG](/everyday-life/mpg)
+*   [RPM](/everyday-life/rpm)
+*   [Speed](/everyday-life/speed)
+*   [Speedometer gear](/everyday-life/speedometer-gear)
+*   [Tesla charging cost](/everyday-life/tesla-charging-cost)
+*   [Ticket optimizer](/everyday-life/tickets)
+*   [Tire size](/everyday-life/tire-size)
+*   [Traffic density](/everyday-life/traffic-density)
+*   [Wheel offset](/everyday-life/wheel-offset)
+*   [Winch size](/everyday-life/winch-size)
+*   [Windsock](/everyday-life/windsock)
+
+Clothing and sewing calculators 👗
+----------------------------------
+
+*   [Belt size](/everyday-life/belt-size)
+*   [Bikini body shape](/everyday-life/bikini)
+*   [Bra size](/everyday-life/bra-size)
+*   [Circle skirt](/everyday-life/circle-skirt)
+*   [Curtain panel](/everyday-life/curtain-panel)
+*   [Curtain size](/everyday-life/curtain-size)
+*   [Dress size](/everyday-life/dress-size)
+*   [Fabric](/everyday-life/fabric)
+*   [Glove size](/everyday-life/glove-size)
+*   [Half square triangle](/everyday-life/half-square-triangle)
+*   [Hat size](/everyday-life/hat-size)
+*   [Hexagon quilt](/everyday-life/hexagon-quilt)
+*   [Jacket size](/everyday-life/jacket-size)
+*   [Jeans size](/everyday-life/jeans-size)
+*   [Lost socks](/everyday-life/socks-loss-index)
+*   [Pleated skirt](/everyday-life/pleated-skirt)
+*   [Quilt](/everyday-life/quilt)
+*   [Quilt binding](/everyday-life/quilt-binding)
+*   [Ring Size](/everyday-life/ring-size)
+*   [Shoelace length](/everyday-life/shoelace-length)
+*   [Shoe size conversion](/everyday-life/shoe-size-conversion)
+*   [Sock size](/everyday-life/sock-size)
+*   [Sunglasses size](/everyday-life/sunglasses)
+*   [Tablecloth size](/everyday-life/tablecloth-size)
+*   [Weighted blanket](/everyday-life/weighted-blanket)
+
+Home economics calculators 🏡
+-----------------------------
+
+*   [Appliance depreciation](/everyday-life/appliance-depreciation)
+*   [Appliance wattage](/everyday-life/appliance-wattage)
+*   [Back to school](/everyday-life/back-to-school)
+*   [Balloon arch](/everyday-life/balloon-arch)
+*   [Bathroom mirror size](/everyday-life/bathroom-mirror-size)
+*   [Blind size](/everyday-life/blind-size)
+*   [Cord of wood](/everyday-life/cord-wood)
+*   [Data usage](/everyday-life/data-usage)
+*   [Dilution ratio](/everyday-life/dilution-ratio)
+*   [Electricity cost](/everyday-life/electricity-cost)
+*   [Electricity cost - single usage](/everyday-life/electricity-cost-single-usage)
+*   [Gas vs electric dryer](/everyday-life/gas-vs-electric-dryer)
+*   [Grocery](/everyday-life/grocery)
+*   [House cleaning cost](/everyday-life/cleaning-cost)
+*   [How many tables](/everyday-life/how-many-tables)
+*   [Kalkulator zużycia prądu](/everyday-life/kalkulator-zuzycia-pradu)
+*   [LED savings](/everyday-life/led-savings)
+*   [Lighting](/everyday-life/lighting)
+*   [Lumens to watts](/everyday-life/lumens-to-watts)
+*   [Microwave wattage converter](/everyday-life/microwave-wattage)
+*   [Period Products Cost](/everyday-life/period-products-cost)
+*   [Pool salt](/everyday-life/pool-salt)
+*   [Quit smoking and save](/everyday-life/quit-smoking)
+*   [Roll length](/everyday-life/roll-length)
+*   [Rug size](/everyday-life/rug-size)
+*   [Sofa size](/everyday-life/sofa-size)
+*   [Unit price](/everyday-life/unit-price)
+
+Office, school and productivity calculators 💼
+----------------------------------------------
+
+*   [Acceptance rate](/everyday-life/acceptance-rate)
+*   [Cycle time](/everyday-life/cycle-time)
+*   [Deadline](/everyday-life/deadline)
+*   [Desk height](/everyday-life/desk-height)
+*   [Email alternatives](/everyday-life/email-alternatives)
+*   [English learning time](/everyday-life/english-learning)
+*   [Gross words per minute (GWAM)](/everyday-life/gwam)
+*   [Lead time](/everyday-life/lead-time)
+*   [Meeting cost](/everyday-life/meeting-cost)
+*   [Money weight](/everyday-life/money-weight)
+*   [Paper thickness](/everyday-life/paper-thickness)
+*   [Paper weight](/everyday-life/paper-weight)
+*   [Pomodoro Technique](/everyday-life/pomodoro-technique)
+*   [Slack time](/everyday-life/slack-time)
+*   [Standing desk height](/everyday-life/standing-desk-height)
+*   [Time card](/everyday-life/time-card)
+*   [Words per minute](/everyday-life/words-per-minute)
+
+Leisure and fun 🧩
+------------------
+
+*   [Audiobooks](/everyday-life/audiobooks)
+*   [Beach Price Index](/everyday-life/beach-price-index)
+*   [Drake equation for love](/everyday-life/drake-equation-for-love)
+*   [Hammock hang](/everyday-life/hammock-hang)
+*   [Harry Potter currency](/everyday-life/wizarding-currency)
+*   [Helium balloons](/everyday-life/helium-balloons)
+*   [Lord of the Rings](/everyday-life/lord-of-the-rings)
+*   [Podcasts](/everyday-life/podcasts)
+*   [Quarantine binge watching](/everyday-life/binge-watching)
+*   [Quarantine silver lining](/everyday-life/silver-lining)
+*   [Social Media Time Alternatives](/everyday-life/social-media-time-alternatives)
+*   [Star wars marathon](/everyday-life/star-wars-marathon)
+*   [Tent size](/everyday-life/tent-size)
+*   [The Witcher](/everyday-life/witcher)
+*   [TV alternatives](/everyday-life/tv-alternatives)
+*   [TV series duration](/everyday-life/tv-series-duration)
+
+Personal hygiene calculators 🧼
+-------------------------------
+
+*   [Bath vs shower](/everyday-life/bath-vs-shower-footprint)
+*   [Beauty products](/everyday-life/beauty-products)
+*   [Coronavirus Mask Calculator](/everyday-life/coronavirus-mask)
+*   [Hair growth](/everyday-life/hair-growth)
+*   [Shower cost](/everyday-life/shower-cost)
+*   [Sunscreen](/everyday-life/sunscreen-amount)
+*   [Toilet paper](/everyday-life/toilet-paper)
+*   [Toothpaste](/everyday-life/toothpaste)
+
+Time and date calculators ⏳
+---------------------------
+
+*   [Add time](/everyday-life/add-time)
+*   [Age](/everyday-life/age)
+*   [Age difference](/everyday-life/age-difference)
+*   [Anniversary](/everyday-life/anniversary)
+*   [Baby age](/everyday-life/baby-age)
+*   [BC to AD](/everyday-life/bc-to-ad)
+*   [Birthday](/everyday-life/birthday)
+*   [Business days](/everyday-life/business-days)
+*   [Calendar](/everyday-life/calendar)
+*   [Chronological age](/everyday-life/chronological-age)
+*   [Date](/everyday-life/date)
+*   [Date to date](/everyday-life/date-to-date)
+*   [Day counter](/everyday-life/day-counter)
+*   [Easter](/everyday-life/easter)
+*   [Every second](/everyday-life/every-second)
+*   [Hours](/everyday-life/hours)
+*   [Hours and minutes](/everyday-life/hours-minutes)
+*   [Korean age](/everyday-life/korean-age)
+*   [Leap year](/everyday-life/leap-year)
+*   [Minute](/everyday-life/minute)
+*   [Month counter](/everyday-life/month-counter)
+*   [Moon phase](/everyday-life/moon-phase)
+*   [Palindrome date](/everyday-life/palindrome-date)
+*   [Reverse time](/everyday-life/reverse-time)
+*   [Subtract time](/everyday-life/subtract-time)
+*   [Time](/everyday-life/time)
+*   [Time difference](/everyday-life/time-difference)
+*   [Time duration](/everyday-life/time-duration)
+*   [Time to decimal](/everyday-life/time-to-decimal)
+
+Books and reading calculators 📚
+--------------------------------
+
+*   [Louise Glück poetry](/everyday-life/louise-gluck-poetry)
+*   [Olga Tokarczuk books](/everyday-life/olga-tokarczuk-books)
+*   [Quarantine books](/everyday-life/quarantine-books)
+*   [Reading challenge](/everyday-life/book-challenge)
+*   [Reading speed](/everyday-life/reading-speed)
+*   [Reading time](/everyday-life/reading-time)
+
+Other calculators
+-----------------
+
+*   [Diaper](/everyday-life/diaper)
+*   [Expiration date](/everyday-life/expiration-date)
+*   [Garbage bag size](/everyday-life/garbage-bag-size)
+*   [Kalkulator kopert weselnych](/everyday-life/koperty-weselne)
+*   [One-time child costs](/everyday-life/child-cost)
+*   [Picture frame](/everyday-life/picture-frame)
+*   [Well volume](/everyday-life/well-volume)
+
+Redundant calculators
+---------------------
+
+*   [Age in days](/everyday-life/age-in-days)
+*   [Age in hours](/everyday-life/age-in-hours)
+*   [Age in minutes](/everyday-life/age-in-minutes)
+*   [Age in months](/everyday-life/age-in-months)
+*   [Age in seconds](/everyday-life/age-in-seconds)
+*   [Age in weeks](/everyday-life/age-in-weeks)
+*   [Age in years](/everyday-life/age-in-years)
+*   [Age in years months and days](/everyday-life/age-in-years-months-and-days)
+*   [Clock duration](/everyday-life/clock-duration)
+*   [Days between dates](/everyday-life/days-between-dates)
+*   [Elapsed time](/everyday-life/elapsed-time)
+*   [EU to US shoe size converter](/everyday-life/eu-us-shoe-size)
+*   [Fuel consumption](/everyday-life/fuel-consumption)
+*   [Fuel distance](/everyday-life/fuel-distance)
+*   [Fuel mileage](/everyday-life/fuel-mileage)
+*   [Hours between two times](/everyday-life/hours-between-two-times)
+*   [Minutes between two times](/everyday-life/minutes-between-two-times)
+*   [Months between two dates](/everyday-life/months-between-dates)
+*   [Number of days](/everyday-life/number-days)
+*   [Ounces to pounds converter](/everyday-life/ounces-to-pounds-converter)
+*   [Ounce to kg converter](/everyday-life/ounce-to-kg-converter)
+*   [Time between dates](/everyday-life/time-between-dates)
+*   [Time in between](/everyday-life/time-in-between)
+*   [UK to US shoe size converter](/everyday-life/uk-us-shoe-size)
+*   [US to EU shoe size converter](/everyday-life/us-eu-shoe-size)
+*   [US to UK shoe size converter](/everyday-life/us-uk-shoe-size)
+*   [Working days](/everyday-life/working-days)
+*   [Years between two dates](/everyday-life/years-between-dates)
+
+Finance
+=======
+
+Business planning calculators 💼
+--------------------------------
+
+*   [Absence percentage](/finance/absence-percentage)
+*   [Actual cash value](/finance/actual-cash-value)
+*   [Average collection period](/finance/average-collection)
+*   [Bounce rate](/finance/bounce-rate)
+*   [Build vs. Buy](/finance/build-or-buy)
+*   [Burndown chart](/finance/burndown-chart)
+*   [Business budget](/finance/business-budget)
+*   [Churn rate](/finance/churn-rate)
+*   [CPC and CPM](/finance/cpc-cpm)
+*   [CPM](/finance/cpm)
+*   [CTR](/finance/ctr)
+*   [Customer acquisition cost (CAC)](/finance/cac)
+*   [Day sales outstanding (DSO)](/finance/days-sales-outstanding)
+*   [Days inventory outstanding (DIO)](/finance/days-inventory-outstanding)
+*   [Days payable outstanding (DPO)](/finance/days-payable-outstanding)
+*   [Earned value management](/finance/earned-value-management)
+*   [Effective corporate tax rate](/finance/effective-corporate-tax-rate)
+*   [EMV](/finance/emv)
+*   [Exit rate](/finance/exit-rate)
+*   [FIFO for inventories](/finance/fifo-for-inventories)
+*   [Financial leverage ratio](/finance/financial-leverage-ratio)
+*   [Full-Time Equivalent](/finance/full-time-equivalent)
+*   [Gmroi](/finance/gmroi)
+*   [Herfindahl-Hirschman index (HHI)](/finance/hhi)
+*   [High-low method](/finance/high-low-method)
+*   [Labor cost](/finance/labor-cost)
+*   [Lemonade Stand](/finance/lemonade-stand)
+*   [LIFO for inventories](/finance/lifo-for-inventories)
+*   [Margin of safety](/finance/margin-of-safety)
+*   [Net income](/finance/net-income)
+*   [Online marketing conversion](/finance/online-marketing-roi)
+*   [Operating margin](/finance/operating-margin)
+*   [Pre and post-money valuation](/finance/pre-and-post-money-valuation)
+*   [Present value of growth opportunities (PVGO)](/finance/pvgo)
+*   [Revenue per employee](/finance/revenue-per-employee)
+*   [ROAS](/finance/roas)
+*   [SaaS lifetime value](/finance/saas-ltv)
+*   [SaaS Metrics](/finance/saas-metrics)
+*   [Sales commission](/finance/sales-commission)
+*   [Sell-through rate](/finance/sell-through-rate)
+*   [Smoker's CTC](/finance/smokers-ctc)
+*   [Software contract value](/finance/software-contract-value)
+*   [Tenure](/finance/tenure)
+*   [Total asset turnover](/finance/total-asset-turnover)
+*   [Website ad revenue](/finance/website-ad-revenue)
+*   [Working capital turnover ratio](/finance/working-capital-turnover-ratio)
+*   [YouTube money](/finance/youtube-money)
+
+Investment calculators 📈
+-------------------------
+
+*   [401k](/finance/401k)
+*   [After-tax cost of debt](/finance/after-tax-cost-of-debt)
+*   [Altman Z-Score](/finance/altman-z-score)
+*   [Annuity](/finance/annuity)
+*   [Annuity payout](/finance/annuity-payout)
+*   [Appreciation](/finance/appreciation)
+*   [APY](/finance/apy)
+*   [Beta stock](/finance/beta-stock)
+*   [Black Scholes](/finance/black-scholes)
+*   [Bond current yield](/finance/bond-current-yield)
+*   [Bond equivalent yield](/finance/bond-equivalent-yield)
+*   [Bond price](/finance/bond-price)
+*   [Bond yield](/finance/bond-yield)
+*   [Bond YTM](/finance/bond-ytm)
+*   [Break even](/finance/break-even)
+*   [CAGR](/finance/cagr)
+*   [Call put option](/finance/call-put-option)
+*   [Capital gains tax UK](/finance/capital-gains-tax-uk)
+*   [Capital gains yield](/finance/capital-gains-yield)
+*   [CAPM](/finance/capm)
+*   [Carried Interest](/finance/carried-interest)
+*   [Cash conversion cycle](/finance/cash-conversion-cycle)
+*   [Cash flow to debt ratio](/finance/cash-flow-to-debt)
+*   [Cash ratio](/finance/cash-ratio)
+*   [CD](/finance/cd)
+*   [Combined ratio](/finance/combined-ratio)
+*   [Compound growth](/finance/compound-growth)
+*   [Compound interest](/finance/compound-interest)
+*   [Compound interest rate](/finance/compound-interest-rate)
+*   [Continuous compound interest](/finance/continuous-compound)
+*   [Cost of Equity](/finance/cost-of-equity)
+*   [Coupon payment](/finance/coupon-payment)
+*   [Coupon rate](/finance/coupon-rate)
+*   [Credit spread](/finance/credit-spread)
+*   [Current ratio](/finance/current-ratio)
+*   [Defensive interval ratio](/finance/defensive-interval-ratio)
+*   [Deferred annuity](/finance/deferred-annuity)
+*   [Degree of operating leverage](/finance/degree-of-operating-leverage)
+*   [Depreciation](/finance/depreciation)
+*   [Discounted cash flow](/finance/dcf)
+*   [Discount rate](/finance/discount-rate)
+*   [Dividend](/finance/dividend)
+*   [Dividend discount model](/finance/divdend-discount-model)
+*   [Dividend payout ratio](/finance/dividend-payout-ratio)
+*   [Dividend yield](/finance/dividend-yield)
+*   [DuPont analysis](/finance/dupont-analysis)
+*   [EAR](/finance/ear)
+*   [Earnings per share](/finance/eps)
+*   [Earnings per share (EPS) growth](/finance/eps-growth)
+*   [EBIT](/finance/ebit)
+*   [EBITDA](/finance/ebitda)
+*   [EBITDA margin](/finance/ebitda-margin)
+*   [EBITDA multiple](/finance/ebitda-multiple)
+*   [Economic value added](/finance/economic-value-added)
+*   [Effective annual yield](/finance/effective-annual-yield)
+*   [Effective interest rate](/finance/effective-interest-rate)
+*   [Enterprise value](/finance/enterprise-value)
+*   [Equivalent rate](/finance/equivalent-rate)
+*   [EV to sales](/finance/ev-to-sales)
+*   [Expense ratio](/finance/expense-ratio)
+*   [Fibonacci retracement](/finance/fibonacci-retracement)
+*   [Fixed asset turnover](/finance/fixed-asset-turnover)
+*   [Forward Rate](/finance/forward-rate)
+*   [Free cash flow](/finance/free-cash-flow)
+*   [Free cash flow to equity (FCFE)](/finance/free-cash-flow-to-equity)
+*   [Free cash flow to firm (FCFF)](/finance/free-cash-flow-to-firm)
+*   [Free float](/finance/free-float)
+*   [Funds from operation (FFO)](/finance/ffo)
+*   [Futures contract](/finance/futures-contract)
+*   [Future value](/finance/future-value)
+*   [Future value of annuity](/finance/annuity-future-value)
+*   [Goodwill](/finance/goodwill)
+*   [Graham number](/finance/graham-number)
+*   [Growing Annuity](/finance/growing-annuity)
+*   [Hedge ratio](/finance/hedge-ratio)
+*   [Holding period return](/finance/holding-period-return)
+*   [Immediate annuity](/finance/immediate-annuity)
+*   [Information ratio](/finance/information-ratio)
+*   [Interest coverage ratio](/finance/interest-coverage-ratio)
+*   [Intrinsic value](/finance/intrinsic-value)
+*   [Inventory turnover](/finance/inventory-turnover)
+*   [Investment](/finance/investment)
+*   [IRR](/finance/internal-rate-of-return)
+*   [Jensen's alpha](/finance/jensen-alpha)
+*   [Levered free cash flow](/finance/levered-free-cash-flow)
+*   [Loss given default](/finance/lgd)
+*   [Loss ratio](/finance/loss-ratio)
+*   [Marginal cost](/finance/marginal-cost)
+*   [Margin call](/finance/margin-call)
+*   [Market capitalization](/finance/market-capitalization)
+*   [Maximum drawdown](/finance/maximum-drawdown)
+*   [MIRR](/finance/modified-irr)
+*   [Money market account](/finance/money-market-account)
+*   [Moving average](/finance/moving-average)
+*   [Mutual fund](/finance/mutual-fund)
+*   [Net debt](/finance/net-debt)
+*   [Net operating assets](/finance/net-operating-assets)
+*   [Net profit margin](/finance/net-profit-margin)
+*   [NOPAT](/finance/nopat)
+*   [NPV](/finance/net-present-value)
+*   [Operating cash flow](/finance/operating-cash-flow)
+*   [Operating cash flow ratio](/finance/operating-cash-flow-ratio)
+*   [Opportunity cost](/finance/opportunity-cost)
+*   [Optimal hedge ratio](/finance/optimal-hedge-ratio)
+*   [Options spread](/finance/options-spread)
+*   [Payback period](/finance/payback-period)
+*   [PEG ratio](/finance/peg-ratio)
+*   [Perpetuity](/finance/perpetuity)
+*   [Pivot point](/finance/pivot-point)
+*   [Portfolio beta](/finance/portfolio-beta)
+*   [Present value](/finance/present-value)
+*   [Present value of annuity](/finance/annuity-present-value)
+*   [Price/earnings ratio](/finance/price-to-earnings)
+*   [Price to book ratio](/finance/price-to-book-ratio)
+*   [Price to cash flow ratio](/finance/price-to-cash-flow-ratio)
+*   [Price to sales ratio](/finance/price-to-sales-ratio)
+*   [Profitability index](/finance/profitability-index)
+*   [Put-call parity](/finance/put-call-parity)
+*   [PVIFA](/finance/pvifa)
+*   [Quick ratio](/finance/quick-ratio)
+*   [Rate of return](/finance/rate-of-return)
+*   [Real rate of return](/finance/real-rate-of-return)
+*   [Relative strength index (RSI)](/finance/rsi)
+*   [Residual income](/finance/residual-income)
+*   [Retained earnings](/finance/retained-earnings)
+*   [Retention ratio](/finance/retention-ratio)
+*   [Retirement withdrawal](/finance/retirement-withdrawal)
+*   [Return on capital employed](/finance/return-on-capital-employed)
+*   [Return on equity (ROE)](/finance/roe)
+*   [Return on invested capital (ROIC)](/finance/roic)
+*   [Return on sales (ROS)](/finance/ros)
+*   [Revenue growth](/finance/revenue-growth)
+*   [ROA (return on assets)](/finance/roa)
+*   [ROI](/finance/roi)
+*   [Roth IRA](/finance/roth-ira)
+*   [Rule of 72](/finance/rule-of-72)
+*   [Savings interest rate](/finance/savings-interest-rate)
+*   [Savings withdrawal](/finance/savings-withdrawal)
+*   [Sharpe ratio](/finance/sharpe-ratio)
+*   [Sortino ratio](/finance/sortino-ratio)
+*   [Stock](/finance/stock)
+*   [Stock average](/finance/stock-average)
+*   [Sustainable growth rate](/finance/sustainable-growth-rate)
+*   [Time value of money](/finance/time-value-of-money)
+*   [Treynor ratio](/finance/treynor-ratio)
+*   [TTM (trailing twelve months)](/finance/ttm-trailing-twelve-months)
+*   [Unlevered beta](/finance/unlevered-beta)
+*   [Unlevered free cash flow](/finance/unlevered-free-cash-flow)
+*   [Variable annuity](/finance/variable-annuity)
+*   [WACC](/finance/wacc)
+*   [Working capital](/finance/working-capital)
+*   [Yield to call](/finance/yield-to-call)
+*   [Yield to maturity](/finance/yield-to-maturity)
+
+Sales calculators 💸
+--------------------
+
+*   [Black Friday](/finance/black-friday)
+*   [Check digit](/finance/gtin-check-digit)
+*   [Commission](/finance/commission)
+*   [Contribution margin](/finance/contribution-margin)
+*   [Cyber Monday](/finance/cyber-monday)
+*   [Discount](/finance/discount)
+*   [Double discount](/finance/double-discount)
+*   [Economic order quantity (EOQ)](/finance/eoq)
+*   [Ending inventory](/finance/ending-inventory)
+*   [Margin](/finance/margin)
+*   [Margin and sales tax](/finance/margin-sales-tax)
+*   [Margin and VAT](/finance/margin-and-vat)
+*   [Margin with discount](/finance/margin-discount)
+*   [Markdown](/finance/markdown)
+*   [Markup](/finance/markup)
+*   [Markup and margin (2 sets)](/finance/margin-2-sets)
+*   [Paypal fee](/finance/paypal-fee)
+*   [Percentage Discount](/finance/percentage-discount)
+*   [Percent off](/finance/percent-off)
+*   [Profit](/finance/profit)
+*   [Receivables turnover](/finance/receivables-turnover)
+*   [Sales](/finance/sales)
+*   [Triple discount](/finance/triple-discount)
+
+Tax and salary calculators 🧾
+-----------------------------
+
+*   [AGI](/finance/agi)
+*   [Annual income](/finance/annual-income)
+*   [Biden's Tax Plan](/finance/biden-tax-plan)
+*   [Billable hours](/finance/billable-hours)
+*   [Bill rate](/finance/bill-rate)
+*   [Build Back Better](/finance/build-back-better)
+*   [Gratuity](/finance/gratuity)
+*   [Gross to net](/finance/gross-to-net)
+*   [GST](/finance/gst)
+*   [Hourly to salary](/finance/hourly-to-salary)
+*   [Income tax Australia](/finance/income-tax-australia)
+*   [Income tax Philippines](/finance/income-tax-philippines)
+*   [Inflacyjny kalkulator wynagrodzenia](/finance/inflacyjny-kalkulator-wynagrodzenia)
+*   [Kalkulator podatku cukrowego](/finance/podatek-cukrowy)
+*   [MAGI](/finance/magi)
+*   [Mileage reimbursement](/finance/mileage-reimbursement)
+*   [National insurance UK](/finance/national-insurance-uk)
+*   [Net to gross](/finance/net-to-gross)
+*   [Overtime](/finance/overtime)
+*   [Pay raise](/finance/pay-raise)
+*   [Polski Ład](/finance/polski-lad)
+*   [Salary](/finance/salary)
+*   [Salary to hourly](/finance/salary-to-hourly)
+*   [Sales tax](/finance/sales-tax)
+*   [Tax bracket](/finance/tax-bracket)
+*   [Time and a half](/finance/time-and-a-half)
+*   [VAT](/finance/vat)
+
+Real estate calculators 🏠
+--------------------------
+
+*   [ARV](/finance/arv)
+*   [Average daily rate](/finance/adr)
+*   [Cap rate](/finance/cap-rate)
+*   [Commercial lease](/finance/commercial-lease)
+*   [FHA loan](/finance/fha-loan)
+*   [Gross rent multiplier](/finance/gross-rent-multiplier)
+*   [Home affordability](/finance/home-affordability)
+*   [Home value US](/finance/home-value-us)
+*   [LTV (Loan to Value)](/finance/ltv)
+*   [Net effective rent](/finance/net-effective-rent)
+*   [Net operating income](/finance/net-operating-income)
+*   [Occupancy rate](/finance/occupancy-rate)
+*   [Pag IBIG housing loan](/finance/pag-ibig-housing-loan)
+*   [PMI](/finance/pmi)
+*   [Price per square foot](/finance/price-per-sqft)
+*   [Prorated rent](/finance/prorated-rent)
+*   [Real estate commission](/finance/real-estate-commission)
+*   [Real estate commission w/ VAT](/finance/real-estate-commission-vat)
+*   [Rental commission](/finance/rental-commission)
+*   [Rental property](/finance/rental-property)
+*   [Rent or buy](/finance/rent-or-buy)
+*   [Stamp Duty Land Tax (SDLT)](/finance/sdlt-uk)
+*   [VA loan](/finance/va-loan)
+*   [What to offer on a house](/finance/what-to-offer-on-a-house)
+
+Personal finance calculators 💰
+-------------------------------
+
+*   [3D printer - buy vs outsource](/finance/3d-printer-buy-vs-outsource)
+*   [403b](/finance/403b)
+*   [50/30/20 rule](/finance/50-30-20-rule)
+*   [529](/finance/529)
+*   [APC](/finance/apc)
+*   [Auto loan](/finance/auto-loan)
+*   [Balance transfer](/finance/balance-transfer)
+*   [Balloon payment](/finance/balloon-payment)
+*   [Boat loan](/finance/boat-loan)
+*   [Budget](/finance/budget)
+*   [California Stimulus Check](/finance/california-stimulus-check)
+*   [Car affordability](/finance/car-affordability)
+*   [Car depreciation](/finance/car-depreciation)
+*   [Car lease](/finance/car-lease)
+*   [CASH Act of 2020](/finance/cash-act-2020)
+*   [Cell phone plan](/finance/cell-phone-plan)
+*   [Child tax credit](/finance/child-tax-credit)
+*   [Credit card payoff](/finance/credit-card-payoff)
+*   [Cross exchange rate](/finance/cross-exchange-rate)
+*   [Dream come true](/finance/dream-come-true)
+*   [Early retirement](/finance/early-retirement)
+*   [Emergency fund](/finance/emergency-fund)
+*   [Gold melt](/finance/gold-melt)
+*   [Interest rate](/finance/interest-rate)
+*   [IRA](/finance/ira)
+*   [Lease](/finance/lease)
+*   [Lease mileage](/finance/lease-mileage)
+*   [Loan repayment](/finance/loan-repayment)
+*   [Long term care](/finance/long-term-care)
+*   [Lottery annuity](/finance/lottery-annuity)
+*   [Lottery tax](/finance/lottery-tax)
+*   [Mega Millions payout](/finance/mega-millions-payout)
+*   [Millionaire](/finance/millionaire)
+*   [Net Worth](/finance/net-worth)
+*   [Payday loan](/finance/payday-loan)
+*   [Personal loan](/finance/personal-loan)
+*   [Powerball](/finance/powerball)
+*   [Rent](/finance/rent)
+*   [Retirement](/finance/retirement)
+*   [RMD](/finance/rmd)
+*   [Sabbatical](/finance/sabbatical)
+*   [Salary inflation](/finance/salary-inflation)
+*   [Savings](/finance/savings)
+*   [Savings goal](/finance/savings-goal)
+*   [Savings plan](/finance/savings-plan)
+*   [Scrap gold](/finance/scrap-gold)
+*   [Scrap silver](/finance/scrap-silver)
+*   [Second stimulus check](/finance/second-stimulus-check)
+*   [Second stimulus check - HEROES Act](/finance/stimulus-heroes)
+*   [Simple savings](/finance/simple-savings)
+*   [Stimulus check (40k cap)](/finance/stimulus-check-40k-cap)
+*   [Stimulus check - American Rescue Plan](/finance/american-rescue-plan)
+*   [Stimulus check - CAAF vs. HEALS vs. HEROES](/finance/stimulus-heals-vs-heroes)
+*   [Stimulus check - HEALS Act](/finance/stimulus-check-heals)
+*   [Stimulus payment](/finance/stimulus-payment)
+*   [Trump tax](/finance/trump-tax)
+*   [Unemployment benefit - CARES Act](/finance/unemployment-benefit)
+*   [Unemployment benefit - HEALS vs. HEROES](/finance/unemployment-benefit-heals)
+*   [Unemployment benefit - Lost Wages Assistance (LWA)](/finance/lost-wages-assistance)
+*   [Unpaid work](/finance/unpaid-work)
+*   [Wedding budget](/finance/wedding-budget)
+
+Debt management calculators 💳
+------------------------------
+
+*   [10/1 ARM](/finance/10-1-arm)
+*   [28/36 Rule](/finance/28-36-rule)
+*   [Amortization](/finance/amortization)
+*   [APR](/finance/apr)
+*   [ARM mortgage](/finance/arm-mortgage)
+*   [Biweekly Mortgage](/finance/biweekly-mortgage)
+*   [Bi-weekly mortgage payment](/finance/bi-weekly-mortgage-payment)
+*   [Blended rate](/finance/blended-rate)
+*   [Car refinance](/finance/car-refinance)
+*   [Cash-out refinance](/finance/cash-out-refinance)
+*   [Credit card](/finance/credit-card)
+*   [Credit card interest](/finance/credit-card-interest)
+*   [Credit card minimum payment](/finance/credit-card-minimum-payment)
+*   [Credit card payment](/finance/credit-card-payment)
+*   [Credit utilization](/finance/credit-utilization)
+*   [Debt](/finance/debt)
+*   [Debt avalanche](/finance/debt-avalanche)
+*   [Debt consolidation](/finance/debt-consolidation)
+*   [Debt payoff](/finance/debt-payoff)
+*   [Debt service coverage ratio](/finance/dscr)
+*   [Debt snowball](/finance/debt-snowball)
+*   [Debt to asset ratio](/finance/debt-to-asset)
+*   [Debt-to-capital ratio](/finance/debt-to-capital)
+*   [Debt to equity](/finance/debt-to-equity)
+*   [Debt to income ratio](/finance/dti)
+*   [Deferred payment loan](/finance/deferred-payment-loan)
+*   [Economic Injury Disaster Loan Emergency Advance (EIDL)](/finance/economic-injury-disaster-loan)
+*   [Finance charge](/finance/finance-charge)
+*   [HELOC](/finance/heloc)
+*   [Home improvement loan](/finance/home-improvement-loan)
+*   [Home loan](/finance/home-loan)
+*   [Home mortgage](/finance/home-mortgage)
+*   [Interest-only mortgage](/finance/interest-only-mortgage)
+*   [Land loan](/finance/land-loan-payment)
+*   [Loan balance](/finance/loan-balance)
+*   [Loan Calculator](/finance/loan)
+*   [Loan comparison](/finance/loan-comparison)
+*   [Loan payment](/finance/loan-payment)
+*   [Moratórium (Hungary)](/finance/moratorium)
+*   [Mortgage](/finance/mortgage)
+*   [Mortgage acceleration](/finance/mortgage-acceleration)
+*   [Mortgage Amortization Calculator](/finance/mortgage-amortization)
+*   [Mortgage calculator with extra payments](/finance/mortgage-extra-payments)
+*   [Mortgage calculator with taxes and insurance](/finance/mortgage-calculator-with-taxes-and-insurance)
+*   [Mortgage comparison](/finance/mortgage-comparison)
+*   [Mortgage payoff](/finance/mortgage-payoff)
+*   [Mortgage penalty](/finance/mortgage-penalty)
+*   [Mortgage points](/finance/mortgage-points)
+*   [Mortgage prepayment](/finance/mortgage-prepayment)
+*   [Mortgage refinance](/finance/mortgage-refinance)
+*   [Partially amortized loan](/finance/partially-amortized-loan)
+*   [Paycheck Protection Program (PPP)](/finance/paycheck-protection-program)
+*   [PITI](/finance/piti)
+*   [Post judgment interest](/finance/post-judgment-interest)
+*   [Refinance](/finance/refinance)
+*   [Refinance break even](/finance/refinance-break-even)
+*   [RV loan](/finance/rv-loan)
+*   [Simple interest](/finance/simple-interest)
+*   [Sinking fund](/finance/sinking-fund)
+*   [Student loan](/finance/student-loan)
+*   [Student Loan Payment Calculator](/finance/student-loan-payment)
+*   [Student Loan Repayment - Covid](/finance/student-loan-repayment-us)
+
+Microeconomics calculators 💲
+-----------------------------
+
+*   [Accounting profit](/finance/accounting-profit)
+*   [Average variable cost](/finance/avc)
+*   [Consumer surplus](/finance/consumer-surplus)
+*   [Cross price elasticity](/finance/cross-price-elasticity)
+*   [Economic profit](/finance/economic-profit)
+*   [Income elasticity of demand](/finance/income-elasticity-demand)
+*   [Marginal revenue](/finance/marginal-revenue)
+*   [Optimal price](/finance/optimal-price)
+*   [Price elasticity of demand](/finance/price-elasticity-demand)
+*   [Productivity](/finance/productivity)
+*   [Revenue](/finance/revenue)
+
+Macroeconomics calculators 💵
+-----------------------------
+
+*   [Buying power](/finance/buying-power)
+*   [Cobb-Douglas production function](/finance/cobb-douglas-production-function)
+*   [Comparative advantage](/finance/comparative-advantage)
+*   [CPI Inflation](/finance/cpi-inflation)
+*   [Currency forward](/finance/currency-forward)
+*   [Deadweight loss](/finance/deadweight-loss)
+*   [Discretionary income](/finance/discretionary-income)
+*   [Disposable income](/finance/disposable-income)
+*   [Fisher effect](/finance/fisher-effect)
+*   [Fisher equation](/finance/fisher-equation)
+*   [GDP](/finance/gdp)
+*   [GDP deflator](/finance/gdp-deflator)
+*   [GDP gap](/finance/gdp-gap)
+*   [GDP growth rate](/finance/gdp-growth)
+*   [GDP per capita](/finance/gdp-per-capita)
+*   [Gini coefficient](/finance/gini-coefficient)
+*   [Inflation](/finance/inflation)
+*   [Labor force participation rate](/finance/labor-force-participation-rate)
+*   [Liquidity coverage ratio (LCR)](/finance/lcr)
+*   [Marginal Propensity to Consume](/finance/mpc)
+*   [Money multiplier](/finance/money-multiplier)
+*   [Money supply](/finance/money-supply)
+*   [MPS calculator](/finance/mps)
+*   [NSFR](/finance/nsfr)
+*   [Okun's law](/finance/okun-law)
+*   [Phillips curve](/finance/phillips-curve)
+*   [Price elasticity of supply](/finance/price-elasticity-supply)
+*   [Real GDP](/finance/real-gdp)
+*   [Real interest rate](/finance/real-interest-rate)
+*   [Reserve ratio](/finance/reserve-ratio)
+*   [Spending multiplier](/finance/spending-multiplier)
+*   [Taylor rule](/finance/taylor-rule)
+*   [Unemployment rate](/finance/unemployment-rate)
+
+Indian finance calculators 🇮🇳
+-------------------------------
+
+*   [Atal Pension Yojana (India)](/finance/atal-pension-yojana)
+*   [Bike EMI](/finance/bike-emi)
+*   [Car loan EMI](/finance/car-loan-emi)
+*   [ELSS (India)](/finance/elss)
+*   [EMI](/finance/emi)
+*   [EPF](/finance/epf)
+*   [Fixed deposit](/finance/fixed-deposit)
+*   [Home loan EMI](/finance/home-loan-emi)
+*   [HRA exemption](/finance/hra-exemption)
+*   [Lumpsum (India)](/finance/lumpsum)
+*   [Lumpsum plus SIP](/finance/lumpsum-plus-sip)
+*   [Moratorium](/finance/moratorium-emi)
+*   [NPS (National Pension Scheme)](/finance/national-pension-scheme)
+*   [Personal loan EMI](/finance/personal-loan-emi)
+*   [Post Office Monthly Income Scheme](/finance/post-office-monthly-income-scheme)
+*   [PPF (India)](/finance/ppf)
+*   [RD (recurring deposit)](/finance/rd)
+*   [Sukanya Samriddhi Yojana (India)](/finance/ssy)
+*   [SWP (India)](/finance/swp)
+*   [Systematic investment plan](/finance/sip-india)
+*   [TDS interest](/finance/tds-interest)
+
+Other calculators
+-----------------
+
+*   [Basis point](/finance/basis-point)
+*   [Brexit](/finance/brexit)
+*   [Dart rate](/finance/dart-rate)
+*   [Kalkulator produktów menstruacyjnych dla instytucji](/finance/koszt-miesiaczka-instytucje)
+*   [Price / quantity](/finance/price-quantity)
+*   [Student loan forgiveness](/finance/student-loan-forgiveness)
+*   [TRIR](/finance/trir)
+*   [Turnover rate](/finance/turnover-rate)
+*   [VA disability](/finance/va-disability)
+*   [Velocity of money](/finance/velocity-of-money)
+
+Food
+====
+
+Cooking converters 🥄
+---------------------
+
+*   [Butter](/food/butter)
+*   [Cake pan](/food/cake-pans)
+*   [Cake pricing](/food/cake-pricing)
+*   [Cooking measurement](/food/cooking-measurement)
+*   [Cups to pounds](/food/cups-to-pounds)
+*   [Dry to cooked pasta](/food/dry-to-cooked-pasta)
+*   [Grams to cups](/food/grams-to-cups)
+*   [Grams to tablespoons](/food/grams-to-tbsp)
+*   [Grams to teaspoons](/food/grams-to-tsp)
+*   [ml to grams](/food/ml-to-grams)
+*   [Oil to butter](/food/oil-to-butter)
+*   [Pounds to cups](/food/pounds-to-cups)
+*   [Rice to water ratio](/food/rice-water-ratio)
+*   [Sourdough](/food/sourdough)
+*   [Yeast converter](/food/yeast-converter)
+
+Breakfast calculators 🍳
+------------------------
+
+*   [Bread spreads](/food/bread-spreads)
+*   [Coffee kick](/food/coffee-kick)
+*   [Coffee to water ratio](/food/coffee-to-water-ratio)
+*   [Cold brew ratio](/food/cold-brew-ratio)
+*   [Egg boiling](/food/eggs)
+*   [Ideal egg boiling](/food/egg-boiling)
+*   [Pancake recipe](/food/pancake-recipe)
+*   [Perfect pancake](/food/perfect-pancake)
+
+Party calculators 🍸
+--------------------
+
+*   [BBQ grill size](/food/bbq-grill-size)
+*   [BBQ party](/food/bbq-party)
+*   [Beer pong](/food/beer-pong)
+*   [Cake serving](/food/cake-serving)
+*   [Chilled drink](/food/chilled-drink)
+*   [How much ham per person](/food/how-much-ham-per-person)
+*   [Party drink](/food/party-drink)
+*   [Pizza comparison](/food/pizza-comparison)
+*   [Pizza party](/food/pizza-party)
+*   [Pizza size](/food/pizza)
+*   [Popcorn](/food/popcorn)
+*   [Thanksgiving](/food/thanksgiving)
+*   [Thanksgiving Calories](/food/thanksgiving-calories)
+*   [Turkey thawing](/food/turkey-thawing)
+*   [Wedding alcohol](/food/wedding-alcohol)
+
+Other calculators
+-----------------
+
+*   [ABV](/food/alcohol-by-volume)
+*   [Alcohol dilution](/food/alcohol-dilution)
+*   [Baker's percentage](/food/bakers-percentage)
+*   [Brine](/food/brine)
+*   [Chocolate](/food/chocolate)
+*   [Coffee](/food/coffee)
+*   [Coffee footprint](/food/coffee-footprint)
+*   [Coffee ratio](/food/coffee-ratio)
+*   [Donut](/food/donut)
+*   [Ham cooking time](/food/ham-cooking)
+*   [Ice cream](/food/ice-cream)
+*   [Molecular SO2](/food/molecular-so2)
+*   [Pizza baking](/food/perfect-pizza)
+*   [Quarantine food](/food/quarantine-food)
+*   [Salad calories](/food/salad-calories)
+*   [Steak cook time](/food/steak-cook-time)
+*   [Taco bar](/food/taco-bar)
+*   [Tea brewing](/food/tea-brewing)
+*   [Turkey cooking time](/food/turkey-cooking-time)
+*   [Turkey defrost time](/food/turkey-defrost)
+*   [Turkey size](/food/turkey-size)
+
+Health
+======
+
+Body measurements calculators 📏
+--------------------------------
+
+*   [A Body Shape Index (ABSI)](/health/a-body-shape-index)
+*   [Adjusted body weight](/health/adjusted-weight)
+*   [Air force PT](/health/air-force-pt)
+*   [APFT](/health/apft)
+*   [Army body fat](/health/army-body-fat)
+*   [BAI](/health/bai)
+*   [BMI (body mass index)](/health/bmi)
+*   [BMI calculator for kids](/health/bmi-kids)
+*   [BMI calculator for men](/health/bmi-men)
+*   [BMI calculator for teens](/health/bmi-teens)
+*   [BMI calculator for women](/health/bmi-women)
+*   [Body fat](/health/body-fat)
+*   [Body frame size](/health/body-frame-size)
+*   [Body shape](/health/body-shape)
+*   [Face shape](/health/face-shape)
+*   [Fat-free mass index](/health/ffmi)
+*   [Geriatric BMI](/health/geriatric-bmi)
+*   [Ideal weight](/health/ideal-weight)
+*   [Karvonen formula](/health/karvonen-formula)
+*   [Lean body mass](/health/lean-body-mass)
+*   [Navy body fat](/health/navy-body-fat)
+*   [Ponderal index](/health/ponderal-index)
+*   [Relative fat mass](/health/relative-fat-mass)
+*   [Waist-hip ratio](/health/waist-hip-ratio)
+*   [Waist to height](/health/waist-height-ratio)
+
+Dietary calculators 🥗
+----------------------
+
+*   [Added sugar intake](/health/sugar-intake)
+*   [Basal energy expenditure](/health/bee)
+*   [BMR - Harris-Benedict equation](/health/bmr-harris-benedict-equation)
+*   [BMR - Katch-McArdle equation](/health/bmr-katch-mcardle)
+*   [BMR - Mifflin St Jeor equation](/health/bmr)
+*   [Calorie](/health/calorie)
+*   [Calorie deficit](/health/calorie-deficit)
+*   [Carbohydrates](/health/carb)
+*   [Diet risk score](/health/diet-risk-score)
+*   [DRI](/health/dri)
+*   [EER (Estimated Energy Requirement)](/health/eer-estimated-energy-requirement)
+*   [Fat intake](/health/fat)
+*   [Fiber](/health/fiber)
+*   [Gastric sleeve weight loss](/health/gastric-sleeve-weight-loss)
+*   [IIFYM (If It Fits Your Macros)](/health/iifym)
+*   [Keto](/health/keto)
+*   [Macro](/health/macro)
+*   [Maintenance calorie](/health/maintenance-calorie)
+*   [Meal calorie](/health/meal-calorie)
+*   [Micronutrient](/health/micronutrient)
+*   [Net carbs](/health/net-carbs)
+*   [Protein](/health/protein)
+*   [Quarantine activity](/health/quarantine-activity)
+*   [RMR (resting metabolic rate)](/health/rmr)
+*   [Simple calorie intake](/health/simple-calorie-intake)
+*   [TDEE - Total Daily Energy Expenditure](/health/tdee)
+*   [Vitamin](/health/vitamin)
+*   [Vitamin A](/health/vitamin-a)
+*   [Weight gain](/health/weight-gain)
+*   [Weight Watchers points](/health/weight-watchers-points)
+
+Metabolic disorders calculators 🍟
+----------------------------------
+
+*   [AHI](/health/ahi)
+*   [Ast alt ratio](/health/ast-alt-ratio)
+*   [Child Pugh](/health/child-pugh)
+*   [Cholesterol ratio](/health/cholesterol-ratio)
+*   [Cholesterol units](/health/cholesterol-units)
+*   [FIB-4](/health/fib-4)
+*   [LDL cholesterol](/health/ldl)
+*   [MELD](/health/meld)
+*   [NAFLD fibrosis score](/health/nafld-fibrosis-score)
+*   [Serum-ascites albumin gradient (SAAG)](/health/saag)
+*   [STOP-BANG](/health/stop-bang)
+*   [VLDL](/health/vldl)
+*   [Warsaw method](/health/warsaw-method)
+
+Fertility & pregnancy calculators 🤰
+------------------------------------
+
+*   [BBT](/health/bbt)
+*   [Birth control](/health/birth-control-cost)
+*   [Bishop score](/health/bishop-score)
+*   [Breastfeeding calorie](/health/breastfeeding-calorie)
+*   [Clomid ovulation](/health/clomid-ovulation)
+*   [Conception date](/health/conception-date)
+*   [Crown-rump length](/health/crown-rump-length)
+*   [Due date](/health/pregnancy-due-date)
+*   [EDD (Estimated Date of Delivery)](/health/edd)
+*   [Egg freezing](/health/egg-freezing)
+*   [Flange size](/health/flange-size)
+*   [Fundal height](/health/fundal-height)
+*   [Gestational Age](/health/gestational-age)
+*   [hCG levels](/health/hcg-levels)
+*   [Implantation](/health/implantation)
+*   [IVF due date 👶](/health/ivf-due-date)
+*   [Luteal phase](/health/luteal-phase)
+*   [MCA perinatology](/health/mca)
+*   [Mean sac diameter](/health/mean-sac-diameter)
+*   [Nuchal translucency](/health/nuchal-translucency)
+*   [Ovulation](/health/ovulation)
+*   [Pearl index](/health/pearl-index)
+*   [Period](/health/period)
+*   [Pregnancy test](/health/pregnancy-test)
+*   [Pregnancy weight gain](/health/pregnancy-weight-gain)
+*   [Progesterone to estradiol ratio](/health/pg-e2-ratio)
+*   [Reverse due date](/health/reverse-due-date)
+*   [Sperm analysis](/health/sperm-analysis)
+*   [Stillbirth risk](/health/stillbirth-risk)
+*   [Testosterone to estrogen ratio](/health/t-e2-ratio)
+*   [Twinning](/health/twinning)
+*   [VBAC risk score](/health/vbac-risk-score)
+*   [VTE risk pregnancy](/health/vte-risk-pregnancy)
+
+Addiction medicine calculators 🚬
+---------------------------------
+
+*   [Addiction](/health/addiction)
+*   [Alcohol units](/health/alcohol-units)
+*   [Audit-C screen](/health/audit-c)
+*   [Audit test](/health/audit-test)
+*   [BAC](/health/bac)
+*   [Caffeine](/health/caffeine)
+*   [CAGE questionnaire](/health/cage-questionnaire)
+*   [Cigarette](/health/cigarette)
+*   [CIWA calculator](/health/ciwa)
+*   [Fagerstrom test for nicotine dependence](/health/fagerstrom-test-for-nicotine-dependence)
+*   [Finnegan score for NAS](/health/finnegan-nas)
+*   [HSI](/health/hsi)
+*   [Lille score](/health/lille-score)
+*   [Standard drink](/health/standard-drink)
+
+Diabetes calculators 💉
+-----------------------
+
+*   [Blood sugar converter](/health/blood-sugar)
+*   [Diabetes risk](/health/risk-dm)
+*   [Diabetic ketoacidosis](/health/diabetic-ketoacidosis)
+*   [Estimated average glucose](/health/estimated-average-glucose)
+*   [Glycemic index](/health/gi)
+*   [Glycemic load](/health/glycemic-load)
+*   [Hemoglobin A1c](/health/hemoglobin-a1c)
+*   [HOMA-IR](/health/homa-ir)
+*   [Insulin dosage](/health/insulin-dosage)
+*   [QUICKI](/health/quicki)
+
+Cardiovascular system calculators ❤️
+------------------------------------
+
+*   [6 minute walk test](/health/6-minute-walk-test)
+*   [Ankle-brachial index](/health/abi)
+*   [Aortic valve area](/health/aortic-valve-area)
+*   [Arterial age](/health/arterial-age)
+*   [Blood pressure](/health/blood-pressure)
+*   [Cardiac index](/health/cardiac-index)
+*   [Cardiac output](/health/cardiac-output)
+*   [CHA₂DS₂-VASc](/health/cha2ds2-vasc)
+*   [CVD risk](/health/cvd-risk)
+*   [DAPT](/health/dapt)
+*   [Doppler echo cardiac output](/health/doppler-echo-cardiac-output)
+*   [Duke Treadmill Score](/health/duke-score)
+*   [ECG boxes to seconds](/health/ecg-boxes-seconds)
+*   [ECG heart rate](/health/ecg-heart-rate)
+*   [EROA](/health/eroa)
+*   [Framingham risk](/health/framingham-risk)
+*   [Gorlin formula](/health/gorlin-formula)
+*   [GRACE](/health/grace)
+*   [Gupta Perioperative Risk for Myocardial Infarction or Cardiac Arrest (MICA)](/health/mica)
+*   [HAS-BLED Calculator](/health/has-bled)
+*   [Heart failure life expectancy](/health/heart-failure-life-expectancy)
+*   [HEART score](/health/heart-score)
+*   [ICH volume](/health/ich-volume)
+*   [LV mass index](/health/lv-mass-index)
+*   [MAP (mean arterial pressure)](/health/mean-arterial-pressure)
+*   [PERC](/health/perc)
+*   [PISA](/health/pisa)
+*   [Pulmonary Embolism (Wells)](/health/wells-pe)
+*   [Pulmonary vascular resistance](/health/pvr)
+*   [QTc](/health/qtc)
+*   [Rate pressure product](/health/rate-pressure-product)
+*   [Revised Cardiac Risk Index](/health/rcri)
+*   [Stroke volume](/health/stroke-volume)
+*   [TIMI Score for STEMI](/health/timi-stemi)
+*   [TIMI Score for UA/NSTEMI](/health/timi-ua-nstemi)
+
+Electrolytes & fluids calculators 🧪
+------------------------------------
+
+*   [Anion gap](/health/anion-gap)
+*   [Arterial blood pH](/health/arterial-blood-ph)
+*   [Corrected calcium](/health/corrected-calcium)
+*   [Corrected magnesium](/health/corrected-mg)
+*   [Drip rate](/health/drip-rate)
+*   [Drops per minute](/health/drops-per-minute)
+*   [Free water deficit](/health/water-deficit)
+*   [Parkland formula](/health/parkland-formula)
+*   [Serum osmolality](/health/serum-osmolality)
+*   [Sodium change in hypertriglyceridemia](/health/sodium-change)
+*   [Sodium correction](/health/sodium-correction)
+*   [Sodium correction for hypo- and hypernatremia](/health/sodium-correction-rate)
+*   [Sodium deficit](/health/sodium-deficit)
+*   [Total body water](/health/body-water)
+*   [Urine anion gap](/health/urine-anion-gap)
+*   [Venous blood pH](/health/venous-blood-ph)
+*   [Winters' formula](/health/winters-formula)
+
+Urology & nephrology calculators 🚽
+-----------------------------------
+
+*   [Adrenal washout calculator](/health/adrenal-washout)
+*   [Albumin creatinine ratio](/health/acr)
+*   [Bladder volume](/health/bladder-volume)
+*   [BUN/creatinine ratio](/health/bun-creatinine-ratio)
+*   [Creatinine clearance](/health/crcl)
+*   [EORTC Bladder Cancer Recurrence and Progression Calculator](/health/eortc-bladder-cancer)
+*   [FENa](/health/fena)
+*   [FEUrea](/health/feurea)
+*   [GFR (estimated glomerular filtration rate)](/health/glomerular-filtration-rate)
+*   [Kidney failure risk](/health/kidney-failure-risk)
+*   [Kidney STONE](/health/kidney-stone)
+*   [Kt/V](/health/kt-v)
+*   [Metastatic prostate cancer prognosis](/health/metastatic-prostate-cancer-prognosis)
+*   [Protein creatinine ratio](/health/protein-cr-ratio)
+*   [PSA density](/health/psa-density)
+*   [PSA doubling time](/health/psa-doubling-time)
+*   [Transtubular potassium gradient](/health/ttkg)
+*   [Urine output](/health/urine-output)
+*   [URR (urea reduction ratio)](/health/urr)
+
+Hematology calculators 🆎
+-------------------------
+
+*   [4Ts score](/health/4ts-score)
+*   [Absolute eosinophil count](/health/eosinophil-count)
+*   [Absolute lymphocyte count](/health/lymphocyte-count)
+*   [Absolute reticulocyte count](/health/reticulocyte-count)
+*   [Age-Adjusted D-dimer](/health/age-adjusted-d-dimer)
+*   [ANC](/health/anc)
+*   [ANC without bands](/health/anc-without-bands)
+*   [Blood donation due date](/health/blood-donation-due-date)
+*   [Blood donor](/health/blood-donor)
+*   [Blood loss](/health/blood-loss)
+*   [Blood type](/health/blood-type)
+*   [Blood volume](/health/blood-volume)
+*   [Corrected reticulocyte count](/health/crc)
+*   [DIC syndrome](/health/dic-syndrome)
+*   [Diffuse large B-cell lymphoma prognosis](/health/diffuse-large-b-cell-lymphoma-prognosis)
+*   [Fresh frozen plasma dose](/health/fresh-frozen-plasma-dose)
+*   [Hematocrit to hemoglobin](/health/hct-hgb)
+*   [INR](/health/inr)
+*   [Iron deficiency](/health/iron-deficiency)
+*   [Mentzer index](/health/mentzer-index)
+*   [MIPI](/health/mipi)
+*   [Plasma volume](/health/plasma-volume)
+*   [RBC indices](/health/rbc-indices)
+*   [Transferrin saturation](/health/transferrin)
+
+Pediatric calculators 🧒
+------------------------
+
+*   [Adjusted age](/health/adjusted-age)
+*   [Amoxicillin pediatric dosage](/health/amoxicillin-pediatric-dosage)
+*   [APGAR score](/health/apgar-score)
+*   [Baby formula](/health/baby-formula)
+*   [Baby's milk intake](/health/babys-milk-intake)
+*   [GIR (Glucose Infusion Rate)](/health/gir)
+*   [Height](/health/height)
+*   [Infant Tylenol dosage](/health/infant-tylenol-dosage)
+*   [Maintenance fluids for children](/health/maintenance-fluids-children)
+*   [Newborn Hyperbilirubinemia Assesment](/health/newborn-hyperbilirubinemia-assessment)
+*   [PECARN](/health/pecarn)
+*   [Pediatric blood pressure](/health/pediatric-blood-pressure)
+*   [Pediatric blood transfusion volume](/health/pediatric-transfusion)
+*   [Pediatric blood volume](/health/pediatric-blood-volume)
+*   [Pediatric dose](/health/pediatric-dose)
+*   [Pediatric epinephrine dose](/health/pediatric-epinephrine-dose)
+*   [Pediatric GFR (glomerular filtration rate)](/health/pediatric-glomerular-filtration-rate)
+
+Percentile calculators 👶
+-------------------------
+
+*   [Baby percentile](/health/baby-percentile)
+*   [Birthweight percentile](/health/birthweight-percentile)
+*   [Child BMI percentile](/health/bmi-percentile-child)
+*   [Child height percentile](/health/child-height-percentile)
+*   [Child weight percentile](/health/child-weight-percentile)
+*   [Fetal weight percentile](/health/fetal-weight-percentile)
+*   [Head circumference percentile](/health/head-percentile)
+*   [IQ percentile](/health/iq-percentile)
+
+Pulmonary calculators 💨
+------------------------
+
+*   [AA gradient](/health/aa-gradient)
+*   [BODE Index](/health/bode-index)
+*   [CURB-65](/health/curb)
+*   [Endotracheal tube size](/health/ett-size)
+*   [Fev1/fvc ratio](/health/fev1-fvc-ratio)
+*   [Light's criteria](/health/lights-criteria)
+*   [Lung cancer risk](/health/lung-cancer-risk-calculator-for-smokers)
+*   [Lung capacity](/health/lung-capacity)
+*   [Lung nodule growth rate](/health/lung-nodule-growth-rate)
+*   [Oxygenation Index](/health/oxygenation-index)
+*   [Pack year](/health/pack-years)
+*   [Peak flow](/health/peak-flow)
+*   [PF ratio](/health/pao2-fio2-ratio)
+*   [PSI](/health/psi)
+*   [Qp/Qs ratio](/health/qp-qs-ratio)
+*   [Rapid shallow breathing index](/health/rsbi)
+*   [Revised Geneva Score](/health/revised-geneva-score)
+*   [Smoking recovery](/health/smoking-recovery)
+*   [Tidal volume](/health/tidal-volume)
+*   [Vital capacity](/health/vital-capacity)
+
+Dosage calculators 💊
+---------------------
+
+*   [Adderall dosage](/health/adderall-dosage)
+*   [Aleve dosage](/health/aleve-dosage)
+*   [Benadryl](/health/benadryl)
+*   [Benzodiazepine conversion](/health/benzodiazepine-conversion)
+*   [Cefdinir dosage](/health/cefdinir-dosage)
+*   [Dosage](/health/dosage)
+*   [Fish oil](/health/fish-oil)
+*   [Gabapentin dosage](/health/gabapentin-dosage)
+*   [Hydroxychloroquine dose](/health/hydroxychloroquine-dose)
+*   [Ibuprofen dosage](/health/ibuprofen-dosage)
+*   [Isotretinoin](/health/isotretinoin)
+*   [IVIG dose](/health/ivig-dose)
+*   [Levothyroxine dosage](/health/levothyroxine-dosage)
+*   [Lidocaine dose](/health/lidocaine-dose)
+*   [mcg to iu converter](/health/mcg-to-iu-converter)
+*   [Melatonin dosage](/health/melatonin-dosage)
+*   [Paracetamol dosage](/health/paracetamol-dosage)
+*   [Prescription refill](/health/prescription-refill)
+*   [tPA](/health/tpa)
+*   [Tramadol dosage](/health/tramadol-dosage)
+*   [Tylenol dosage](/health/tylenol-dosage)
+*   [Tylenol overdose](/health/tylenol-overdose)
+*   [Vitamin D](/health/vitamin-d)
+*   [Warfarin dosing](/health/warfarin-dosing)
+
+General health calculators ⚕️
+-----------------------------
+
+*   [20/20 Vision for 2020](/health/2020-vision)
+*   [Acid-base](/health/acid-base)
+*   [Alvarado score](/health/alvarado)
+*   [APACHE II](/health/apache-ii)
+*   [APRI](/health/apri)
+*   [Barthel index](/health/barthel-index)
+*   [BASDAI score](/health/basdai)
+*   [BED](/health/bed)
+*   [Bicarbonate deficit](/health/bicarbonate-deficit)
+*   [BMI weight loss](/health/bmi-weight-loss)
+*   [Braden score (Braden scale for pressure ulcers)](/health/braden-score)
+*   [Breast cancer recurrence risk](/health/breast-cancer-recurrence-risk)
+*   [Breast cancer risk](/health/breast-cancer-risk)
+*   [BSA](/health/bsa)
+*   [Carboplatin](/health/carboplatin)
+*   [Car heat](/health/car-heat)
+*   [Centor score](/health/centor)
+*   [Charlson Comorbidity Index (CCI)](/health/cci)
+*   [COVID-19 mortality risk](/health/covid-mortality-risk)
+*   [Covid event risk](/health/covid-event-risk)
+*   [Crohn's Disease Activity Index (CDAI) calculator](/health/cdai)
+*   [Denver HIV risk score](/health/denver-hiv-risk)
+*   [Depression screening by PHQ-2](/health/depression-phq)
+*   [Discriminant function](/health/discriminant-function)
+*   [Drug half-life](/health/drug-half-life)
+*   [Duke Activity Status Index (DASI)](/health/dasi)
+*   [Epworth sleepiness scale](/health/epworth-sleepiness-scale)
+*   [Free & Bioavailable Testosterone Calculator](/health/free-testosterone)
+*   [Glasgow coma scale](/health/gcs)
+*   [Gout diagnosis](/health/gout-diagnosis)
+*   [Hand Sanitizer - Coronavirus](/health/hand-sanitizer)
+*   [Incidence rate](/health/incidence-rate)
+*   [Infectious disease and epidemic calculator (SIR model)](/health/viral-infection-sir)
+*   [Injury Severity Score (ISS)](/health/iss)
+*   [Intracerebral Hemorrhage (ICH)](/health/ich)
+*   [IV flow rate](/health/iv-flow-rate)
+*   [Mask vs. no mask](/health/mask-vs-no-mask)
+*   [Max vaccine immunity](/health/vaccine-immunity)
+*   [Medical Radiation](/health/medical-radiation)
+*   [MEWS score](/health/mews-score)
+*   [Mortality rate](/health/mortality-rate)
+*   [NIH stroke scale](/health/nih-stroke)
+*   [Noise exposure time](/health/noise-pollution)
+*   [Opioid conversion](/health/opioid)
+*   [Padua score](/health/padua-score)
+*   [Pediatric Epworth sleepiness scale](/health/pediatric-epworth-sleepiness-scale)
+*   [qSOFA](/health/q-sofa)
+*   [Revised trauma score](/health/revised-trauma-score)
+*   [SAPS II](/health/saps-ii)
+*   [SCORAD](/health/scorad)
+*   [Sepsis-3 criteria](/health/sepsis)
+*   [Shock index](/health/shock-index)
+*   [Sleep](/health/sleep)
+*   [SOFA score](/health/sofa-score)
+*   [Steroid conversion](/health/steroid)
+*   [Tinetti](/health/tinetti)
+*   [Water intake](/health/water-intake)
+
+Covid-19 vaccine calculators 😷
+-------------------------------
+
+*   [Calcolatore di attesa per il vaccino in Italia](/health/calcolatore-vaccino-italia)
+*   [Calculadora de turno de vacunación para Colombia](/health/turno-vacunacion-covid-colombia)
+*   [Calculadora de turno de vacunación para República Dominicana](/health/turno-vacunacion-covid-republica-dominicana)
+*   [Calculateur de queue pour le vaccin au Canada](/health/calculateur-queue-vaccin-canada)
+*   [Calculateur de vaccin Belgique](/health/calculateur-de-vaccin-belgique)
+*   [Calculateur de vaccin Suisse](/health/calculateur-queue-vaccin-suisse)
+*   [Calculator van de vaccinwachtrij in België](/health/calculator-vaccinwachtrij-belgie)
+*   [Cola de vacunación en Mexico](/health/cola-vacunacion-covid-mexico)
+*   [Corona-Impfterminrechner](/health/impfterminrechner)
+*   [Corona-Impfterminrechner für die Schweiz](/health/impfterminrechner-schweiz)
+*   [Fila de vacinas contra a COVID-19 em Portugal](/health/fila-portugal)
+*   [Kalkulačka radu na vakcínu pre Slovenskú republiku](/health/radu-vakcinu-slovensku-republiku)
+*   [Kalkulátor fronty na vakcínu pro Českou republiku](/health/fronty-vakcinu-ceska-republica)
+*   [kolejka szczepionkowa](/health/kolejka-szczepionkowa)
+*   [Oltási Sorrend Magyarország](/health/oltasi-sorrend-magyarorszag)
+*   [Queue pour vaccin France](/health/queue-pour-vaccin-france)
+*   [Türkiye için aşı sırası hesaplayıcı](/health/turkiye-asilar)
+*   [Turno de vacunación en España](/health/turno-vacunacion-covid-espana)
+*   [Turno de Vacunación para Argentina](/health/turno-vacunacion-covid-argentina)
+*   [Turno de Vacunación para Chile](/health/turno-vacunacion-covid-chile)
+*   [Turno de Vacunación para Ecuador](/health/turno-vacunacion-covid-ecuador)
+*   [Turno de Vacunación para Perú](/health/turno-vacunacion-covid-peru)
+*   [US Vaccine Strategy Calculator](/health/us-vaccine-strategy)
+*   [Vaccine efficacy](/health/vaccine-efficacy)
+*   [Vaccine production](/health/vaccine-production)
+*   [Vaccine queue Australia](/health/vaccine-queue-australia)
+*   [Vaccine queue calculator for India](/health/vaccine-queue-india)
+*   [Vaccine queue Canada](/health/vaccine-queue-ca)
+*   [Vaccine queue England](/health/vaccine-queue-england)
+*   [Vaccine queue for Malaysia](/health/vaccine-queue-malaysia)
+*   [Vaccine queue Ireland](/health/ireland-vaccine-queue)
+*   [Vaccine queue Netherlands](/health/vaccine-queue-netherlands)
+*   [Vaccine queue Northern Ireland](/health/vaccine-queue-northern-ireland)
+*   [Vaccine queue Philippines](/health/vaccine-queue-philippines)
+*   [Vaccine queue Russia](/health/kalkulyator-ocheredi-na-vaktsinatsiyu)
+*   [Vaccine queue Scotland](/health/vaccine-queue-scotland)
+*   [Vaccine queue South Africa](/health/vaccine-queue-sa)
+*   [Vaccine queue UK](/health/vaccine-queue-uk)
+*   [Vaccine queue Wales](/health/vaccine-queue-wales)
+*   [Черга на вакцинацію в Україні Калькулятор](/health/kalkulyator-cherhy-na-vaktsynatsiyu)
+
+Other calculators
+-----------------
+
+*   [Albumin globulin ratio](/health/albumin-globulin-ratio)
+*   [Aldrete score](/health/aldrete-score)
+*   [Alzheimer’s life expectancy](/health/alzheimers-life-expectancy)
+*   [BIMS (brief interview for mental status)](/health/bims)
+*   [DUDIT](/health/dudit)
+*   [Epds](/health/epds)
+*   [Football Calorie (WC Edition)](/health/world-cup-calorie)
+*   [Gad-7](/health/gad-7)
+*   [Happiness](/health/happiness)
+*   [Morphine equivalents MME](/health/mme)
+*   [NEDOCS](/health/nedocs)
+*   [NNT](/health/nnt)
+*   [Pokémon Go weight loss](/health/pokemon-go)
+*   [Radiation dose](/health/radiation-dose)
+*   [Reopening Calculator - Coronavirus](/health/back-to-normal-life)
+*   [Skinfold body fat](/health/skinfold-body-fat)
+*   [Snap score](/health/snap-score)
+*   [Sobriety](/health/sobriety)
+*   [Social distancing](/health/social-distancing)
+*   [Swiss cheese model - coronavirus protection](/health/swiss-cheese-coronavirus)
+*   [Time of death](/health/time-of-death)
+*   [TI-RADS](/health/tirads)
+
+Redundant calculators
+---------------------
+
+*   [Blood pregnancy test](/health/blood-pregnancy-test)
+*   [BMI in pregnancy](/health/bmi-in-pregnancy)
+*   [Excessive weight gain pregnancy](/health/excessive-weight-gain-pregnancy)
+*   [False negative pregnancy test](/health/false-negative-pregnancy-test)
+*   [How to maintain weight in pregnancy](/health/how-to-maintain-weight-in-pregnancy)
+*   [Positive pregnancy test](/health/positive-pregnancy-test)
+*   [Pregnancy test at 3 weeks](/health/pregnancy-test-at-3-weeks)
+*   [Twin pregnancy weight gain](/health/twin-pregnancy-weight-gain)
+*   [Urine pregnancy test](/health/urine-pregnancy-test)
+*   [Weight week by week](/health/weight-week-by-week)
+
+Math
+====
+
+Percentages calculators 💯
+--------------------------
+
+*   [Average percentage](/math/average-percentage)
+*   [Convert fraction to percentage](/math/convert-fraction-to-percentage)
+*   [Decimal to percent](/math/decimal-to-percent)
+*   [Doubling time](/math/doubling-time)
+*   [Percentage](/math/percentage)
+*   [Percentage change](/math/percentage-change)
+*   [Percentage decrease](/math/percentage-decrease)
+*   [Percentage difference](/math/percentage-difference)
+*   [Percentage increase](/math/percentage-increase)
+*   [Percentage of a percentage](/math/percentage-of-percentage)
+*   [Percentage point](/math/percentage-point)
+*   [Percent error](/math/percent-error)
+
+Algebra calculators 🔡
+----------------------
+
+*   [Absolute value equation](/math/absolute-value-equation)
+*   [Absolute value inequalities](/math/absolute-value-inequalities)
+*   [Adding and subtracting polynomials](/math/add-subtract-polynomials)
+*   [Bessel function](/math/bessel-function)
+*   [Binomial coefficient](/math/binomial-coefficient)
+*   [Completing the square](/math/completing-the-square)
+*   [Complex conjugate](/math/conjugate)
+*   [Complex number](/math/complex-number)
+*   [Complex root](/math/complex-root)
+*   [Cubic equation](/math/cubic-equation)
+*   [Descartes rule of signs](/math/descartes-rule-of-signs)
+*   [Diamond problem](/math/diamond-problem)
+*   [Direct variation](/math/direct-variation)
+*   [Discriminant](/math/discriminant)
+*   [Elimination method](/math/elimination-method)
+*   [Error function](/math/error-function)
+*   [Factoring trinomials](/math/factoring-trinomials)
+*   [FOIL](/math/foil)
+*   [Gamma function](/math/gamma-function)
+*   [Graphing inequalities on a number line](/math/graphing-inequalities-1d)
+*   [Graphing quadratic inequalities](/math/graphing-quadratic-inequalities)
+*   [Hyperbolic functions](/math/hyperbolic-functions)
+*   [Inequality to interval notation](/math/inequality-to-interval-notation)
+*   [Multiplying binomials](/math/multiplying-binomials)
+*   [Multiplying polynomials](/math/multiplying-polynomials)
+*   [Partial fraction decomposition](/math/partial-fraction-decomposition)
+*   [Perfect square trinomial](/math/perfect-square-trinomial)
+*   [Polynomial division](/math/polynomial-division)
+*   [Power set](/math/power-set)
+*   [Quadratic formula](/math/quadratic-formula)
+*   [Quaternion](/math/quaternion)
+*   [Rational zeros](/math/rational-zeros)
+*   [Subset](/math/subset)
+*   [Substitution method](/math/substitution-method)
+*   [Synthetic division](/math/synthetic-division)
+*   [Systems of equations](/math/systems-of-equations)
+*   [Union and intersection](/math/union-intersection)
+
+Arithmetic calculators ➗
+------------------------
+
+*   [Absolute value](/math/absolute-value)
+*   [Addition](/math/addition)
+*   [Associative property](/math/associative-property)
+*   [Average](/math/average)
+*   [Ceiling function](/math/ceiling-function)
+*   [Chinese remainder theorem](/math/chinese-remainder)
+*   [Consecutive integers](/math/consecutive-integers)
+*   [Cross multiplication](/math/cross-multiplication)
+*   [Cube root](/math/cube-root)
+*   [Decimal](/math/decimal)
+*   [Digital root](/math/digital-root)
+*   [Distributive property](/math/distributive-property)
+*   [Divisibility test](/math/divisibility-test)
+*   [Egyptian fraction](/math/egyptian-fraction)
+*   [Expanded form](/math/expanded-form)
+*   [Factor](/math/factor)
+*   [Factorial](/math/factorial)
+*   [Floor function](/math/floor-function)
+*   [Fundamental counting principle](/math/fundamental-counting-principle)
+*   [GCF](/math/gcf)
+*   [GCF and LCM](/math/gcf-and-lcm)
+*   [Geometric mean](/math/geometric-mean)
+*   [Harmonic mean](/math/harmonic-mean)
+*   [Integer](/math/integer)
+*   [Inverse modulo](/math/inverse-modulo)
+*   [LCM](/math/lcm)
+*   [Long addition](/math/long-addition)
+*   [Long division](/math/long-division)
+*   [Long multiplication](/math/long-multiplication)
+*   [Long subtraction](/math/long-subtraction)
+*   [Magic square](/math/magic-square)
+*   [Mean](/math/mean)
+*   [Modulo](/math/modulo)
+*   [Multiplication](/math/multiplication)
+*   [Multiplicative inverse](/math/multiplicative-inverse)
+*   [Order of magnitude](/math/order-of-magnitude)
+*   [Partial products](/math/partial-products)
+*   [Perfect cube](/math/perfect-cube)
+*   [Perfect square](/math/perfect-square)
+*   [Pi Experiments Calculator](/math/pi)
+*   [Polish notation](/math/polish-notation)
+*   [Power modulo](/math/power-modulo)
+*   [Prime factorization](/math/prime-factorization)
+*   [Prime number](/math/prime-number)
+*   [Quotient](/math/quotient)
+*   [Radical](/math/radical)
+*   [Rationalize denominator](/math/rationalize-denominator)
+*   [Reciprocal](/math/reciprocal)
+*   [Remainder](/math/remainder)
+*   [Root](/math/root)
+*   [Root mean square](/math/root-mean-square)
+*   [Rounding](/math/rounding)
+*   [Round to the nearest thousand](/math/round-to-the-nearest-thousand)
+*   [Scientific notation](/math/scientific-notation)
+*   [Significant figures](/math/sig-fig)
+*   [Simplifying radicals](/math/simplify-radicals)
+*   [Square root](/math/square-root)
+*   [Standard form](/math/standard-form)
+*   [Subtraction](/math/subtraction)
+*   [Sum of digits](/math/sum-of-digits)
+*   [Triangular numbers](/math/triangular-numbers)
+*   [Weighted average](/math/weighted-average)
+
+Coordinate geometry calculators 📈
+----------------------------------
+
+*   [Average rate of change](/math/average-rate-of-change)
+*   [Bilinear interpolation](/math/bilinear-interpolation)
+*   [Catenary curve](/math/catenary-curve)
+*   [Cross product](/math/cross-product)
+*   [Cylindrical coordinates](/math/cylindrical-coordinates)
+*   [Direction of the vector](/math/vector-direction)
+*   [Distance](/math/distance)
+*   [Dot product](/math/dot-product)
+*   [Endpoint](/math/endpoint)
+*   [Equation of a sphere](/math/sphere-equation)
+*   [Gradient](/math/gradient)
+*   [Irregular polygon area](/math/irregular-polygon-area)
+*   [Latus rectum](/math/latus-rectum)
+*   [Least squares regression line](/math/least-squares-regression)
+*   [Linear interpolation](/math/linear-interpolation)
+*   [Manhattan distance](/math/manhattan-distance)
+*   [Midpoint](/math/midpoint)
+*   [Parabola](/math/parabola)
+*   [Parallel line](/math/parallel-line)
+*   [Perpendicular line](/math/perp-line)
+*   [Point slope form](/math/point-slope-form)
+*   [Polar coordinates](/math/cartesian-to-polar)
+*   [Polynomial graphing](/math/polynomial-graphing)
+*   [Ratios of directed line segments](/math/ratios-of-directed-line-segments)
+*   [Rise over run](/math/rise-over-run)
+*   [Scatter plot](/math/scatter-plot)
+*   [Slope](/math/slope)
+*   [Slope intercept form](/math/slope-intercept-form)
+*   [Spherical coordinates](/math/spherical-coordinates)
+*   [Three-dimensional distance](/math/3d-distance)
+*   [Triangulation](/math/triangulation)
+*   [Unit vector](/math/unit-vector)
+*   [Vector](/math/vector)
+*   [Vector addition](/math/vector-addition)
+*   [Vector magnitude](/math/vector-magnitude)
+*   [Vector projection](/math/vector-projection)
+*   [Vertex form](/math/vertex-form)
+*   [Volume of a parallelepiped](/math/volume-of-a-parallelepiped)
+*   [y-intercept](/math/y-intercept)
+
+Fractions calculators 🍕
+------------------------
+
+*   [Adding fractions](/math/adding-fractions)
+*   [Comparing fractions](/math/comparing-fractions)
+*   [Decimal to fraction](/math/decimal-to-fraction)
+*   [Dividing fractions](/math/divide-fractions)
+*   [Equivalent fractions](/math/equivalent-fractions)
+*   [Fraction](/math/fraction)
+*   [Fraction exponent](/math/fractional-exponent)
+*   [Fraction to decimal converter](/math/fraction-to-decimal)
+*   [Golden ratio](/math/golden-ratio)
+*   [Improper fraction to mixed number](/math/improper-fraction-to-mixed-number)
+*   [LCD - Least Common Denominator](/math/lcd)
+*   [Mixed number](/math/mixed-number)
+*   [Mixed number to improper fraction](/math/mixed-number-to-improper-fraction)
+*   [Multiplying fractions](/math/multiplying-fractions)
+*   [Proportion](/math/proportion)
+*   [Ratio](/math/ratio)
+*   [Simplify/reduce fractions](/math/simplify-fractions)
+*   [Unit rate](/math/unit-rate)
+
+Linear algebra calculators 🔢
+-----------------------------
+
+*   [Adjoint matrix](/math/adjoint-matrix)
+*   [Characteristic polynomial](/math/characteristic-polynomial)
+*   [Cholesky decomposition](/math/cholesky-decomposition)
+*   [Cofactor expansion](/math/cofactor-expansion)
+*   [Cofactor matrix](/math/cofactor-matrix)
+*   [Column space](/math/column-space)
+*   [Condition number](/math/condition-number)
+*   [Corner point](/math/corner-point)
+*   [Cramer's rule](/math/cramers-rule)
+*   [Diagonalize matrix](/math/diagonalize-matrix)
+*   [Eigenvalue and eigenvector](/math/eigenvalue-eigenvector)
+*   [Gauss Jordan elimination](/math/gauss-jordan-elimination)
+*   [Gram-Schmidt](/math/gram-schmidt)
+*   [Hadamard product](/math/hadamard-product)
+*   [Inverse matrix](/math/matrix-inverse)
+*   [Linear combination](/math/linear-combination)
+*   [Linear independence](/math/linear-independence)
+*   [LU decomposition](/math/lu-decomposition)
+*   [Matrix addition and subtraction](/math/matrix-addition)
+*   [Matrix by scalar](/math/matrix-by-scalar)
+*   [Matrix determinant](/math/determinant)
+*   [Matrix multiplication](/math/matrix-multiplication)
+*   [Matrix norm](/math/matrix-norm)
+*   [Matrix power](/math/matrix-power)
+*   [Matrix rank](/math/matrix-rank)
+*   [Matrix trace](/math/matrix-trace)
+*   [Matrix transpose](/math/matrix-transpose)
+*   [Null space](/math/null-space)
+*   [Polar decomposition](/math/polar-decomposition)
+*   [Pseudoinverse](/math/pseudoinverse)
+*   [QR decomposition](/math/qr-decomposition)
+*   [(Reduced) row echelon form](/math/row-echelon-form)
+*   [Singular values](/math/singular-values)
+*   [SVD](/math/svd)
+*   [Tensor product](/math/tensor-product)
+
+Trigonometry calculators 📐
+---------------------------
+
+*   [Arccos](/math/arccos)
+*   [Arcsin](/math/arcsin)
+*   [Arctan](/math/arctan)
+*   [Cofunction](/math/cofunction)
+*   [Cosecant](/math/csc)
+*   [Cosine](/math/cos)
+*   [Cotangent](/math/cot)
+*   [Double angle formula](/math/double-angle-formula)
+*   [Half angle](/math/half-angle)
+*   [Law of cosines](/math/law-of-cosines)
+*   [Law of sines](/math/law-of-sines)
+*   [Phase shift](/math/phase-shift)
+*   [Power reducing](/math/power-reducing)
+*   [Secant](/math/sec)
+*   [Sine](/math/sin)
+*   [Sum and difference identities](/math/sum-difference-identities)
+*   [Tangent](/math/tan)
+*   [Trigonometric functions](/math/trigonometric-functions)
+*   [Trigonometry](/math/trigonometry)
+*   [Unit circle](/math/unit-circle)
+
+2D geometry calculators 📏
+--------------------------
+
+*   [Area](/math/area)
+*   [Area of a rectangle](/math/rectangle)
+*   [Area of crescent](/math/crescent-area)
+*   [Center of mass](/math/center-of-mass)
+*   [Centroid](/math/centroid)
+*   [Conic sections](/math/conic-sections)
+*   [Cross sectional area](/math/cross-sectional-area)
+*   [Cycloid](/math/cycloid)
+*   [Ellipse](/math/ellipse)
+*   [Golden rectangle](/math/golden-rectangle)
+*   [Hexagon](/math/hexagon)
+*   [Moment of inertia](/math/moment-of-inertia)
+*   [Octagon](/math/octagon)
+*   [Orthocenter](/math/orthocenter)
+*   [Pentagon](/math/pentagon)
+*   [Perimeter](/math/perimeter)
+*   [Quadrilateral area](/math/quadrilateral)
+*   [Regular polygon](/math/regular-polygon)
+*   [Segment addition postulate](/math/segment-addition-postulate)
+*   [Segment area](/math/segment-area)
+*   [Spiral length](/math/spiral-length)
+*   [Square calc: find A, P, d](/math/square)
+*   [Star shape](/math/star-shape)
+*   [Trapezoid](/math/trapezoid)
+
+Triangle calculators 🔺
+-----------------------
+
+*   [30 60 90 triangle](/math/triangle-30-60-90)
+*   [45 45 90 triangle](/math/triangle-45-45-90)
+*   [Area of a right triangle](/math/right-triangle-area)
+*   [Classifying triangles](/math/classifying-triangles)
+*   [Equilateral triangle](/math/equilateral-triangle)
+*   [Heron's formula](/math/herons-formula)
+*   [Hypotenuse](/math/hypotenuse)
+*   [Isosceles triangle](/math/isosceles-triangle)
+*   [Perimeter of a triangle](/math/triangle-perimeter)
+*   [Pythagorean theorem](/math/pythagorean-theorem)
+*   [Pythagorean triples](/math/pythagorean-triples)
+*   [Right triangle](/math/right-triangle)
+*   [Right triangle side and angle](/math/right-triangle-side-angle)
+*   [Similar triangles](/math/similar-triangles)
+*   [Special right triangles](/math/special-right-triangles)
+*   [Triangle angle](/math/triangle-angle)
+*   [Triangle area](/math/triangle-area)
+*   [Triangle height](/math/triangle-height)
+*   [Triangle inequality theorem](/math/triangle-inequality)
+
+3D geometry calculators 📦
+--------------------------
+
+*   [Area of a hemisphere](/math/area-of-hemisphere)
+*   [Cube](/math/cube)
+*   [Cube Calc: find v, a, d](/math/cube-v-a-d)
+*   [Ellipsoid volume](/math/ellipsoid-volume)
+*   [Great circle](/math/great-circle)
+*   [Pyramid angle](/math/pyramid-angle)
+*   [Pyramid volume](/math/pyramid-volume)
+*   [Rectangular prism](/math/rectangular-prism)
+*   [Right circular cone](/math/right-circular-cone)
+*   [Right cylinder](/math/right-cylinder)
+*   [Right rectangular pyramid](/math/right-rectangular-pyramid)
+*   [Slant height](/math/slant-height)
+*   [Sphere](/math/sphere)
+*   [Surface area](/math/surface-area)
+*   [Surface area of a triangular prism](/math/surface-area-of-a-triangular-prism)
+*   [Surface area to volume ratio](/math/surface-area-volume-ratio)
+*   [Tetrahedron volume](/math/tetrahedron-volume)
+*   [Torus surface area](/math/torus-surface-area)
+*   [Torus volume](/math/torus-volume)
+*   [Triangular prism](/math/triangular-prism)
+*   [Volume](/math/volume)
+*   [Volume of a hemisphere](/math/volume-of-hemisphere)
+
+Sequences calculators 🔗
+------------------------
+
+*   [Arithmetic sequence](/math/arithmetic-sequence)
+*   [Collatz conjecture](/math/collatz-conjecture)
+*   [Fibonacci](/math/fibonacci)
+*   [Geometric sequence](/math/geometric-sequence)
+*   [Harmonic number](/math/harmonic-number)
+*   [Pascal's triangle](/math/pascals-triangle)
+*   [Sum of linear number sequence](/math/sum-of-linear-number-sequence)
+*   [Sum of Series](/math/sum-of-series)
+
+Exponents and logarithms calculators 🇪
+---------------------------------------
+
+*   [Antilog](/math/antilog)
+*   [Change of base formula](/math/change-of-base)
+*   [Condense logarithms](/math/condense-logarithms)
+*   [Dividing exponents](/math/dividing-exponents)
+*   [Dividing radicals](/math/dividing-radicals)
+*   [e power x](/math/e-power-x)
+*   [Expanding logarithms](/math/expanding-logarithms)
+*   [Exponent](/math/exponent)
+*   [Exponential growth](/math/exponential-growth)
+*   [Log](/math/log)
+*   [Log base 2](/math/log-2)
+*   [Multiplying exponents](/math/multiplying-exponents)
+*   [Multiplying radicals](/math/multiplying-radicals)
+*   [Natural logarithm](/math/natural-log)
+*   [Negative log](/math/negative-log)
+
+Binary calculators 1️0️
+-----------------------
+
+*   [Binary addition](/math/binary-addition)
+*   [Binary division](/math/binary-division)
+*   [Binary fraction](/math/binary-fraction)
+*   [Binary multiplication](/math/binary-multiplication)
+*   [Binary operations](/math/binary-operations)
+*   [Binary subtraction](/math/binary-subtraction)
+*   [Bit shift](/math/bit-shift)
+*   [Bitwise](/math/bitwise)
+*   [One's complement](/math/ones-complement)
+*   [Two's complement](/math/twos-complement)
+*   [XOR](/math/xor)
+
+Angle calculators 🕑
+--------------------
+
+*   [Angle between two vectors](/math/angle-between-two-vectors)
+*   [Central angle](/math/central-angle)
+*   [Clock angle](/math/clock-angle)
+*   [Complementary angles](/math/complementary-angles)
+*   [Coterminal angle](/math/coterminal-angle)
+*   [Reference angle](/math/reference-angle)
+*   [Supplementary angles](/math/supplementary-angles)
+
+Circle calculators ⭕
+--------------------
+
+*   [Arc length](/math/arc-length)
+*   [Area of a circle](/math/area-of-a-circle)
+*   [Circle calc: find c, d, a, r](/math/circle)
+*   [Circumference](/math/circumference)
+*   [Equation of a circle](/math/circle-equation)
+*   [Sector area](/math/sector-area)
+*   [Semicircle area](/math/semicircle-area)
+*   [Square in a circle](/math/square-in-a-circle)
+*   [Tangent of a circle](/math/tangent-circle)
+
+Other calculators
+-----------------
+
+*   [Babylonian numbers](/math/babylonian-numbers)
+*   [Cyclomatic complexity](/math/cyclomatic-complexity)
+*   [Involute function](/math/involute-function)
+*   [Linear feedback shift register](/math/linear-feedback-shift-register)
+*   [Luhn algorithm](/math/luhn)
+*   [Mayan numeral](/math/mayan-numeral)
+*   [Queueing theory](/math/queueing-theory)
+
+Redundant calculators
+---------------------
+
+*   [2D distance](/math/2d-distance)
+*   [3 sides triangle area](/math/3-sides-triangle-area)
+*   [AAA triangle](/math/aaa-triangle)
+*   [AAS triangle](/math/aas-triangle)
+*   [ABC triangle](/math/abc-triangle)
+*   [Acute triangle](/math/acute-triangle)
+*   [Angle of right triangle](/math/angle-of-right-triangle)
+*   [Area of a regular polygon](/math/regular-polygon-area)
+*   [Area of a sphere](/math/area-of-sphere)
+*   [Area of a square](/math/square-area)
+*   [Area of a trapezoid](/math/area-of-a-trapezoid)
+*   [Area of oblique triangle](/math/area-oblique-triangle)
+*   [Area of obtuse triangle](/math/area-obtuse-triangle)
+*   [Area of triangle sas](/math/area-triangle-sas)
+*   [Area of triangle with coordinates](/math/area-triangle-coordinates)
+*   [ASA triangle](/math/asa-triangle)
+*   [Base of a triangle](/math/base-of-a-triangle)
+*   [Center of a circle](/math/circle-center)
+*   [Center of ellipse](/math/center-of-ellipse)
+*   [Centroid of a triangle](/math/centroid-of-a-triangle)
+*   [Check similarity in right triangles](/math/check-similarity-in-right-triangles)
+*   [Circle formula](/math/circle-formula)
+*   [Circle length](/math/circle-length)
+*   [Circle measurements](/math/circle-measurements)
+*   [Circle perimeter](/math/circle-perimeter)
+*   [Circumcenter of a triangle](/math/circumcenter-of-a-triangle)
+*   [Circumference and area of a circle](/math/circumference-area-circle)
+*   [Circumference of a cylinder](/math/cylinder-circumference)
+*   [Circumference to diameter](/math/circumference-to-diameter)
+*   [Completing the square practice](/math/completing-the-square-practice)
+*   [Completing the square works](/math/completing-the-square-works)
+*   [Cone volume](/math/cone-volume)
+*   [Coordinate distance](/math/coordinate-distance)
+*   [Cosine triangle](/math/cosine-triangle)
+*   [Cubic feet of a cylinder](/math/cubic-feet-cylinder)
+*   [Cubic inches of a cylinder](/math/cubic-in-cylinder)
+*   [Cubic yards in a cylinder](/math/cubic-yards-cylinder)
+*   [Cuboid](/math/cuboid)
+*   [Cuboid surface area](/math/cuboid-surface-area)
+*   [Cuboid volume](/math/cuboid-volume)
+*   [Cylinder volume](/math/cylinder-volume)
+*   [Cylinder volume gallons](/math/cylinder-volume-gallons)
+*   [Decagon area](/math/decagon-area)
+*   [Decimal degrees to degrees minutes seconds converter](/math/decimal-to-minutes-degrees)
+*   [Degrees minutes seconds to decimal degrees converter](/math/minutes-to-decimals-degrees)
+*   [Diagonal of a rectangle](/math/diagonal-of-rectangle)
+*   [Diagonal of a square](/math/square-diagonal)
+*   [Diameter of a circle](/math/circle-diameter)
+*   [Diameter of a cone](/math/diameter-of-cone)
+*   [Diameter of a cylinder](/math/cylinder-diameter)
+*   [Dimensions of a rectangle](/math/dimensions-of-a-rectangle)
+*   [Distance between two points](/math/distance-between-two-points)
+*   [Dodecagon area](/math/dodecagon-area)
+*   [Ellipse area](/math/ellipse-area)
+*   [Ellipse Circumference](/math/ellipse-circumference)
+*   [Ellipse perimeter](/math/ellipse-perimeter)
+*   [Ellipse standard form](/math/ellipse-standard-form)
+*   [Equation of a circle with diameter endpoints](/math/equation-circle-diameter-endpoints)
+*   [Equilateral triangle area](/math/equilateral-triangle-area)
+*   [Equivalent ratio](/math/equivalent-ratio)
+*   [Euclidean distance](/math/euclidean-distance)
+*   [Exterior angles of a triangle](/math/exterior-angles-of-a-triangle)
+*   [Foci of an ellipse](/math/foci-of-ellipse)
+*   [Frustum cone area](/math/frustum-cone-area)
+*   [General form of the equation of a circle](/math/general-form-equation-circle)
+*   [General to standard form of a circle](/math/general-to-standard-form-circle)
+*   [Height of a cone](/math/height-of-cone)
+*   [Height of a cylinder](/math/height-of-cylinder)
+*   [Height of a square pyramid](/math/height-of-a-square-pyramid)
+*   [Heptagon](/math/heptagon)
+*   [Hexagonal pyramid](/math/hexagonal-pyramid)
+*   [Hexagonal pyramid surface area](/math/hexagonal-pyramid-surface-area)
+*   [Hollow cylinder volume](/math/hollow-cylinder-volume)
+*   [Integration by completing the square](/math/integration-by-completing-the-square)
+*   [Interior and exterior triangle angles](/math/interior-and-exterior-triangle-angles)
+*   [Irregular trapezoid area](/math/irregular-trapezoid-area)
+*   [Is it a right triangle](/math/is-it-a-right-triangle)
+*   [Is modulo associative](/math/is-modulo-associative)
+*   [Isosceles right triangle](/math/isosceles-right-triangle)
+*   [Isosceles right triangle hypotenuse](/math/isosceles-right-triangle-hypotenuse)
+*   [Isosceles trapezoid](/math/isosceles-trapezoid)
+*   [Isosceles trapezoid area](/math/isosceles-trapezoid-area)
+*   [Isosceles triangle angles](/math/isosceles-triangle-angles)
+*   [Isosceles triangle area](/math/isosceles-triangle-area)
+*   [Isosceles triangle find A](/math/isosceles-triangle-a)
+*   [Isosceles triangle height](/math/isosceles-triangle-height)
+*   [Isosceles triangle side](/math/isosceles-triangle-side)
+*   [Kite area](/math/kite-area)
+*   [Lateral area of a cone](/math/lateral-area-of-cone)
+*   [Lateral surface area of a cylinder](/math/lateral-surface-area-cylinder)
+*   [Length and width of rectangle given area](/math/length-width-area-rectangle)
+*   [Length and width of rectangle given perimeter](/math/length-and-width-of-rectangle-given-perimeter)
+*   [Length of a line segment](/math/length-of-a-line-segment)
+*   [Length of a rectangle](/math/length-of-a-rectangle)
+*   [Midsegment of a trapezoid](/math/trapezoid-midsegment)
+*   [Midsegment of a triangle](/math/midsegment-of-a-triangle)
+*   [Missing side of a right triangle](/math/missing-side-of-a-right-triangle)
+*   [Modulo in order of operations](/math/modulo-order-of-operations)
+*   [Modulo of negative numbers](/math/modulo-of-negative-numbers)
+*   [Oblique triangle](/math/oblique-triangle)
+*   [Obtuse triangle](/math/obtuse-triangle)
+*   [Parallelogram area](/math/parallelogram-area)
+*   [Parallelogram perimeter](/math/parallelogram-perimeter)
+*   [Perimeter of a polygon](/math/regular-polygon-perimeter)
+*   [Perimeter of a quadrilateral](/math/perimeter-quadrilateral)
+*   [Perimeter of a rectangle](/math/perimeter-of-rectangle)
+*   [Perimeter of a rectangle with given area](/math/perimeter-of-a-rectangle-with-given-area)
+*   [Perimeter of a right triangle](/math/perimeter-of-a-right-triangle)
+*   [Perimeter of a sector](/math/perimeter-of-a-sector)
+*   [Perimeter of a square](/math/square-perimeter)
+*   [Perimeter of a triangle with fractions](/math/perimeter-of-a-triangle-with-fractions)
+*   [Perimeter of a triangle with vertices](/math/perimeter-of-a-triangle-with-vertices)
+*   [Permutation and combination](/math/permutation-combination)
+*   [Polar to cartesian coordinates](/math/polar-to-cartesian)
+*   [Polar to rectangular coordinates](/math/polar-to-rectangular)
+*   [Polygon angle](/math/polygon-angle)
+*   [Power of 10](/math/power-of-10)
+*   [Power of 2](/math/power-of-2)
+*   [Pythagoras triangle](/math/pythagoras-triangle)
+*   [Quarter circle](/math/quarter-circle)
+*   [Quarter circle area](/math/quarter-circle-area)
+*   [Quarter circle perimeter](/math/quarter-circle-perimeter)
+*   [Radius of a circle](/math/radius-of-a-circle)
+*   [Radius of a cone](/math/radius-of-cone)
+*   [Radius of a cylinder](/math/radius-of-cylinder)
+*   [Radius of a sphere](/math/radius-of-sphere)
+*   [Ratio of 2 numbers](/math/ratio-of-2-numbers)
+*   [Ratio of 3 numbers](/math/ratio-of-3-numbers)
+*   [Rectangle diagonal angle](/math/rectangle-diagonal-angle)
+*   [Rectangle scale factor](/math/rectangle-scale-factor)
+*   [Rectangular pyramid volume](/math/rectangular-pyramid-volume)
+*   [Rectangular to polar coordinates](/math/rectangular-to-polar)
+*   [Rhombus area](/math/rhombus-area)
+*   [Right square pyramid](/math/right-square-pyramid)
+*   [Right trapezoid](/math/right-trapezoid)
+*   [Right trapezoid area](/math/right-trapezoid-area)
+*   [Round to the nearest integer](/math/round-to-the-nearest-integer)
+*   [SAS triangle](/math/sas-triangle)
+*   [Scalene triangle](/math/scalene-triangle)
+*   [Scalene triangle area](/math/scalene-triangle-area)
+*   [Similar right triangles](/math/similar-right-triangles)
+*   [Sin triangle](/math/sin-triangle)
+*   [Slant height of a cone](/math/slant-height-of-cone)
+*   [Solve similar triangles](/math/solve-similar-triangles)
+*   [Solving by completing the square](/math/solving-by-completing-the-square)
+*   [Sphere volume](/math/sphere-volume)
+*   [Square feet of a rectangle](/math/square-feet-of-rectangle)
+*   [Square feet of a triangle](/math/square-feet-triangle)
+*   [Square footage of a circle](/math/square-footage-circle)
+*   [Square inches of a circle](/math/square-inches-of-a-circle)
+*   [Square Pyramid](/math/square-pyramid)
+*   [Square pyramid volume](/math/square-pyramid-volume)
+*   [SSA triangle](/math/ssa-triangle)
+*   [SSS triangle](/math/sss-triangle)
+*   [Standard equation of a circle](/math/standard-equation-circle)
+*   [Standard form to general form of a circle](/math/standard-to-general-form-circle)
+*   [Surface area of a cone](/math/cone-surface-area)
+*   [Surface area of a cube](/math/cube-surface-area)
+*   [Surface area of a cylinder](/math/surface-area-of-cylinder)
+*   [Surface area of a rectangle](/math/surface-area-of-a-rectangle)
+*   [Surface area of a rectangular prism](/math/surface-area-rectangular-prism)
+*   [Surface area of a rectangular pyramid](/math/surface-area-of-a-rectangular-pyramid)
+*   [Surface area of a square pyramid](/math/surface-area-of-square-pyramid)
+*   [Trapezoid angle](/math/trapezoid-angle)
+*   [Trapezoid height](/math/trapezoid-height)
+*   [Trapezoid perimeter](/math/trapezoid-perimeter)
+*   [Trapezoid side](/math/trapezoid-side)
+*   [Triangle congruence](/math/triangle-congruence)
+*   [Triangle degree](/math/triangle-degree)
+*   [Triangle length](/math/triangle-length)
+*   [Triangle proportionality theorem](/math/triangle-proportionality-theorem)
+*   [Triangle ratio](/math/triangle-ratio)
+*   [Triangle scale factor](/math/triangle-scale-factor)
+*   [Triangle side](/math/triangle-side)
+*   [Triangle side angle](/math/triangle-side-angle)
+*   [Triangle similarity](/math/triangle-similarity)
+*   [Triangle slope](/math/triangle-slope)
+*   [Triangle sum theorem](/math/triangle-sum-theorem)
+*   [Triangle vertices](/math/triangle-vertices)
+*   [Triangular pyramid volume](/math/triangular-pyramid-volume)
+*   [Truncated cone](/math/truncated-cone)
+*   [Truncated cone volume](/math/truncated-cone-volume)
+*   [Uses of modulo](/math/uses-of-modulo)
+*   [Volume - hexagonal pyramid](/math/volume-hexagonal-pyramid)
+*   [Volume of a cube](/math/cube-volume)
+*   [Volume of a rectangular prism](/math/rectangular-prism-volume)
+*   [Volume of a triangular prism](/math/volume-of-a-triangular-prism)
+*   [Width of a rectangle](/math/width-of-a-rectangle)
+
+Physics
+=======
+
+Classical mechanics calculators ⚙️
+----------------------------------
+
+*   [Acceleration](/physics/acceleration)
+*   [Angle of twist](/physics/angle-of-twist)
+*   [Bank angle](/physics/bank-angle)
+*   [Belt length](/physics/belt-length)
+*   [Brake Mean Effective Pressure (BMEP)](/physics/brake-mean-effective-pressure-bmep)
+*   [Brinell hardness number](/physics/brinell-hardness-number)
+*   [Buckling](/physics/buckling)
+*   [Bulk modulus](/physics/bulk-modulus)
+*   [Carburetor CFM](/physics/carburetor-cfm)
+*   [Car center of mass](/physics/car-mass-center)
+*   [Car crash force](/physics/car-crash-force)
+*   [Car jump distance](/physics/car-jump-distance)
+*   [Conservation of momentum](/physics/conservation-of-momentum)
+*   [Density](/physics/density)
+*   [Displacement](/physics/displacement)
+*   [Elastic potential energy](/physics/elastic-potential-energy)
+*   [Elongation](/physics/elongation)
+*   [Factor of Safety](/physics/factor-of-safety)
+*   [Force](/physics/force)
+*   [Free fall](/physics/free-fall)
+*   [Free fall with air resistance](/physics/free-fall-air-resistance)
+*   [Friction](/physics/friction)
+*   [Fulcrum](/physics/fulcrum)
+*   [Gear ratio](/physics/gear-ratio)
+*   [Gravitational force](/physics/gravitational-force)
+*   [Ground speed](/physics/ground-speed)
+*   [Hooke's law](/physics/hookes-law)
+*   [Horizontal projectile motion](/physics/horizontal-projectile-motion)
+*   [Ideal rocket equation](/physics/ideal-rocket-equation)
+*   [Impact energy](/physics/impact-energy)
+*   [Impact test](/physics/impact-test)
+*   [Impulse and momentum](/physics/impulse-and-momentum)
+*   [Inclined plane](/physics/inclined-plane)
+*   [Kinetic energy](/physics/kinetic-energy)
+*   [Lever](/physics/lever)
+*   [Linear actuator force](/physics/linear-actuator-force)
+*   [Magnitude of acceleration](/physics/magnitude-of-acceleration)
+*   [Maximum height - projectile motion](/physics/maximum-height-projectile-motion)
+*   [Mechanical advantage](/physics/mechanical-advantage)
+*   [Mohr's circle](/physics/mohr-circle)
+*   [Momentum](/physics/momentum)
+*   [Newton's second law](/physics/newtons-second-law)
+*   [Normal force](/physics/normal-force)
+*   [Piston Speed](/physics/piston-speed)
+*   [Poisson's ratio](/physics/poissons-ratio)
+*   [Polar moment of inertia](/physics/polar-moment)
+*   [Potential energy](/physics/potential-energy)
+*   [Power-to-weight ratio](/physics/power-to-weight-ratio)
+*   [Pressure](/physics/pressure)
+*   [Principal stress](/physics/principal-stress)
+*   [Projectile motion](/physics/projectile-motion)
+*   [Projectile range](/physics/range-projectile-motion)
+*   [Pulley](/physics/pulley)
+*   [Quarter mile](/physics/quarter-mile)
+*   [Radar horizon](/physics/radar-horizon)
+*   [Reduced mass](/physics/reduced-mass)
+*   [Resultant force](/physics/resultant-force)
+*   [Rocket thrust](/physics/rocket-thrust)
+*   [Rockwell hardness conversion](/physics/rockwell-hardness-conversion)
+*   [Rolling resistance](/physics/rolling-resistance)
+*   [Section modulus](/physics/section-modulus)
+*   [Shear modulus](/physics/shear-modulus)
+*   [Shear strain](/physics/shear-strain)
+*   [Shear stress](/physics/shear-stress)
+*   [Slenderness ratio](/physics/slenderness-ratio)
+*   [Specific gravity](/physics/specific-gravity)
+*   [Specific impulse](/physics/specific-impulse)
+*   [Stress](/physics/stress)
+*   [Stress concentration factor](/physics/stress-concentration-factor)
+*   [SUVAT](/physics/suvat)
+*   [Tension](/physics/tension)
+*   [Terminal velocity](/physics/terminal-velocity)
+*   [Thrust to weight ratio](/physics/thrust-weight)
+*   [Time of flight - projectile motion](/physics/time-of-flight-projectile-motion)
+*   [Torsional constant](/physics/torsional-constant)
+*   [Trajectory - projectile motion](/physics/trajectory-projectile-motion)
+*   [True strain](/physics/true-strain)
+*   [UFO travel](/physics/ufo-travel)
+*   [Velocity](/physics/velocity)
+*   [Vickers hardness number](/physics/vickers-hardness-number)
+*   [Volume to mass](/physics/volume-to-mass)
+*   [Von Mises stress](/physics/von-mises-stress)
+*   [Wind correction angle](/physics/wind-correction-angle)
+*   [Wind load](/physics/wind-load)
+*   [Work](/physics/work)
+*   [Work and power](/physics/work-and-power)
+*   [Young's modulus](/physics/young-modulus)
+
+Rotational and periodic motion calculators 🌎
+---------------------------------------------
+
+*   [Angular acceleration](/physics/angular-acceleration)
+*   [Angular displacement](/physics/angular-displacement)
+*   [Angular frequency](/physics/angular-frequency)
+*   [Angular momentum](/physics/angular-momentum)
+*   [Angular velocity](/physics/angular-velocity)
+*   [Centrifugal force](/physics/centrifugal-force)
+*   [Centripetal force](/physics/centripetal-force)
+*   [Circular motion](/physics/circular-motion)
+*   [Coriolis effect](/physics/coriolis-effect)
+*   [Crawl ratio](/physics/crawl-ratio)
+*   [Damping ratio](/physics/damping-ratio)
+*   [Kinetic energy of a pendulum](/physics/pendulum-kinectic-energy)
+*   [Mass moment of inertia](/physics/mass-moment-of-inertia)
+*   [Physical pendulum](/physics/physical-pendulum)
+*   [Rotational kinetic energy](/physics/rotational-kinetic-energy)
+*   [Rotational stiffness](/physics/rotational-stiffness)
+*   [Simple Harmonic Motion](/physics/simple-harmonic-motion)
+*   [Simple pendulum](/physics/simple-pendulum)
+*   [Speeds and feeds](/physics/speeds-and-feeds)
+*   [Torque](/physics/torque)
+*   [Twist rate](/physics/twist-rate)
+
+Waves calculators 🔊
+--------------------
+
+*   [Acoustic impedance](/physics/acoustic-impedance)
+*   [Alfvén velocity](/physics/alfven-velocity)
+*   [Beat frequency](/physics/beat-frequency)
+*   [Critical damping](/physics/critical-damping)
+*   [dB](/physics/db)
+*   [Diffraction grating](/physics/diffraction)
+*   [Dipole](/physics/dipole)
+*   [Distance attenuation](/physics/distance-attenuation)
+*   [Doppler effect](/physics/doppler-effect)
+*   [Frequency](/physics/frequency)
+*   [Fresnel zone](/physics/fresnel-zone)
+*   [Harmonic wave equation](/physics/harmonic-wave-equation)
+*   [Helmholtz resonator](/physics/helmholtz-resonator)
+*   [Lumen to lux to candela](/physics/lumen)
+*   [Modulation](/physics/modulation)
+*   [Reverberation time](/physics/reverberation-time)
+*   [Shear wave velocity](/physics/shear-wave-velocity)
+*   [Signal-to-noise ratio](/physics/signal-to-noise-ratio)
+*   [Sound absorption coefficient](/physics/sound-absorption-coefficient)
+*   [Sound wavelength](/physics/sound-wavelength)
+*   [Speed of sound](/physics/speed-of-sound)
+*   [Speed of sound in solids](/physics/speed-sound-solids)
+*   [Wavelength](/physics/wavelength)
+
+Optics calculators 🔍
+---------------------
+
+*   [Angular Resolution](/physics/angular-resolution)
+*   [Aperture area](/physics/aperture-area)
+*   [Binoculars range](/physics/binoculars-range)
+*   [Bragg's law](/physics/braggs-law)
+*   [Brewster Angle](/physics/brewster-angle)
+*   [Index of refraction](/physics/index-of-refraction)
+*   [Laser beam divergence](/physics/laser-beam-divergence)
+*   [Laser brightness](/physics/laser-brightness)
+*   [Laser linewidth](/physics/laser-linewidth)
+*   [Laser spot size](/physics/laser-spot-size)
+*   [Lensmaker's equation](/physics/lensmakers-equation)
+*   [Malus law](/physics/malus-law)
+*   [Mirror equation](/physics/mirror-equation)
+*   [Snell's law](/physics/snells-law)
+*   [Telescope field of view](/physics/telescope-field-of-view)
+*   [Telescope magnification](/physics/telescope-magnification)
+*   [Thin film optics](/physics/thin-film-optics)
+*   [Thin lens equation](/physics/thin-lens-equation)
+
+Fluid mechanics calculators 💧
+------------------------------
+
+*   [API gravity](/physics/api-gravity)
+*   [Archimedes' principle](/physics/archimedes-principle)
+*   [Ballistic coefficient](/physics/ballistic-coefficient)
+*   [Bernoulli equation](/physics/bernoulli-equation)
+*   [Buoyancy](/physics/buoyancy)
+*   [Coefficient of discharge](/physics/coefficient-of-discharge)
+*   [Darcy's law](/physics/darcys-law)
+*   [Darcy weisbach](/physics/darcy-weisbach)
+*   [Differential pressure](/physics/differential-pressure)
+*   [Drag equation](/physics/drag-equation)
+*   [Fan](/physics/fan)
+*   [Flow rate](/physics/flow-rate)
+*   [Friction factor](/physics/friction-factor)
+*   [Friction loss](/physics/friction-loss)
+*   [Froude number](/physics/froude-number)
+*   [Hydraulic conductivity](/physics/hydraulic-conductivity)
+*   [Hydraulic gradient](/physics/hydraulic-gradient)
+*   [Hydraulic jump](/physics/hydraulic-jump)
+*   [Hydraulic pressure](/physics/hydraulic-pressure)
+*   [Hydraulic radius](/physics/hydraulic-radius)
+*   [Hydrostatic pressure](/physics/hydrostatic-pressure)
+*   [Knudsen number](/physics/knudsen-number)
+*   [Lift coefficient](/physics/lift-coefficient)
+*   [Mach number](/physics/mach-number)
+*   [Magnus force](/physics/magnus-force)
+*   [Manometer](/physics/manometer)
+*   [NPSH (net positive suction head)](/physics/npsh-net-positive-suction-head)
+*   [Oblique shock](/physics/oblique-shock)
+*   [Open channel flow](/physics/open-channel-flow)
+*   [Orifice flow](/physics/orifice-flow)
+*   [Pipe flow](/physics/pipe-flow)
+*   [Poise-stokes converter](/physics/poise-stokes-converter)
+*   [Poiseuille's law](/physics/poiseuilles-law)
+*   [Porosity and permeability](/physics/porosity-and-permeability)
+*   [Prandtl Meyer expansion](/physics/prandtl-meyer-expansion)
+*   [Prandtl number](/physics/prandtl-number)
+*   [Pump horsepower](/physics/pump-horsepower)
+*   [Reynolds Number](/physics/reynolds-number)
+*   [Stokes' law](/physics/stokes-law)
+*   [Water density](/physics/water-density)
+*   [Water viscosity](/physics/water-viscosity)
+*   [Y+](/physics/yplus)
+
+Atmospheric thermodynamics calculators ☁️
+-----------------------------------------
+
+*   [Absolute humidity](/physics/absolute-humidity)
+*   [Air density](/physics/air-density)
+*   [Air pressure at altitude](/physics/air-pressure-at-altitude)
+*   [Cloud base](/physics/cloud-base)
+*   [Density altitude](/physics/density-altitude)
+*   [Dew point](/physics/dew-point)
+*   [Heat index](/physics/heat-index)
+*   [Lightning distance](/physics/lightning-distance)
+*   [Mixing ratio of air](/physics/mixing-ratio-of-air)
+*   [Psychrometric](/physics/psychrometric)
+*   [Relative humidity](/physics/relative-humidity)
+*   [Temperature at altitude](/physics/altitude-temperature)
+*   [True airspeed](/physics/true-airspeed)
+*   [Virtual temperature](/physics/virtual-temperature)
+*   [Wet bulb](/physics/wet-bulb)
+
+Thermodynamics calculators 🌡️
+------------------------------
+
+*   [Biot number](/physics/biot-numer)
+*   [Boltzmann factor](/physics/boltzmann-factor)
+*   [Boyle's law](/physics/boyles-law)
+*   [BTU to tons converter](/physics/btu-to-tons-converter)
+*   [Calorimetry](/physics/calorimetry)
+*   [Carnot efficiency](/physics/carnot-efficiency)
+*   [Charles' law](/physics/charles-law)
+*   [Coefficient of performance](/physics/performance-coefficient)
+*   [Compressibility factor](/physics/compressibility)
+*   [Curie's law](/physics/curies-law)
+*   [Effectiveness NTU](/physics/effectiveness-ntu)
+*   [Efficiency](/physics/efficiency)
+*   [Electrical mobility](/physics/electrical-mobility)
+*   [Enthalpy](/physics/enthalpy)
+*   [Gay-Lussacs's law](/physics/gay-lussacs-law)
+*   [Heat capacity](/physics/heat-capacity)
+*   [Heat transfer coefficient](/physics/heat-transfer-coefficient)
+*   [Ideal gas density](/physics/ideal-gas-density)
+*   [Ideal gas law](/physics/ideal-gas-law)
+*   [Isentropic flow](/physics/isentropic-flow)
+*   [Joule Heating](/physics/joule-heating)
+*   [Kinematic viscosity of air](/physics/kinematic-viscosity-of-air)
+*   [Latent heat](/physics/latent-heat)
+*   [LMTD](/physics/lmtd)
+*   [Mean free path](/physics/mean-free-path)
+*   [Newton's law of cooling](/physics/newtons-law-of-cooling)
+*   [Particles velocity](/physics/particles-velocity)
+*   [Sensible heat](/physics/sensible-heat)
+*   [Specific gas constant](/physics/specific-gas-constant)
+*   [Specific heat](/physics/specific-heat)
+*   [Thermal conductivity](/physics/thermal-conductivity)
+*   [Thermal diffusivity](/physics/thermal-diffusivity)
+*   [Thermal energy](/physics/thermal-energy)
+*   [Thermal expansion](/physics/thermal-expansion)
+*   [Thermal resistance](/physics/thermal-resistance)
+*   [Thermal stress](/physics/thermal-stress)
+*   [Thermodynamic processes](/physics/thermodynamic-processes)
+*   [Van der Waals equation](/physics/van-der-waals-equation)
+*   [Water heating](/physics/water-heating)
+*   [Watts to heat](/physics/watts-to-heat)
+
+Electromagnetism calculators 🧲
+-------------------------------
+
+*   [Acceleration of a particle in an electric field](/physics/acceleration-of-particle-in-electric-field)
+*   [AC wattage](/physics/ac-wattage)
+*   [Breaker size](/physics/breaker-size)
+*   [Bridge rectifier](/physics/bridge-rectifier)
+*   [Capacitance](/physics/capacitance)
+*   [Capacitive reactance](/physics/capacitive-reactance)
+*   [Capacitor code](/physics/capacitor)
+*   [Capacitor energy](/physics/capacitor-energy)
+*   [Capacitors in series](/physics/capacitors-in-series)
+*   [Conductivity to resistivity](/physics/conductivity-to-resistivity)
+*   [Coulomb's law](/physics/coulombs-law)
+*   [Crossover](/physics/crossover)
+*   [Current divider](/physics/current-divider)
+*   [Cutoff frequency](/physics/cutoff-frequency)
+*   [Cyclotron Frequency](/physics/cyclotron-frequency)
+*   [Delta to wye conversion](/physics/delta-to-wye)
+*   [Drift velocity](/physics/drift-velocity)
+*   [Electrical power](/physics/electrical-power)
+*   [Electric field of a point charge](/physics/electric-field-of-a-point-charge)
+*   [Electric potential](/physics/electric-potential)
+*   [Energy density of electric and magnetic fields](/physics/energy-density-of-electric-and-magnetic-fields)
+*   [Excess electrons](/physics/excess-electrons)
+*   [Faraday's law](/physics/faraday)
+*   [Free space path loss](/physics/free-space-path-loss)
+*   [Gauss's law](/physics/gauss-law)
+*   [Generator power](/physics/generator-power)
+*   [Hall coefficient](/physics/hall-coefficient)
+*   [Helical coil](/physics/helical-coil)
+*   [High pass filter](/physics/high-pass-filter)
+*   [hp to amps](/physics/hp-to-amps)
+*   [Ideal transformer](/physics/ideal-transformer)
+*   [Inductive reactance](/physics/inductive-reactance)
+*   [Inductor energy](/physics/inductor-energy)
+*   [Inductors in parallel](/physics/parallel-inductors)
+*   [Inductors in series](/physics/series-inductors)
+*   [Insertion loss](/physics/insertion-loss)
+*   [Internal resistance](/physics/internal-resistance)
+*   [Intrinsic carrier concentration](/physics/intrinsic-carrier-concentration)
+*   [kVA](/physics/kva)
+*   [LED resistor](/physics/led)
+*   [Lorentz force](/physics/lorentz-force)
+*   [Low pass filter](/physics/low-pass-filter)
+*   [Magnetic declination](/physics/magnetic-declination)
+*   [Magnetic dipole moment](/physics/magnetic-dipole-moment)
+*   [Magnetic Field of Straight Current-Carrying Wire](/physics/magnetic-field-of-straight-current-carrying-wire)
+*   [Magnetic Force Between Wires](/physics/magnetic-force-between-wires)
+*   [Magnetic force on current-carrying wire](/physics/magnetic-force-on-current-carrying-wire)
+*   [Magnetic permeability](/physics/magnetic-permeability)
+*   [MOSFET](/physics/mosfet)
+*   [MOSFET threshold voltage](/physics/mosfet-threshold-voltage)
+*   [NE555 Timer Astable Mode Calculator](/physics/ne555-astable)
+*   [Noise figure](/physics/noise-figure)
+*   [Number density](/physics/number-density)
+*   [Ohm's law](/physics/ohms-law)
+*   [Parallel capacitor](/physics/parallel-capacitor)
+*   [Parallel resistor](/physics/parallel-resistor)
+*   [Photon detection efficiency (SiPM)](/physics/pde-sipm)
+*   [Power dissipation](/physics/power-dissipation)
+*   [Power factor](/physics/power-factor)
+*   [RC circuit](/physics/rc-circuit)
+*   [Resistor color code](/physics/resistor-color-code)
+*   [Resistor noise](/physics/resistor-noise)
+*   [Resistor wattage](/physics/resistor-wattage)
+*   [Resonant frequency](/physics/resonant-frequency-lc)
+*   [RLC circuit](/physics/rlc-circuit)
+*   [RMS voltage](/physics/rms-voltage)
+*   [Series resistor](/physics/series-resistor)
+*   [Shockley diode](/physics/shockley-diode)
+*   [Skin depth](/physics/skin-depth)
+*   [Solenoid inductance](/physics/solenoid-inductance)
+*   [Solenoid magnetic field](/physics/solenoid-magnetic-field)
+*   [Spherical capacitor](/physics/spherical-capacitor)
+*   [Three phase](/physics/three-phase)
+*   [Transformer sizing](/physics/transformer-sizing)
+*   [Transistor biasing](/physics/transistor-biasing)
+*   [Voltage divider](/physics/voltage-divider)
+*   [Voltage drop](/physics/voltage-drop)
+*   [Voltage regulation](/physics/voltage-regulation)
+*   [Volts to electron volts](/physics/volts-to-electron-volts)
+*   [Watt](/physics/watt)
+*   [Watt-hour](/physics/watt-hours)
+*   [Watts to amps](/physics/watts-to-amps)
+*   [Watts to lux](/physics/watts-to-lux)
+*   [Wheatstone bridge](/physics/wheatstone-bridge)
+*   [Wire gauge](/physics/wire-gauge)
+*   [Wire resistance](/physics/wire-resistance)
+*   [Wire size](/physics/wire-size)
+
+Quantum mechanics calculators ⚛️
+--------------------------------
+
+*   [Bohr Model](/physics/bohr-model)
+*   [Compton scattering](/physics/compton-scattering)
+*   [Compton wavelength](/physics/compton-wavelength)
+*   [Curie constant](/physics/curie-constant)
+*   [De Broglie wavelength](/physics/de-broglie-wavelength)
+*   [Fermi level](/physics/fermi-level)
+*   [Heisenberg uncertainty](/physics/heisenberg-uncertainty)
+*   [Hydrogen-like atom](/physics/hydrogen-like-atom)
+*   [Magnetic moment](/physics/magnetic-moment)
+*   [Photoelectric effect](/physics/photoelectric-effect)
+*   [Photon energy](/physics/photon-energy)
+*   [Rydberg equation](/physics/rydberg-equation)
+*   [Stefan Boltzmann law](/physics/stefan-boltzmann-law)
+*   [Wien's law](/physics/wiens-law)
+
+Relativity calculators 🚀
+-------------------------
+
+*   [Electron speed](/physics/electron-speed)
+*   [E = mc²](/physics/emc2)
+*   [Gravitational time dilation](/physics/gravitational-time-dilation)
+*   [Length contraction](/physics/length-contraction)
+*   [Relativistic kinetic energy](/physics/relativistic-ke)
+*   [Space travel](/physics/space-travel)
+*   [Time dilation](/physics/time-dilation)
+*   [Velocity addition](/physics/velocity-addition)
+
+Astrophysics calculators 🌌
+---------------------------
+
+*   [Alien civilization](/physics/alien-civilization)
+*   [Black hole collision](/physics/black-hole)
+*   [Black hole temperature](/physics/black-hole-temperature)
+*   [Delta v](/physics/delta-v)
+*   [Earth orbit](/physics/earth-orbit)
+*   [Escape velocity](/physics/escape-velocity)
+*   [Exoplanet discovery](/physics/exoplanet)
+*   [Hohmann transfer](/physics/hohmann-transfer)
+*   [Hubble's Law](/physics/hubbles-law)
+*   [Kepler third law](/physics/kepler-third-law)
+*   [Luminosity](/physics/luminosity)
+*   [Orbital period](/physics/orbital-period)
+*   [Orbital velocity](/physics/orbital-velocity)
+*   [Parallax](/physics/parallax)
+*   [Radiation pressure](/physics/radiation-pressure)
+*   [Redshift](/physics/redshift)
+*   [Schwarzschild radius](/physics/schwarzschild-radius)
+*   [Sun angle](/physics/sun-angle)
+*   [Sunrise sunset](/physics/sunrise-sunset)
+*   [Synodic period](/physics/synodic-period)
+
+DIY experiments calculators 👩‍🔬
+---------------------------------
+
+*   [Buoyancy experiment](/physics/buoyancy-experiment)
+*   [Flat vs. round Earth](/physics/flat-vs-round-earth)
+*   [Hair diffraction](/physics/hair-diffraction)
+*   [Immersed weight](/physics/immersed-weight)
+*   [Projectile motion experiment](/physics/projectile-motion-experiment)
+*   [Smartphone projector](/physics/smartphone-projector)
+*   [Toilet paper race mass moment of inertia](/physics/toilet-paper-race-mass-moment-inertia)
+
+Other calculators
+-----------------
+
+*   [Arrow speed](/physics/arrow-speed)
+*   [Bend allowance](/physics/bend-allowance)
+*   [Earth curvature](/physics/earth-curvature)
+*   [Engine displacement](/physics/engine-displacement)
+*   [Exhaust diameter](/physics/exhaust-diameter)
+*   [Gold weight](/physics/gold-weight)
+*   [Hoop stress](/physics/hoop-stress)
+*   [Piston force](/physics/piston-force)
+*   [Pneumatic cylinder force](/physics/pneumatic-cylinder-force)
+*   [Recoil energy](/physics/recoil-energy)
+*   [Sled](/physics/sled)
+*   [Stopping distance](/physics/stopping-distance)
+*   [Universe Expansion Calculator](/physics/universe-expansion)
+*   [VSWR (Voltage Standing Wave Ratio)](/physics/vswr-voltage-standing-wave-ratio)
+*   [Weight on other planets](/physics/weight-other-planets)
+*   [Wing loading](/physics/wing-loading)
+
+Redundant calculators
+---------------------
+
+*   [100 amp wire size](/physics/100-amp-wire-size)
+*   [12 volt wire size](/physics/12v-wire-size)
+*   [220 volt wire size](/physics/220v-wire-size)
+*   [24 volt wire size](/physics/24v-wire-size)
+*   [3 phase motor amperage](/physics/3-phase-motor-amperage)
+*   [Acceleration due to gravity](/physics/acceleration-due-to-gravity)
+*   [Acceleration using force and mass](/physics/acceleration-using-force-and-mass)
+*   [Amp to wire size](/physics/amp-to-wire-size)
+*   [Angle of incidence](/physics/angle-of-incidence)
+*   [Angle of refraction](/physics/angle-of-refraction)
+*   [Buoyant force](/physics/buoyant-force)
+*   [Cube density](/physics/cube-density)
+*   [DC wire size](/physics/dc-wire-size)
+*   [Density mass volume](/physics/density-mass-volume)
+*   [Density of a cylinder](/physics/density-cylinder)
+*   [Density to mass](/physics/density-to-mass)
+*   [Density to weight](/physics/density-to-weight)
+*   [Energy to wavelength](/physics/energy-to-wavelength)
+*   [Free fall distance](/physics/free-fall-distance)
+*   [Free fall height](/physics/free-fall-height)
+*   [Free fall time](/physics/free-fall-time)
+*   [Free fall velocity](/physics/free-fall-velocity)
+*   [Frequency to wavelength](/physics/frequency-to-wavelength)
+*   [Friction coefficient](/physics/friction-coefficient)
+*   [Friction force](/physics/friction-force)
+*   [Gas density](/physics/gas-density)
+*   [Gear ratio rpm](/physics/gear-ratio-rpm)
+*   [Gear ratio speed](/physics/gear-ratio-speed)
+*   [G force](/physics/g-force)
+*   [Grams to cc](/physics/grams-cc)
+*   [Ideal gas pressure](/physics/ideal-gas-pressure)
+*   [Ideal gas temperature](/physics/ideal-gas-temperature)
+*   [Ideal gas volume](/physics/ideal-gas-volume)
+*   [kVA to amperage](/physics/kva-to-amperage)
+*   [Mass to density](/physics/mass-to-density)
+*   [Ohm's law current](/physics/ohms-law-current)
+*   [Ohm's law power](/physics/ohms-law-power)
+*   [Ohm's law resistance](/physics/ohms-law-resistance)
+*   [Pendulum frequency](/physics/pendulum-frequency)
+*   [Pendulum period](/physics/pendulum-period)
+*   [Sphere density](/physics/sphere-density)
+*   [Volume to density](/physics/volume-to-density)
+*   [Wattage to amperage](/physics/wattage-to-amperage)
+*   [Wavelength to energy](/physics/wavelength-to-energy)
+*   [Wavelength to frequency](/physics/wavelength-to-frequency)
+*   [Wavenumber](/physics/wavenumber)
+*   [Wave speed](/physics/wave-speed)
+*   [Wave velocity](/physics/wave-velocity)
+
+Sports
+======
+
+Running calculators 🏃
+----------------------
+
+*   [Bruce protocol METs](/sports/bruce-protocol-mets)
+*   [Marathon pace](/sports/marathon-pace)
+*   [Navy PRT](/sports/navy-prt)
+*   [Pace](/sports/pace)
+*   [Race predictor](/sports/race-predictor)
+*   [Race time improvement](/sports/race-time-improvement)
+*   [Running calorie](/sports/running-calorie)
+*   [Splits](/sports/splits)
+*   [Steps to miles](/sports/steps-to-miles)
+*   [Stride length](/sports/stride-length)
+*   [Training pace](/sports/training-pace)
+*   [VO2 max runners](/sports/vo2-max-runners)
+
+Cycling calculators 🚴‍♀️
+-------------------------
+
+*   [Bike cadence and speed](/sports/bike-cadence-and-speed-calculator)
+*   [Bike gear](/sports/bike-gear-calculator)
+*   [Bike size](/sports/bike-size)
+*   [Biking life gain](/sports/biking-life-gain)
+*   [Calories burned biking](/sports/calories-burned-biking)
+*   [Chain length](/sports/chain-length)
+*   [Cycling breakaway](/sports/cycling-breakaway)
+*   [Cycling heart rate zone](/sports/cycling-hr)
+*   [Cycling wattage](/sports/cycling-wattage)
+
+Baseball calculators ⚾
+----------------------
+
+*   [Batting average](/sports/batting-average)
+*   [ERA (earned run average)](/sports/earned-run-average)
+*   [Fielding percentage](/sports/fpct)
+*   [FIP (Fielding Independent Pitching)](/sports/fip)
+*   [Magic number](/sports/magic-number)
+*   [On base percentage](/sports/on-base-percentage)
+*   [Slugging percentage](/sports/slugging-percentage)
+*   [WAR (wins above replacement)](/sports/war)
+*   [WHIP (Baseball)](/sports/whip-baseball)
+
+Calories burned calculators 🔥
+------------------------------
+
+*   [Calories burned](/sports/calories-burned)
+*   [Calories burned by heart rate](/sports/calories-burned-by-heart-rate)
+*   [Elliptical calorie](/sports/elliptical-calorie)
+*   [Jump rope calorie](/sports/jump-rope-calorie)
+*   [Stairs calorie](/sports/stairs-calorie)
+*   [Steps to calories](/sports/steps-to-calories)
+*   [Swimming calorie](/sports/swimming-calorie)
+*   [Walking calorie](/sports/walking-calorie)
+*   [Weight loss](/sports/weight-loss)
+
+Triathlon calculators 🏊🏽‍♀️🚴🏿‍♂️🏃🏻‍♀️
+-------------------------------------------
+
+*   [Average triathlon finish times](/sports/average-triathlon-finish-times)
+*   [Cycling power zones](/sports/cycling-zones)
+*   [Triathlon heart rate training zones](/sports/triathlon-target-heart-rate)
+*   [Triathlon nutrition](/sports/triathlon)
+*   [Triathlon training](/sports/triathlon-training)
+
+Other calculators
+-----------------
+
+*   [ACFT](/sports/acft)
+*   [Age-graded running](/sports/age-graded-running)
+*   [Ape index](/sports/ape-index)
+*   [Batting strike rate](/sports/batting-strike-rate)
+*   [Bench press](/sports/bench-press)
+*   [Bench press pyramid](/sports/bench-press-pyramid)
+*   [Bowling average](/sports/bowling-average)
+*   [Burpee calorie](/sports/burpee-calorie)
+*   [Cricket follow-on](/sports/cricket-follow-on)
+*   [DIN ski bindings](/sports/din-ski)
+*   [Duckworth Lewis](/sports/duckworth-lewis)
+*   [Dunk](/sports/dunk)
+*   [eFG](/sports/efg)
+*   [Elo rating](/sports/elo)
+*   [ERG](/sports/erg)
+*   [Fat burning zone](/sports/fat-burning-zone)
+*   [Fishing reel line capacity](/sports/fishing-reel-line-capacity)
+*   [Game score](/sports/game-score)
+*   [Goals against average](/sports/gaa)
+*   [Heart rate](/sports/heart-rate)
+*   [Heart rate recovery](/sports/heart-rate-recovery)
+*   [Heart rate zone](/sports/heart-rate-zone)
+*   [Heptathlon](/sports/heptathlon)
+*   [Hiking](/sports/hiking)
+*   [Hull speed](/sports/hull-speed)
+*   [Human punch force](/sports/human-punch-force)
+*   [ICC](/sports/icc)
+*   [Kiteboarding](/sports/kiteboarding)
+*   [Max heart rate](/sports/max-heart-rate)
+*   [MET minutes per week](/sports/met-minutes-per-week)
+*   [Net Run Rate](/sports/nrr)
+*   [One-rep max](/sports/one-rep-max)
+*   [Passer rating](/sports/passer-rating)
+*   [Pool table room size](/sports/pool-table-room-size)
+*   [Scuba weight](/sports/scuba-weight)
+*   [Ski size](/sports/ski-size)
+*   [Swimming time](/sports/swimming-time)
+*   [Target heart rate](/sports/target-heart-rate)
+*   [Tennis balls](/sports/tennis-balls)
+*   [TS (True Shooting Percentage)](/sports/ts)
+*   [VO2 max](/sports/vo2-max)
+*   [Wilks](/sports/wilks)
+*   [Windsurfing](/sports/windsurfing)
+*   [Winning percentage](/sports/winning-percentage)
+
+Redundant calculators
+---------------------
+
+*   [5k pace](/sports/5k-pace)
+*   [Bike Cadence](/sports/bike-cadence)
+*   [Bike Speed](/sports/bike-speed)
+*   [Half marathon pace](/sports/half-marathon-pace)
+
+Statistics
+==========
+
+Risk & probability calculators 🎲
+---------------------------------
+
+*   [Accuracy](/statistics/accuracy)
+*   [Bayes theorem](/statistics/bayes-theorem)
+*   [Birthday paradox](/statistics/birthday-paradox)
+*   [Chebyshev's theorem](/statistics/chebyshevs-theorem)
+*   [Coin flip probability](/statistics/coin-flip-probability)
+*   [Coin flip streak](/statistics/coin-flip-streak)
+*   [Combination](/statistics/combination)
+*   [Conditional probability](/statistics/conditional-probability)
+*   [Confusion matrix](/statistics/confusion-matrix)
+*   [Dice probability](/statistics/dice)
+*   [Dice roller](/statistics/dice-roller)
+*   [Expected value](/statistics/expected-value)
+*   [Lottery](/statistics/lottery)
+*   [Odds](/statistics/odds)
+*   [Permutation](/statistics/permutation)
+*   [Post test probability](/statistics/post-test-probability)
+*   [Probability](/statistics/probability)
+*   [Probability of 3 events](/statistics/probability-three-events)
+*   [Random number](/statistics/random-number)
+*   [Relative risk](/statistics/relative-risk)
+*   [Risk](/statistics/risk)
+*   [Roulette payout](/statistics/roulette-payout)
+*   [Sensitivity and specificity](/statistics/sensitivity-and-specificity)
+
+Distributions calculators 🔔
+----------------------------
+
+*   [Benford's law](/statistics/benfords-law)
+*   [Beta distribution](/statistics/beta-distribution)
+*   [Binomial distribution](/statistics/binomial-distribution)
+*   [Central limit theorem](/statistics/central-limit-theorem)
+*   [Chi-square](/statistics/chi-square)
+*   [Dot plot](/statistics/dot-plot)
+*   [Empirical rule](/statistics/empirical-rule)
+*   [Exponential distribution](/statistics/exponential-distribution)
+*   [Exponential growth prediction](/statistics/exponential-growth-prediction)
+*   [Frequency distribution](/statistics/frequency-distribution)
+*   [Geometric distribution](/statistics/geometric-distribution)
+*   [Histogram](/statistics/histogram)
+*   [Hypergeometric distribution](/statistics/hypergeometric-distribution)
+*   [Lognormal distribution](/statistics/lognormal-distribution)
+*   [Negative binomial distribution](/statistics/negative-binomial-distribution)
+*   [Normal distribution](/statistics/normal-distribution)
+*   [Normal probability for sampling distributions](/statistics/normal-probability-sampling-distributions)
+*   [Poisson distribution](/statistics/poisson-distribution)
+*   [Rayleigh distribution](/statistics/rayleigh-distribution)
+*   [Relative frequency](/statistics/relative-frequency)
+*   [Sampling distribution of the sample proportion](/statistics/sampling-distribution-sample-proportion)
+*   [SMp(x)](/statistics/smpx)
+*   [Uniform distribution](/statistics/uniform-distribution)
+*   [Weibull distribution](/statistics/weibull-distribution)
+
+Descriptive statistics calculators 📊
+-------------------------------------
+
+*   [5 number summary](/statistics/5-number-summary)
+*   [Box plot](/statistics/box-plot)
+*   [Coefficient of variation](/statistics/coefficient-of-variation)
+*   [Constant of proportionality](/statistics/constant-of-proportionality)
+*   [Correlation coefficient](/statistics/correlation)
+*   [Decile](/statistics/decile)
+*   [Descriptive statistics](/statistics/descriptive-statistics)
+*   [Dispersion](/statistics/dispersion)
+*   [Grouped data standard deviation](/statistics/grouped-data-standard-deviation)
+*   [IQR](/statistics/iqr)
+*   [Least to greatest](/statistics/least-to-greatest)
+*   [Mean absolute deviation](/statistics/mad)
+*   [Mean median mode](/statistics/mean-median-mode)
+*   [Median](/statistics/median)
+*   [Median absolute deviation](/statistics/median-absolute-deviation)
+*   [Midrange](/statistics/midrange)
+*   [Minimum and maximum](/statistics/min-max)
+*   [Mode](/statistics/mode)
+*   [MSE](/statistics/mse)
+*   [Outlier](/statistics/outlier)
+*   [Pearson correlation](/statistics/pearson-correlation)
+*   [Percentile](/statistics/percentile)
+*   [Percentile rank](/statistics/percentile-rank)
+*   [Pie chart](/statistics/pie-chart)
+*   [Population variance](/statistics/population-variance)
+*   [Process capability index](/statistics/process-capability-index)
+*   [Quartile](/statistics/quartile)
+*   [Range](/statistics/range)
+*   [Relative standard deviation](/statistics/relative-standard-deviation)
+*   [Simpson’s diversity index](/statistics/simpsons-diversity-index)
+*   [Skewness](/statistics/skewness)
+*   [Spearman's rank correlation](/statistics/spearmans-rank-correlation)
+*   [Standard deviation](/statistics/standard-deviation)
+*   [Standard error](/statistics/standard-error)
+*   [Stem and leaf plot](/statistics/stem-and-leaf-plot)
+*   [T statistic](/statistics/t-statistic)
+*   [Upper and lower fence](/statistics/upper-lower-fence)
+*   [Upper control limit](/statistics/upper-control-limit)
+*   [Variance](/statistics/variance)
+
+Inferential statistics calculators 📉
+-------------------------------------
+
+*   [AB test](/statistics/ab-test)
+*   [Coefficient of determination](/statistics/coefficient-of-determination)
+*   [Confidence interval](/statistics/confidence-interval)
+*   [Continuity correction](/statistics/continuity-correction)
+*   [Correlation coefficient (Matthews)](/statistics/matthews-correlation-coefficient)
+*   [Covariance](/statistics/covariance)
+*   [Critical value](/statistics/critical-value)
+*   [Cubic regression](/statistics/cubic-regression)
+*   [Degrees of freedom](/statistics/degrees-of-freedom)
+*   [Exponential regression](/statistics/exponential-regression)
+*   [Fisher's exact test](/statistics/fishers-exact-test)
+*   [F-statistic](/statistics/f-statistic)
+*   [Linear regression](/statistics/linear-regression)
+*   [Margin of error](/statistics/margin-of-error)
+*   [McNemar's test](/statistics/mcnemars-test)
+*   [Normal approximation](/statistics/normal-approximation)
+*   [Point estimate](/statistics/point-estimate)
+*   [Polynomial regression](/statistics/polynomial-regression)
+*   [p-value](/statistics/p-value)
+*   [Quadratic regression](/statistics/quadratic-regression)
+*   [Relative error](/statistics/relative-error)
+*   [Residual](/statistics/residual)
+*   [Sampling error](/statistics/sampling-error)
+*   [Shannon entropy](/statistics/shannon-entropy)
+*   [Standard deviation of sample mean](/statistics/standard-deviation-sample-mean)
+*   [t-test](/statistics/t-test)
+*   [U test](/statistics/u-test)
+*   [Wilcoxon rank-sum test](/statistics/wilcoxon-rank-sum-test)
+*   [Z score](/statistics/z-score)
+*   [Z-test](/statistics/z-test)
+
+Other calculators
+-----------------
+
+*   [5★ rating average](/statistics/five-star-rating)
+*   [Class width](/statistics/class-width)
+*   [Error propagation](/statistics/error-propagation)
+*   [Sample size](/statistics/sample-size)
+*   [Standard deviation index](/statistics/sdi)
+
+Redundant calculators
+---------------------
+
+*   [6 sided dice probability](/statistics/6-sided-dice-probability)
+*   [90% confidence interval](/statistics/90-confidence-interval)
+*   [95% confidence interval](/statistics/95-confidence-interval)
+*   [99% confidence interval](/statistics/99-confidence-interval)
+*   [AND Probability](/statistics/and-probability)
+*   [Combinations without repetition](/statistics/combinations-without-repetition)
+*   [Combinations with repetition](/statistics/combinations-with-repetition)
+*   [Decimal odds](/statistics/decimal-odds)
+*   [Decimal random number generator](/statistics/decimal-random-number-generator)
+*   [False positive](/statistics/false-positive)
+*   [First quartile](/statistics/first-quartile)
+*   [Fractional odds](/statistics/fractional-odds)
+*   [Moneyline odds](/statistics/moneyline-odds)
+*   [OR probability](/statistics/or-probability)
+*   [Permutation without repetition](/statistics/permutation-without-repetition)
+*   [Permutation with repetition](/statistics/permutation-with-repetition)
+*   [Pie chart angle](/statistics/pie-chart-angle)
+*   [Possible combinations](/statistics/possible-combinations)
+*   [Probability Fraction](/statistics/probability-fraction)
+*   [Quartic regression](/statistics/quartic-regression)
+*   [Sensitivity](/statistics/sensitivity)
+*   [Specificity](/statistics/specificity)
+*   [Third quartile](/statistics/third-quartile)
+*   [Two dice probability](/statistics/two-dice-probability)
+
+Other
+=====
+
+Photo and video calculators 📷
+------------------------------
+
+*   [3D render time](/other/3d-render-time)
+*   [Aspect ratio](/other/aspect-ratio)
+*   [Audio file size](/other/audio-file-size)
+*   [Bandwidth](/other/bandwidth)
+*   [Blink-free photos](/other/blink-free-photos)
+*   [Camera field of view](/other/camera-field-of-view)
+*   [Crop factor](/other/crop-factor)
+*   [Depth of field](/other/depth-of-field)
+*   [Exposure](/other/exposure)
+*   [Film](/other/film)
+*   [Focal length](/other/focal-length)
+*   [Frames to timecode](/other/frames-to-timecode)
+*   [Hyperfocal distance](/other/hyperfocal-distance)
+*   [Image file size](/other/image-file-size)
+*   [Image ratio](/other/image-ratio)
+*   [Lens magnification](/other/lens-magnification)
+*   [Pixels to print size](/other/pixels-to-print-size)
+*   [PPI](/other/pixels-per-inch)
+*   [Projector](/other/projector)
+*   [Resolution scale](/other/resolution-scale)
+*   [Screen size](/other/screen-size)
+*   [Shutter speed](/other/shutter-speed)
+*   [Streaming bitrate](/other/streaming-bitrate)
+*   [Timecode to frames](/other/timecode-to-frame)
+*   [Time lapse](/other/time-lapse)
+*   [TV mounting height](/other/tv-mounting-height)
+*   [TV size and distance](/other/tv-size-distance)
+*   [Video file size (by format)](/other/video-size)
+*   [Video frame size](/other/video-frame-size)
+
+Tech and electronics calculators 💻
+-----------------------------------
+
+*   [3D printing cost](/other/3d-printing)
+*   [Amdahl's law](/other/amdahls-law)
+*   [Battery capacity](/other/battery-capacity)
+*   [Battery life](/other/battery-life)
+*   [Battery size](/other/battery-size)
+*   [Baud rate](/other/baud-rate)
+*   [Cable impedance](/other/cable-impedance)
+*   [Chmod](/other/chmod)
+*   [Crosstalk](/other/crosstalk)
+*   [Data transfer](/other/data-transfer)
+*   [Download time](/other/download-time)
+*   [Drone flight time](/other/drone-flight-time)
+*   [Drone motor](/other/drone-motor)
+*   [Duty cycle](/other/duty-cycle)
+*   [eDPI](/other/edpi)
+*   [Hamming code](/other/hamming-code)
+*   [Hamming distance](/other/hamming-distance)
+*   [Impedance matching](/other/impedance-matching)
+*   [IP subnet](/other/ip-subnet)
+*   [LM317](/other/lm317)
+*   [Logic gate](/other/logic-gate)
+*   [Op-amp gain](/other/op-amp-gain)
+*   [Parity bit](/other/parity-bit)
+*   [Password entropy](/other/password-entropy)
+*   [PCB Impedance](/other/pcb-impedance)
+*   [PCB Trace Current](/other/pcb-trace-current)
+*   [PCB Trace Resistance](/other/pcb-trace-resistance)
+*   [PCB Trace Width](/other/pcb-trace-width)
+*   [Pi attenuator](/other/pi-attenuator)
+*   [Propagation delay](/other/propagation-delay)
+*   [RAID](/other/raid)
+*   [RF unit converter](/other/rf-unit-converter)
+*   [Total harmonic distortion](/other/total-harmonic-distortion)
+*   [Uptime](/other/uptime)
+
+Education calculators 🎓
+------------------------
+
+*   [Classroom spacing](/other/classroom-spacing)
+*   [College GPA](/other/college-gpa)
+*   [Final grade](/other/final-grade)
+*   [GPA](/other/gpa)
+*   [Grade](/other/grade)
+*   [High school GPA](/other/high-school-gpa)
+*   [Impact factor](/other/impact-factor)
+*   [Semester grade](/other/semester-grade)
+*   [Test grade](/other/test-grade)
+
+Music calculators 🎵
+--------------------
+
+*   [BPM](/other/bpm)
+*   [Chord](/other/chord)
+*   [Chord finder](/other/chord-finder)
+*   [Chord progression](/other/chord-progression)
+*   [Delay and reverb](/other/delay-reverb-times)
+*   [Fret](/other/fret)
+*   [Guitar string tension](/other/guitar-string-tension)
+*   [Harmonic series](/other/harmonic-series)
+*   [Key signature](/other/key-signature)
+*   [Music duration](/other/music-duration)
+*   [Music interval](/other/music-interval)
+*   [Music scale](/other/music-scale)
+*   [Music transposition](/other/music-transposer)
+*   [Note frequency](/other/note-frequency)
+*   [Port length](/other/port-length)
+*   [Semitone](/other/semitone)
+*   [Speaker box](/other/speaker-box)
+*   [Vocal range](/other/vocal-range)
+
+Logistics calculators 🚚
+------------------------
+
+*   [CBM for shipping](/other/cbm-shipping)
+*   [Dimensional weight](/other/dimensional-weight)
+*   [DPMO](/other/dpmo)
+*   [Freight class](/other/freight-class)
+*   [Reorder point](/other/reorder-point)
+*   [Takt time](/other/takt-time)
+
+Video games calculators 🎮
+--------------------------
+
+*   [Among Us](/other/among-us)
+*   [KD (kill-to-death ratio)](/other/kd)
+*   [Minecraft circle](/other/minecraft-circle)
+*   [Minecraft end portal finder](/other/end-portal-finder)
+*   [Minecraft stack](/other/minecraft-stack)
+*   [Nether portal](/other/nether-portal)
+*   [Pokemon Go Candy](/other/pokemon-go-candy)
+*   [Pyramid block](/other/pyramid-block)
+*   [The Witcher: Monster Slayer](/other/witcher-monster-slayer)
+
+Seasons and holidays calculators 🎃
+-----------------------------------
+
+*   [Christmas tree](/other/christmas-tree)
+*   [Days until Christmas](/other/days-until-christmas)
+*   [Humans vs vampires](/other/humans-vs-vampires)
+*   [Mayan calendar](/other/mayan-calendar)
+*   [New Year's resolutions](/other/resolutions-new-year)
+*   [Snowman](/other/snowman)
+*   [Trick-or-treat](/other/trick-or-treat)
+*   [White christmas](/other/white-christmas)
+*   [Zombie invasion](/other/zombie-invasion)
+
+Other calculators
+-----------------
+
+*   [Age on other planets](/other/age-on-other-planets)
+*   [Angle of impact](/other/angle-of-impact)
+*   [Antipode](/other/antipode)
+*   [Aquarium](/other/aquarium-volume)
+*   [Aquarium glass thickness](/other/aquarium-glass-thickness)
+*   [Azimuth](/other/azimuth)
+*   [Day of the week](/other/weekday)
+*   [Diamond Weight](/other/diamond-weight)
+*   [Earthquake](/other/earthquake)
+*   [Engagement rate](/other/engagement-rate)
+*   [Flag](/other/flag)
+*   [Gender pay gap](/other/gender-wage-gap)
+*   [Latitude longitude distance](/other/latitude-longitude-distance)
+*   [NaNoWriMo](/other/nanowrimo)
+*   [Pay Gap US](/other/pay-gap-us)
+*   [PERT](/other/pert)
+*   [Pizza tip](/other/pizza-tip)
+*   [Point buy](/other/point-buy)
+*   [Rainfall volume](/other/rainfall-volume)
+*   [Rain to snow](/other/rain-to-snow)
+*   [Salt Dough](/other/salt-dough)
+*   [Sandbox](/other/sandbox)
+*   [Secretary problem (Valentine's day)](/other/dating-theory)
+*   [Streaming royalties](/other/streaming-royalties)
+*   [Sunbathing](/other/sunscreen)
+*   [Tip](/other/tip)
+*   [Tip from net price](/other/tip-from-net-price)
+*   [Vertical exaggeration](/other/vertical-exaggeration)
+*   [Wind chill](/other/wind-chill)
+
+Redundant calculators
+---------------------
+
+*   [16:10 aspect ratio](/other/16-10-aspect-ratio)
+*   [16:9 aspect ratio](/other/16-9-aspect-ratio)
+*   [4:3 aspect ratio](/other/4-3-aspect-ratio)
+*   [CSS aspect ratio](/other/css-aspect-ratio)
+*   [Parity](/other/parity)
+*   [Pixel aspect ratio](/other/pixel-aspect-ratio)
+*   [Portrait aspect ratio](/other/portrait-aspect-ratio)
+*   [Screen ratio](/other/screen-ratio)
