@@ -113,7 +113,7 @@
 
 - [ROI Calculator](/roi-calculator.html)
 
-[- APR Calculator](/apr-calculator.html)
+- [APR Calculator](/apr-calculator.html)
 
 - [FHA Loan Calculator](/fha-loan-calculator.html)
 
