@@ -141,7 +141,8 @@
 
  
 
-### - Fitness and Health Calculators
+### Fitness and Health Calculators
+
 - [BMI Calculator](/bmi-calculator.html)
 
 - [Calorie Calculator](/calorie-calculator.html)
