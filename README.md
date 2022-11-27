@@ -1,393 +1,392 @@
 
-### [Financial Calculators](/financial-calculator.html)
+### Financial Calculators
 
-[Mortgage Calculator](/mortgage-calculator.html)
+- [Mortgage Calculator](/mortgage-calculator.html)
 
-[Loan Calculator](/loan-calculator.html)
+- [Loan Calculator](/loan-calculator.html)
 
-[Auto Loan Calculator](/auto-loan-calculator.html)
+- [Auto Loan Calculator](/auto-loan-calculator.html)
 
-[Interest Calculator](/interest-calculator.html)
+- [Interest Calculator](/interest-calculator.html)
 
-[Payment Calculator](/payment-calculator.html)
+- [Payment Calculator](/payment-calculator.html)
 
-[Retirement Calculator](/retirement-calculator.html)
+- [Retirement Calculator](/retirement-calculator.html)
 
-[Amortization Calculator](/amortization-calculator.html)
+- [Amortization Calculator](/amortization-calculator.html)
 
-[Investment Calculator](/investment-calculator.html)
+- [Investment Calculator](/investment-calculator.html)
 
-[Currency Calculator](/currency-calculator.html)
+- [Currency Calculator](/currency-calculator.html)
 
-[Inflation Calculator](/inflation-calculator.html)
+- [Inflation Calculator](/inflation-calculator.html)
 
-[Finance Calculator](/finance-calculator.html)
+- [Finance Calculator](/finance-calculator.html)
 
-[Mortgage Payoff Calculator](/mortgage-payoff-calculator.html)
+- [Mortgage Payoff Calculator](/mortgage-payoff-calculator.html)
 
-[Income Tax Calculator](/tax-calculator.html)
+- [Income Tax Calculator](/tax-calculator.html)
 
-[Compound Interest Calculator](/compound-interest-calculator.html)
+- [Compound Interest Calculator](/compound-interest-calculator.html)
 
-[Salary Calculator](/salary-calculator.html)
+- [Salary Calculator](/salary-calculator.html)
 
-[401K Calculator](/401k-calculator.html)
+- [401K Calculator](/401k-calculator.html)
 
-[Interest Rate Calculator](/interest-rate-calculator.html)
+- [Interest Rate Calculator](/interest-rate-calculator.html)
 
-[Sales Tax Calculator](/sales-tax-calculator.html)
+- [Sales Tax Calculator](/sales-tax-calculator.html)
 
-[House Affordability Calculator](/house-affordability-calculator.html)
+- [House Affordability Calculator](/house-affordability-calculator.html)
 
-[Savings Calculator](/savings-calculator.html)
+- [Savings Calculator](/savings-calculator.html)
 
-[Rent Calculator](/rent-calculator.html)
+- [Rent Calculator](/rent-calculator.html)
 
-[Marriage Tax Calculator](/marriage-calculator.html)
+- [Marriage Tax Calculator](/marriage-calculator.html)
 
-[Estate Tax Calculator](/estate-tax-calculator.html)
+- [Estate Tax Calculator](/estate-tax-calculator.html)
 
-[Pension Calculator](/pension-calculator.html)
+- [Pension Calculator](/pension-calculator.html)
 
-[Social Security Calculator](/social-security-calculator.html)
+- [Social Security Calculator](/social-security-calculator.html)
 
-[Annuity Calculator](/annuity-calculator.html)
+- [Annuity Calculator](/annuity-calculator.html)
 
-[Annuity Payout Calculator](/annuity-payout-calculator.html)
+- [Annuity Payout Calculator](/annuity-payout-calculator.html)
 
-[Credit Card Calculator](/credit-card-calculator.html)
+- [Credit Card Calculator](/credit-card-calculator.html)
 
-[Credit Cards Payoff Calculator](/credit-card-payoff-calculator.html)
+- [Credit Cards Payoff Calculator](/credit-card-payoff-calculator.html)
 
-[Debt Payoff Calculator](/debt-payoff-calculator.html)
+- [Debt Payoff Calculator](/debt-payoff-calculator.html)
 
-[Debt Consolidation Calculator](/debt-consolidation-calculator.html)
+- [Debt Consolidation Calculator](/debt-consolidation-calculator.html)
 
-[Repayment Calculator](/repayment-calculator.html)
+- [Repayment Calculator](/repayment-calculator.html)
 
-[Student Loan Calculator](/student-loan-calculator.html)
+- [Student Loan Calculator](/student-loan-calculator.html)
 
-[College Cost Calculator](/college-cost-calculator.html)
+- [College Cost Calculator](/college-cost-calculator.html)
 
-[Simple Interest Calculator](/simple-interest-calculator.html)
+- [Simple Interest Calculator](/simple-interest-calculator.html)
 
-[CD Calculator](/cd-calculator.html)
+- [CD Calculator](/cd-calculator.html)
 
-[Roth IRA Calculator](/roth-ira-calculator.html)
+- [Roth IRA Calculator](/roth-ira-calculator.html)
 
-[IRA Calculator](/ira-calculator.html)
+- [IRA Calculator](/ira-calculator.html)
 
-[RMD Calculator](/rmd-calculator.html)
+- [RMD Calculator](/rmd-calculator.html)
 
-[VAT Calculator](/vat-calculator.html)
+- [VAT Calculator](/vat-calculator.html)
 
-[Cash Back or Low Interest Calculator](/cash-back-or-low-interest-calculator.html)
+- [Cash Back or Low Interest Calculator](/cash-back-or-low-interest-calculator.html)
 
-[Auto Lease Calculator](/auto-lease-calculator.html)
+- [Auto Lease Calculator](/auto-lease-calculator.html)
 
-[Depreciation Calculator](/depreciation-calculator.html)
+- [Depreciation Calculator](/depreciation-calculator.html)
 
-[Average Return Calculator](/average-return-calculator.html)
+- [Average Return Calculator](/average-return-calculator.html)
 
-[Margin Calculator](/margin-calculator.html)
+- [Margin Calculator](/margin-calculator.html)
 
-[Discount Calculator](/discount-calculator.html)
+- [Discount Calculator](/discount-calculator.html)
 
-[Business Loan Calculator](/business-loan-calculator.html)
+- [Business Loan Calculator](/business-loan-calculator.html)
 
-[Debt-to-Income Ratio Calculator](/debt-ratio-calculator.html)
+- [Debt-to-Income Ratio Calculator](/debt-ratio-calculator.html)
 
-[Real Estate Calculator](/real-estate-calculator.html)
+- [Real Estate Calculator](/real-estate-calculator.html)
 
-[Take-Home-Paycheck Calculator](/take-home-pay-calculator.html)
+- [Take-Home-Paycheck Calculator](/take-home-pay-calculator.html)
 
-[Personal Loan Calculator](/personal-loan-calculator.html)
+- [Personal Loan Calculator](/personal-loan-calculator.html)
 
-[Lease Calculator](/lease-calculator.html)
+- [Lease Calculator](/lease-calculator.html)
 
-[Refinance Calculator](/refinance-calculator.html)
+- [Refinance Calculator](/refinance-calculator.html)
 
-[Budget Calculator](/budget-calculator.html)
+- [Budget Calculator](/budget-calculator.html)
 
-[Rental Property Calculator](/rental-property-calculator.html)
+- [Rental Property Calculator](/rental-property-calculator.html)
 
-[ROI Calculator](/roi-calculator.html)
+- [ROI Calculator](/roi-calculator.html)
 
-[APR Calculator](/apr-calculator.html)
+[- APR Calculator](/apr-calculator.html)
 
-[FHA Loan Calculator](/fha-loan-calculator.html)
+- [FHA Loan Calculator](/fha-loan-calculator.html)
 
-[VA Mortgage Calculator](/va-mortgage-calculator.html)
+- [VA Mortgage Calculator](/va-mortgage-calculator.html)
 
-[Down Payment Calculator](/down-payment-calculator.html)
+- [Down Payment Calculator](/down-payment-calculator.html)
 
-[Rent vs. Buy Calculator](/rent-vs-buy-calculator.html)
+- [Rent vs. Buy Calculator](/rent-vs-buy-calculator.html)
 
-[Payback Period Calculator](/payback-period-calculator.html)
+- [Payback Period Calculator](/payback-period-calculator.html)
 
-[Present Value Calculator](/present-value-calculator.html)
+- [Present Value Calculator](/present-value-calculator.html)
 
-[Future Value Calculator](/future-value-calculator.html)
+- [Future Value Calculator](/future-value-calculator.html)
 
-[Commission Calculator](/commission-calculator.html)
+- [Commission Calculator](/commission-calculator.html)
 
-[Mortgage Calculator UK](/mortgage-calculator-uk.html)
+- [Mortgage Calculator UK](/mortgage-calculator-uk.html)
 
-[Canadian Mortgage Calculator](/canadian-mortgage-calculator.html)
+- [Canadian Mortgage Calculator](/canadian-mortgage-calculator.html)
 
-[Mortgage Amortization Calculator](/mortgage-amortization-calculator.html)
+- [Mortgage Amortization Calculator](/mortgage-amortization-calculator.html)
 
-[Percent Off Calculator](/percent-off-calculator.html)
+- [Percent Off Calculator](/percent-off-calculator.html)
 
  
 
-### [Fitness and Health Calculators](/fitness-and-health-calculator.html)
+### - Fitness and Health Calculators
+- [BMI Calculator](/bmi-calculator.html)
 
-[BMI Calculator](/bmi-calculator.html)
+- [Calorie Calculator](/calorie-calculator.html)
 
-[Calorie Calculator](/calorie-calculator.html)
+- [Body Fat Calculator](/body-fat-calculator.html)
 
-[Body Fat Calculator](/body-fat-calculator.html)
+- [BMR Calculator](/bmr-calculator.html)
 
-[BMR Calculator](/bmr-calculator.html)
+- [Macro Calculator](/macro-calculator.html)
 
-[Macro Calculator](/macro-calculator.html)
+- [Ideal Weight Calculator](/ideal-weight-calculator.html)
 
-[Ideal Weight Calculator](/ideal-weight-calculator.html)
+- [Pregnancy Calculator](/pregnancy-calculator.html)
 
-[Pregnancy Calculator](/pregnancy-calculator.html)
+- [Pregnancy Weight Gain Calculator](/pregnancy-weight-gain-calculator.html)
 
-[Pregnancy Weight Gain Calculator](/pregnancy-weight-gain-calculator.html)
+- [Pregnancy Conception Calculator](/pregnancy-conception-calculator.html)
 
-[Pregnancy Conception Calculator](/pregnancy-conception-calculator.html)
+- [Due Date Calculator](/due-date-calculator.html)
 
-[Due Date Calculator](/due-date-calculator.html)
+- [Pace Calculator](/pace-calculator.html)
 
-[Pace Calculator](/pace-calculator.html)
+- [Army Body Fat Calculator](/army-body-fat-calculator.html)
 
-[Army Body Fat Calculator](/army-body-fat-calculator.html)
+- [Weight Watcher Points Calculator](/weight-watchers-points-calculator.html)
 
-[Weight Watcher Points Calculator](/weight-watchers-points-calculator.html)
+- [Carbohydrate Calculator](/carbohydrate-calculator.html)
 
-[Carbohydrate Calculator](/carbohydrate-calculator.html)
+- [Lean Body Mass Calculator](/lean-body-mass-calculator.html)
 
-[Lean Body Mass Calculator](/lean-body-mass-calculator.html)
+- [Healthy Weight Calculator](/healthy-weight-calculator.html)
 
-[Healthy Weight Calculator](/healthy-weight-calculator.html)
+- [Calories Burned Calculator](/calories-burned-calculator.html)
 
-[Calories Burned Calculator](/calories-burned-calculator.html)
+- [Protein Calculator](/protein-calculator.html)
 
-[Protein Calculator](/protein-calculator.html)
+- [Fat Intake Calculator](/fat-intake-calculator.html)
 
-[Fat Intake Calculator](/fat-intake-calculator.html)
+- [TDEE Calculator](/tdee-calculator.html)
 
-[TDEE Calculator](/tdee-calculator.html)
+- [Ovulation Calculator](/ovulation-calculator.html)
 
-[Ovulation Calculator](/ovulation-calculator.html)
+- [Conception Calculator](/conception-calculator.html)
 
-[Conception Calculator](/conception-calculator.html)
+- [Period Calculator](/period-calculator.html)
 
-[Period Calculator](/period-calculator.html)
+- [GFR Calculator](/gfr-calculator.html)
 
-[GFR Calculator](/gfr-calculator.html)
+- [Body Type Calculator](/body-type-calculator.html)
 
-[Body Type Calculator](/body-type-calculator.html)
+- [Body Surface Area Calculator](/body-surface-area-calculator.html)
 
-[Body Surface Area Calculator](/body-surface-area-calculator.html)
+- [BAC Calculator](/bac-calculator.html)
 
-[BAC Calculator](/bac-calculator.html)
+- [Anorexic BMI Calculator](/anorexic-bmi-calculator.html)
 
-[Anorexic BMI Calculator](/anorexic-bmi-calculator.html)
-
-[Overweight Calculator](/overweight-calculator.html)
+- [Overweight Calculator](/overweight-calculator.html)
 
  
 
-### [Math Calculators](/math-calculator.html)
+### Math Calculators
 
-[Scientific Calculator](/scientific-calculator.html)
+- [Scientific Calculator](/scientific-calculator.html)
 
-[Fraction Calculator](/fraction-calculator.html)
+- [Fraction Calculator](/fraction-calculator.html)
 
-[Percentage Calculator](/percent-calculator.html)
+- [Percentage Calculator](/percent-calculator.html)
 
-[Triangle Calculator](/triangle-calculator.html)
+- [Triangle Calculator](/triangle-calculator.html)
 
-[Volume Calculator](/volume-calculator.html)
+- [Volume Calculator](/volume-calculator.html)
 
-[Standard Deviation Calculator](/standard-deviation-calculator.html)
+- [Standard Deviation Calculator](/standard-deviation-calculator.html)
 
-[Random Number Generator](/random-number-generator.html)
+- [Random Number Generator](/random-number-generator.html)
 
-[Number Sequence Calculator](/number-sequence-calculator.html)
+- [Number Sequence Calculator](/number-sequence-calculator.html)
 
-[Percent Error Calculator](/percent-error-calculator.html)
+- [Percent Error Calculator](/percent-error-calculator.html)
 
-[Exponent Calculator](/exponent-calculator.html)
+- [Exponent Calculator](/exponent-calculator.html)
 
-[Binary Calculator](/binary-calculator.html)
+- [Binary Calculator](/binary-calculator.html)
 
-[Hex Calculator](/hex-calculator.html)
+- [Hex Calculator](/hex-calculator.html)
 
-[Half-Life Calculator](/half-life-calculator.html)
+- [Half-Life Calculator](/half-life-calculator.html)
 
-[Quadratic Formula Calculator](/quadratic-formula-calculator.html)
+- [Quadratic Formula Calculator](/quadratic-formula-calculator.html)
 
-[Slope Calculator](/slope-calculator.html)
+- [Slope Calculator](/slope-calculator.html)
 
-[Log Calculator](/log-calculator.html)
+- [Log Calculator](/log-calculator.html)
 
-[Area Calculator](/area-calculator.html)
+- [Area Calculator](/area-calculator.html)
 
-[Sample Size Calculator](/sample-size-calculator.html)
+- [Sample Size Calculator](/sample-size-calculator.html)
 
-[Probability Calculator](/probability-calculator.html)
+- [Probability Calculator](/probability-calculator.html)
 
-[Statistics Calculator](/statistics-calculator.html)
+- [Statistics Calculator](/statistics-calculator.html)
 
-[Mean, Median, Mode, Range Calculator](/mean-median-mode-range-calculator.html)
+- [Mean, Median, Mode, Range Calculator](/mean-median-mode-range-calculator.html)
 
-[Permutation and Combination Calculator](/permutation-and-combination-calculator.html)
+- [Permutation and Combination Calculator](/permutation-and-combination-calculator.html)
 
-[Z-score Calculator](/z-score-calculator.html)
+- [Z-score Calculator](/z-score-calculator.html)
 
-[Confidence Interval Calculator](/confidence-interval-calculator.html)
+- [Confidence Interval Calculator](/confidence-interval-calculator.html)
 
-[Ratio Calculator](/ratio-calculator.html)
+- [Ratio Calculator](/ratio-calculator.html)
 
-[Distance Calculator](/distance-calculator.html)
+- [Distance Calculator](/distance-calculator.html)
 
-[Circle Calculator](/circle-calculator.html)
+- [Circle Calculator](/circle-calculator.html)
 
-[Surface Area Calculator](/surface-area-calculator.html)
+- [Surface Area Calculator](/surface-area-calculator.html)
 
-[Pythagorean Theorem Calculator](/pythagorean-theorem-calculator.html)
+- [Pythagorean Theorem Calculator](/pythagorean-theorem-calculator.html)
 
-[Right Triangle Calculator](/right-triangle-calculator.html)
+- [Right Triangle Calculator](/right-triangle-calculator.html)
 
-[Root Calculator](/root-calculator.html)
+- [Root Calculator](/root-calculator.html)
 
-[Least Common Multiple Calculator](/lcm-calculator.html)
+- [Least Common Multiple Calculator](/lcm-calculator.html)
 
-[Greatest Common Factor Calculator](/gcf-calculator.html)
+- [Greatest Common Factor Calculator](/gcf-calculator.html)
 
-[Factor Calculator](/factor-calculator.html)
+- [Factor Calculator](/factor-calculator.html)
 
-[Rounding Calculator](/rounding-calculator.html)
+- [Rounding Calculator](/rounding-calculator.html)
 
-[Matrix Calculator](/matrix-calculator.html)
+- [Matrix Calculator](/matrix-calculator.html)
 
-[Scientific Notation Calculator](/scientific-notation-calculator.html)
+- [Scientific Notation Calculator](/scientific-notation-calculator.html)
 
-[Big Number Calculator](/big-number-calculator.html)
+- [Big Number Calculator](/big-number-calculator.html)
 
-[Prime Factorization Calculator](/prime-factorization-calculator.html)
+- [Prime Factorization Calculator](/prime-factorization-calculator.html)
 
-[Common Factor Calculator](/common-factor-calculator.html)
+- [Common Factor Calculator](/common-factor-calculator.html)
 
-[Basic Calculator](/basic-calculator.html)
+- [Basic Calculator](/basic-calculator.html)
 
-[Long Division Calculator](/long-division-calculator.html)
+- [Long Division Calculator](/long-division-calculator.html)
 
-[Average Calculator](/average-calculator.html)
+- [Average Calculator](/average-calculator.html)
 
-[P-value Calculator](/p-value-calculator.html)
+- [P-value Calculator](/p-value-calculator.html)
 
-### [Other Calculators](/other-calculator.html)
+### Other Calculators
 
-[Age Calculator](/age-calculator.html)
+- [Age Calculator](/age-calculator.html)
 
-[Date Calculator](/date-calculator.html)
+- [Date Calculator](/date-calculator.html)
 
-[Time Calculator](/time-calculator.html)
+- [Time Calculator](/time-calculator.html)
 
-[Hours Calculator](/hours-calculator.html)
+- [Hours Calculator](/hours-calculator.html)
 
-[GPA Calculator](/gpa-calculator.html)
+- [GPA Calculator](/gpa-calculator.html)
 
-[Grade Calculator](/grade-calculator.html)
+- [Grade Calculator](/grade-calculator.html)
 
-[Height Calculator](/height-calculator.html)
+- [Height Calculator](/height-calculator.html)
 
-[Concrete Calculator](/concrete-calculator.html)
+- [Concrete Calculator](/concrete-calculator.html)
 
-[IP Subnet Calculator](/ip-subnet-calculator.html)
+- [IP Subnet Calculator](/ip-subnet-calculator.html)
 
-[Bra Size Calculator](/bra-size-calculator.html)
+- [Bra Size Calculator](/bra-size-calculator.html)
 
-[Password Generator](/password-generator.html)
+- [Password Generator](/password-generator.html)
 
-[Dice Roller](/dice-roller.html)
+- [Dice Roller](/dice-roller.html)
 
-[Conversion Calculator](/conversion-calculator.html)
+- [Conversion Calculator](/conversion-calculator.html)
 
-[Fuel Cost Calculator](/fuel-cost-calculator.html)
+- [Fuel Cost Calculator](/fuel-cost-calculator.html)
 
-[Voltage Drop Calculator](/voltage-drop-calculator.html)
+- [Voltage Drop Calculator](/voltage-drop-calculator.html)
 
-[BTU Calculator](/btu-calculator.html)
+- [BTU Calculator](/btu-calculator.html)
 
-[Square Footage Calculator](/square-footage-calculator.html)
+- [Square Footage Calculator](/square-footage-calculator.html)
 
-[Time Card Calculator](/time-card-calculator.html)
+- [Time Card Calculator](/time-card-calculator.html)
 
-[Time Zone Calculator](/time-zone-calculator.html)
+- [Time Zone Calculator](/time-zone-calculator.html)
 
-[Love Calculator](/love-calculator.html)
+- [Love Calculator](/love-calculator.html)
 
-[GDP Calculator](/gdp-calculator.html)
+- [GDP Calculator](/gdp-calculator.html)
 
-[Gas Mileage Calculator](/gas-mileage-calculator.html)
+- [Gas Mileage Calculator](/gas-mileage-calculator.html)
 
-[Horsepower Calculator](/horsepower-calculator.html)
+- [Horsepower Calculator](/horsepower-calculator.html)
 
-[Engine Horsepower Calculator](/engine-horsepower-calculator.html)
+- [Engine Horsepower Calculator](/engine-horsepower-calculator.html)
 
-[Stair Calculator](/stair-calculator.html)
+- [Stair Calculator](/stair-calculator.html)
 
-[Resistor Calculator](/resistor-calculator.html)
+- [Resistor Calculator](/resistor-calculator.html)
 
-[Ohms Law Calculator](/ohms-law-calculator.html)
+- [Ohms Law Calculator](/ohms-law-calculator.html)
 
-[Electricity Calculator](/electricity-calculator.html)
+- [Electricity Calculator](/electricity-calculator.html)
 
-[Tip Calculator](/tip-calculator.html)
+- [Tip Calculator](/tip-calculator.html)
 
-[Mileage Calculator](/mileage-calculator.html)
+- [Mileage Calculator](/mileage-calculator.html)
 
-[Density Calculator](/density-calculator.html)
+- [Density Calculator](/density-calculator.html)
 
-[Mass Calculator](/mass-calculator.html)
+- [Mass Calculator](/mass-calculator.html)
 
-[Weight Calculator](/weight-calculator.html)
+- [Weight Calculator](/weight-calculator.html)
 
-[Golf Handicap Calculator](/golf-handicap-calculator.html)
+- [Golf Handicap Calculator](/golf-handicap-calculator.html)
 
-[Sleep Calculator](/sleep-calculator.html)
+- [Sleep Calculator](/sleep-calculator.html)
 
-[Tire Size Calculator](/tire-size-calculator.html)
+- [Tire Size Calculator](/tire-size-calculator.html)
 
-[Roofing Calculator](/roofing-calculator.html)
+- [Roofing Calculator](/roofing-calculator.html)
 
-[Tile Calculator](/tile-calculator.html)
+- [Tile Calculator](/tile-calculator.html)
 
-[Mulch Calculator](/mulch-calculator.html)
+- [Mulch Calculator](/mulch-calculator.html)
 
-[Gravel Calculator](/gravel-calculator.html)
+- [Gravel Calculator](/gravel-calculator.html)
 
-[Wind Chill Calculator](/wind-chill-calculator.html)
+- [Wind Chill Calculator](/wind-chill-calculator.html)
 
-[Heat Index Calculator](/heat-index-calculator.html)
+- [Heat Index Calculator](/heat-index-calculator.html)
 
-[Dew Point Calculator](/dew-point-calculator.html)
+- [Dew Point Calculator](/dew-point-calculator.html)
 
-[Bandwidth Calculator](/bandwidth-calculator.html)
+- [Bandwidth Calculator](/bandwidth-calculator.html)
 
-[Time Duration Calculator](/time-duration-calculator.html)
+- [Time Duration Calculator](/time-duration-calculator.html)
 
-[Day Counter](/day-counter.html)
+- [Day Counter](/day-counter.html)
 
-[Day of the Week Calculator](/day-of-the-week-calculator.html)
+- [Day of the Week Calculator](/day-of-the-week-calculator.html)
 
 Biology
 =======
